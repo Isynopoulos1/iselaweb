@@ -55,7 +55,10 @@ module.exports = {
   // ALIAS -- CONFIGURE THEN BY ADDING THEN TO THIS LIST
   resolve: {
     alias: {
-      "@components": path.resolve(__dirname, "../src/components"),
+      "@elements": path.resolve(__dirname, "../src/components/elements"),
+      "@layout": path.resolve(__dirname, "../src/components/layout"),
+      "@styles": path.resolve(__dirname, "../src/styles"),
+      "@assets": path.resolve(__dirname, "../src/assets"),
     },
     extensions: ["", ".js", ".json"],
   },
