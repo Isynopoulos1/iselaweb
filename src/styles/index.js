@@ -13,3 +13,7 @@ export const sizes = {
   lg: "30px",
   xl: "34px",
 };
+
+export const fonts = {
+  font1: " Roboto Flex , sans-serif",
+};
