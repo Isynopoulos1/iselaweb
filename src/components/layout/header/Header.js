@@ -4,13 +4,14 @@ import React from "react";
 import { HeaderContainer } from "./Header.styles";
 
 //IMPORT COMPONENTS
-import Logo from "@assets/icons/isela-logo";
+
+import LogoDesktop from "@elements/logo/LogoDesktop";
 import Menu from "@elements/menu/Menu";
 
 const Header = () => {
   return (
     <HeaderContainer>
-      <Logo color="black" width="150px" />
+      <LogoDesktop color="black" width="150px" />
       <Menu color="black" width="150px" />
     </HeaderContainer>
   );

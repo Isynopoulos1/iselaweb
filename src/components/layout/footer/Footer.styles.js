@@ -17,6 +17,7 @@ export const FooterContainer = styled.footer`
   width: 100%;
   height: 10px;
   margin-top: 100px;
+  margin-bottom: 50px;
 `;
 
 export const Copyright = styled.div`
@@ -24,5 +25,5 @@ export const Copyright = styled.div`
   font-size: ${sizes.xs};
   color: ${colors.black};
   font-family: "Roboto Flex", sans-serif;
-  font-weight: 400;
+  font-weight: 200;
 `;

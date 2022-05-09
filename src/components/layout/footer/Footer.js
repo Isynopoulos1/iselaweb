@@ -10,7 +10,9 @@ const Footer = () => {
   return (
     <FooterContainer>
       <Social />
-      <Copyright>Copyright</Copyright>
+      <Copyright>
+        Copyright 2022 IselAlarcón © | Todos los derechos reservados
+      </Copyright>
     </FooterContainer>
   );
 };
