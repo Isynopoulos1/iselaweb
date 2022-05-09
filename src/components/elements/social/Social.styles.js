@@ -1,9 +1,11 @@
 import styled from "styled-components";
 
 export const SocialContainer = styled.div`
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 500px;
   height: 200px;
-  border: 1px solid white;
-  font-family: "Roboto Flex", sans-serif;
-  font-weight: 200;
+  grid-gap: 3rem;
+  cursor: pointer;
 `;

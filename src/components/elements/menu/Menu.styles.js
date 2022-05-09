@@ -10,6 +10,6 @@ export const MenuWrapper = styled.div`
   outline: none;
   cursor: pointer;
   & .hamburger-react > * {
-    height: 2px !important;
+    height: 1.5px !important;
   }
 `;
