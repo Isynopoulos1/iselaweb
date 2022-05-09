@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
-import { colors } from "@styles";
-import { sizes } from "@styles";
+import { colors, sizes } from "@styles";
 
 export const Footer = styled.footer`
   display: flex;

@@ -1,14 +1,15 @@
 import styled from "styled-components";
+import { colors, sizes } from "@styles";
 
-export const Header = styled.header`
-  display: flex;
-  width: 100%;
-  align-items: center;
-`;
 export const HeaderContainer = styled.header`
+  width: calc(100% - 100px);
   display: flex;
+  position: fixed;
+  top: 0;
   align-items: center;
-  padding: 20px 50px 20px 50px;
+  padding: 20px 50px;
   justify-content: space-between;
   font-size: 20px;
+
+  background-color: white;
 `;

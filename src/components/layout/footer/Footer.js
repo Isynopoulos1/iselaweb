@@ -11,7 +11,7 @@ const Footer = () => {
     <FooterContainer>
       <Social />
       <Copyright>
-        Copyright 2022 IselAlarcón © | Todos los derechos reservados
+        Copyright 2022 IselAlarcón© | Todos los derechos reservados
       </Copyright>
     </FooterContainer>
   );
