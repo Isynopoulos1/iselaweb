@@ -10,17 +10,17 @@ export const Footer = styled.footer`
 
 export const FooterContainer = styled.footer`
   display: flex;
+  position: absolute;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 10px;
-  margin-top: 100px;
-  margin-bottom: 50px;
+  height: 150px;
+  background-color: ${colors.white};
+  bottom: 0;
 `;
 
 export const Copyright = styled.div`
-  margin-top: 50px;
   font-size: ${sizes.xs};
   color: ${colors.black};
   font-family: "Roboto Flex", sans-serif;

@@ -6,7 +6,7 @@ export const SocialContainer = styled.div`
   align-items: center;
   justify-content: center;
   width: 500px;
-  height: 200px;
+  height: 100px;
   grid-gap: 3rem;
   cursor: pointer;
 `;
