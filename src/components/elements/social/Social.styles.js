@@ -10,11 +10,3 @@ export const SocialContainer = styled.div`
   grid-gap: 3rem;
   cursor: pointer;
 `;
-export const BehanceLogo = styled.svg`
-  color: black;
-
-  &:hover {
-    color: white;
-    transition: all 0.3s ease-in-out;
-  }
-`;

@@ -2,6 +2,7 @@ import React from "react";
 
 //IMPORT STYLES
 import { SocialContainer } from "./Social.styles";
+import { colors } from "@styles";
 
 //IMPORT COMPONENTS
 import BehanceLogo from "@assets/icons/be-logo";
@@ -12,10 +13,10 @@ import InstagramLogo from "@assets/icons/ig-logo";
 const Social = () => {
   return (
     <SocialContainer>
-      <BehanceLogo width="20px" />
+      <BehanceLogo color="black" width="19px" />
       <LinkedinLogo color="black" width="14px" />
-      <GitLogo color="black" width="15px" />
-      <InstagramLogo color="black" width="13px" />
+      <GitLogo color="black" width="16px" />
+      <InstagramLogo color="black" width="19px" />
     </SocialContainer>
   );
 };
