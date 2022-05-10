@@ -9,4 +9,12 @@ export const BtnWrapper = styled.button`
   border-radius: 100px;
   font-size: ${sizes.sm};
   color: ${colors.lightgray};
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+
+  &:hover {
+    color: black;
+    border: 1px solid ${colors.black};
+    transition: all 0.3s ease-in-out;
+  }
 `;

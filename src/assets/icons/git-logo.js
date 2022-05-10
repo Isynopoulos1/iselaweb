@@ -2,7 +2,7 @@ import React from "react";
 
 const GitLogo = ({ color, width, height }) => {
   return (
-    <svg viewBox="0 0 496 512" fill={color} width={width} height={height}>
+    <svg viewBox="0 0 496 512" width={width} height={height}>
       <g>
         <path
           d="M345.7,483c-59.4,0-118.6,0-178.1,0c0-22.8,0-45.6,0-68.6c-1.3,0.1-2.2,0.1-3.2,0.2c-16.1,1.1-32,0.4-47.6-3.8
