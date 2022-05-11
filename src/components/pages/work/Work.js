@@ -14,7 +14,7 @@ const Work = () => {
   // RENDER FUNCTIONS
   const renderProjects = () => {
     return projects.map((card, i) => (
-      <Card key={card.i} image={card.image} title={card.title} />
+      <Card key={i} cover={card.cover} title={card.title} />
     ));
   };
 

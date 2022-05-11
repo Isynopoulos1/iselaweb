@@ -1,15 +1,25 @@
 import React from "react";
-
+import PropTypes from "prop-types";
 //IMPORT STYLES
-import { CardContainer, CardImg, ProjectTitle } from "./Card.styles";
+import { CardContainer, CardCover, ProjectTitle } from "./Card.styles";
 
-const Card = () => {
+const Card = ({ title, cover }) => {
   return (
     <CardContainer>
-      <CardImg />
-      <ProjectTitle>hola</ProjectTitle>
+      <CardCover src={cover} />
+      <ProjectTitle>{title}</ProjectTitle>
     </CardContainer>
   );
+};
+
+Card.propTypes = {
+  cover: PropTypes.string,
+  title: PropTypes.string,
+};
+
+Card.defaultProps = {
+  cover: "",
+  title: "",
 };
 
 export default Card;
