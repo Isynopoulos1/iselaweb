@@ -4,6 +4,7 @@ export const colors = {
   darkgray: "#1A1A1A",
   mediumgray: "#232323",
   lightgray: "#808080",
+  secondary: "#FEFAEE",
 };
 
 export const sizes = {
