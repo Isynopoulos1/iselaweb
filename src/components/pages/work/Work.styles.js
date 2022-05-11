@@ -2,7 +2,7 @@ import styled from "styled-components";
 import { colors, sizes, fonts } from "@styles";
 
 export const WorkContainer = styled.div`
-  display: flex;
+  position: relative;
   width: calc(100% - 100px);
   align-items: center;
   justify-content: center;
