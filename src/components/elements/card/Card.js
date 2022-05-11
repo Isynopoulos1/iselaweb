@@ -1,12 +1,13 @@
 import React from "react";
 
 //IMPORT STYLES
-import { CardContainer, CardGrid } from "./Card.styles";
+import { CardContainer, CardImg, ProjectTitle } from "./Card.styles";
 
 const Card = () => {
   return (
     <CardContainer>
-      <CardGrid>hola</CardGrid>
+      <CardImg />
+      <ProjectTitle>hola</ProjectTitle>
     </CardContainer>
   );
 };

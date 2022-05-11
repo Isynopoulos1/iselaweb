@@ -2,7 +2,6 @@ import styled from "styled-components";
 import { colors, sizes, fonts } from "@styles";
 
 export const WorkContainer = styled.div`
-  position: relative;
   width: calc(100% - 100px);
   align-items: center;
   justify-content: center;
@@ -18,4 +17,10 @@ export const Filters = styled.div`
   font-size: ${sizes.xs};
   grid-gap: 15px;
 `;
-export const BtnFilter = styled.div``;
+export const Covers = styled.div`
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  grid-gap: 2rem;
+`;

@@ -5,7 +5,7 @@ import BtnFilter from "@elements/filters/BtnFilter";
 import Card from "@elements/card/Card";
 
 //IMPORT STYLES
-import { WorkContainer, Filters } from "./Work.styles";
+import { WorkContainer, Filters, Covers } from "./Work.styles";
 
 // IMPORT DATA
 import { projects } from "@assets/data";
@@ -29,7 +29,7 @@ const Work = () => {
         <BtnFilter label="Branding" />
       </Filters>
 
-      <section>{renderProjects()}</section>
+      <Covers>{renderProjects()}</Covers>
     </WorkContainer>
   );
 };
