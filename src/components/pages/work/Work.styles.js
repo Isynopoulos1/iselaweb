@@ -16,7 +16,7 @@ export const Filters = styled.div`
   font-weight: 200;
   font-size: ${sizes.xs};
   grid-gap: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 70px;
 `;
 export const Covers = styled.section`
   display: flex;

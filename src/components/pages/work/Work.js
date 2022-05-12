@@ -22,11 +22,11 @@ const Work = () => {
   return (
     <WorkContainer>
       <Filters>
-        <BtnFilter label="Animation" />
         <BtnFilter label="UX-UI" />
-        <BtnFilter label="Art Direction" />
         <BtnFilter label="Development" />
+        <BtnFilter label="Animation" />
         <BtnFilter label="Branding" />
+        <BtnFilter label="Art Direction" />
       </Filters>
 
       <Covers>{renderProjects()}</Covers>

@@ -6,6 +6,7 @@ export const CardContainer = styled.div`
   flex-direction: column;
   width: 30%;
   height: 400px;
+  cursor: pointer;
 `;
 
 export const CardCover = styled.img`
@@ -18,9 +19,8 @@ export const CardCover = styled.img`
 
 export const ProjectTitle = styled.div`
   display: flex;
-  align-items: center;
+  margin-top: 10px;
   justify-content: center;
-  height: 100px;
   font-size: ${sizes.sm};
   color: ${colors.mediumgray};
   font-family: ${fonts.font1};
