@@ -7,6 +7,7 @@ import About from "@pages/about/About";
 import Works from "@pages/works/Works";
 import Work from "./pages/work/Work";
 import Contact from "@pages/contact/Contact";
+import NotFound from "@pages/notFound/NotFound";
 
 const Router = ({ location }) => {
   return (
@@ -16,6 +17,7 @@ const Router = ({ location }) => {
       <Route exact path="/works" component={Works} />
       <Route exact path="/works/:name" component={Work} />
       <Route exact path="/contact" component={Contact} />
+      <Route path="*" component={NotFound} />
     </Switch>
   );
 };

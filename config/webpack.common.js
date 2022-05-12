@@ -16,7 +16,7 @@ module.exports = {
   output: {
     path: paths.build,
     filename: "[name].bundle.js",
-    publicPath: "auto",
+    publicPath: "/",
   },
 
   // CUSTOM PLUGINS
@@ -26,6 +26,13 @@ module.exports = {
     // COPY FOR BUILD PURPOSE
     new CopyWebpackPlugin({
       patterns: [
+        {
+          from: paths.public + "/assets",
+          to: "assets",
+          globOptions: {
+            ignore: ["*.DS_Store"],
+          },
+        },
         {
           from: paths.public + "/robots.txt",
           to: ".",
