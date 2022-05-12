@@ -6,17 +6,6 @@ const common = require("./webpack.common.js");
 
 let proxy = {};
 
-if (process.env.REACT_APP_LOCAL_DEV) {
-  proxy = {
-    // USE THIS FIELD TOGETHER WITH THE PROCESSENV TO SETUP CUSTOM PROXY FOR BACKEND
-    // "/api/**": {
-    //   target: "https://www.somebackend.com/",
-    //   secure: false,
-    //   changeOrigin: true
-    // },
-  };
-}
-
 const devConfig = {
   mode: "development",
   devtool: "inline-source-map",
@@ -28,7 +17,6 @@ const devConfig = {
     compress: true,
     hot: true,
     watchFiles: ["src/**/*.js"],
-    proxy,
     port: 3000,
   },
   plugins: [

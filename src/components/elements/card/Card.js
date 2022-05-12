@@ -1,14 +1,18 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
+
 //IMPORT STYLES
 import { CardContainer, CardCover, ProjectTitle } from "./Card.styles";
 
-const Card = ({ title, cover }) => {
+const Card = ({ title, cover, href }) => {
   return (
-    <CardContainer>
-      <CardCover src={cover} />
-      <ProjectTitle>{title}</ProjectTitle>
-    </CardContainer>
+    <Link to={`/works/${href}`}>
+      <CardContainer>
+        <CardCover src={cover} />
+        <ProjectTitle>{title}</ProjectTitle>
+      </CardContainer>
+    </Link>
   );
 };
 

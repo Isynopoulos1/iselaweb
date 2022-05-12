@@ -27,13 +27,6 @@ module.exports = {
     new CopyWebpackPlugin({
       patterns: [
         {
-          from: paths.public + "/assets",
-          to: "assets",
-          globOptions: {
-            ignore: ["*.DS_Store"],
-          },
-        },
-        {
           from: paths.public + "/robots.txt",
           to: ".",
           globOptions: {
@@ -57,9 +50,9 @@ module.exports = {
     alias: {
       "@elements": path.resolve(__dirname, "../src/components/elements"),
       "@layout": path.resolve(__dirname, "../src/components/layout"),
+      "@pages": path.resolve(__dirname, "../src/components/pages"),
       "@styles": path.resolve(__dirname, "../src/styles"),
       "@assets": path.resolve(__dirname, "../src/assets"),
-      "@pages": path.resolve(__dirname, "../src/components/pages"),
     },
     extensions: ["", ".js", ".json"],
   },
