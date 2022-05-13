@@ -4,13 +4,26 @@ import React from "react";
 import { projects } from "@assets/data";
 
 //IMPORT STYLES
-import { NameProject } from "./Work.styles";
+import {
+  MainProject,
+  NameProject,
+  Description,
+  ProjectImage,
+  ProjectVideo,
+} from "./Work.styles";
 
 const Work = ({ match }) => {
   const project = projects?.find((p) => p.href === match.params.name) ?? {};
   console.log(project);
   // MAIN RENDER
-  return <NameProject>{project?.title}</NameProject>;
+  return (
+    <MainProject>
+      <NameProject>{project?.title}</NameProject>
+      <Description>{project?.description}</Description>
+      <ProjectImage src={project?.images[0]} />
+      <ProjectVideo src={project?.video} />
+    </MainProject>
+  );
 };
 
 export default Work;
