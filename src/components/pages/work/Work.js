@@ -21,7 +21,8 @@ const Work = ({ match }) => {
       <NameProject>{project?.title}</NameProject>
       <Description>{project?.description}</Description>
       <ProjectImage src={project?.images[0]} />
-      <ProjectVideo src={project?.video} />
+      <ProjectImage src={project?.images[1]} />
+      <ProjectVideo id="video" src={project?.video} autoPlay muted loop />
     </MainProject>
   );
 };

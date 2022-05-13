@@ -11,8 +11,9 @@ export const sizes = {
   xs: "8px",
   sm: "14px",
   md: "16px",
-  lg: "30px",
+  lg: "25px",
   xl: "34px",
+  xll: "40px",
 };
 
 export const fonts = {
