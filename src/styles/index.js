@@ -5,12 +5,14 @@ export const colors = {
   darkgray: "#1A1A1A",
   btngray: "#8080801c",
   mediumgray: "#232323",
+  lightergray: "#80808094",
   lightgray: "#808080",
   secondary: "#FEFAEE",
 };
 
 export const sizes = {
-  xs: "8px",
+  xss: "10px",
+  xs: "12px",
   sm: "14px",
   md: "16px",
   lg: "25px",

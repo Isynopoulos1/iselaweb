@@ -17,7 +17,7 @@ export const CardCover = styled.img`
   width: 100%;
 `;
 
-export const ProjectTitle = styled.div`
+export const ProjectTitle = styled.h2`
   display: flex;
   margin-top: 10px;
   justify-content: center;
@@ -25,4 +25,5 @@ export const ProjectTitle = styled.div`
   color: ${colors.mediumgray};
   font-family: ${fonts.font1};
   font-weight: 400;
+  text-decoration: none;
 `;

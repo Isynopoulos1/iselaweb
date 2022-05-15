@@ -7,7 +7,7 @@ import { CardContainer, CardCover, ProjectTitle } from "./Card.styles";
 
 const Card = ({ title, cover, href }) => {
   return (
-    <Link to={`/works/${href}`}>
+    <Link to={`/works/${href}`} style={{ textDecoration: "none" }}>
       <CardContainer>
         <CardCover src={cover} />
         <ProjectTitle>{title}</ProjectTitle>
