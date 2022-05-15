@@ -13,7 +13,8 @@ export const BtnWrapper = styled.button`
   transition: all 0.3s ease;
 
   &:hover {
-    color: black;
+    background-color: ${colors.btngray};
     border: 1px solid ${colors.black};
+    color: ${colors.black};
   }
 `;
