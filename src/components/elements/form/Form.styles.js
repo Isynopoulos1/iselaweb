@@ -1,9 +1,10 @@
 import styled from "styled-components";
 import { colors, sizes, fonts } from "@styles";
 
-export const InputWrapper = styled.div`
+export const InputWrapper = styled.form`
   display: flex;
   flex-direction: column;
+  align-items: center;
 `;
 
 export const InputStyle = styled.input`
@@ -28,6 +29,7 @@ export const InputStyle = styled.input`
 
 export const TextAreaStyle = styled.textarea`
   display: flex;
+  width: 600px;
   height: 200px;
   font-family: ${fonts.font1};
   padding-top: 10px;

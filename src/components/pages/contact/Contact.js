@@ -4,7 +4,7 @@ import React from "react";
 import { ContactContainer, CtaForm } from "./Contact.styles";
 
 //IMPORT COMPONENTS
-import Button from "@elements/button/Button";
+
 import Form from "@elements/form/Form";
 
 const Contact = () => {
@@ -12,7 +12,6 @@ const Contact = () => {
     <ContactContainer>
       <CtaForm>Contact me :) </CtaForm>
       <Form />
-      <Button />
     </ContactContainer>
   );
 };
