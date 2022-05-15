@@ -5,13 +5,13 @@ import { ContactContainer, CtaForm } from "./Contact.styles";
 
 //IMPORT COMPONENTS
 import Button from "@elements/button/Button";
-import Inputs from "@elements/inputs/Inputs";
+import Form from "@elements/form/Form";
 
 const Contact = () => {
   return (
     <ContactContainer>
       <CtaForm>Contact me :) </CtaForm>
-      <Inputs />
+      <Form />
       <Button />
     </ContactContainer>
   );

@@ -1,9 +1,9 @@
 import React from "react";
 
 //IMPORT STYLES
-import { InputWrapper, InputStyle, TextAreaStyle } from "./Inputs.styles";
+import { InputWrapper, InputStyle, TextAreaStyle } from "./Form.styles";
 
-const Inputs = () => {
+const Form = () => {
   return (
     <InputWrapper>
       <InputStyle placeholder="Name" />
@@ -13,4 +13,4 @@ const Inputs = () => {
   );
 };
 
-export default Inputs;
+export default Form;
