@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 //IMPORT STYLES
 import { HeaderContainer } from "./Header.styles";
@@ -11,7 +12,10 @@ import Menu from "@elements/menu/Menu";
 const Header = () => {
   return (
     <HeaderContainer>
-      <LogoDesktop color="black" width="150px" />
+      <Link to="/">
+        <LogoDesktop color="black" width="150px" />
+      </Link>
+
       <Menu color="black" width="150px" />
     </HeaderContainer>
   );

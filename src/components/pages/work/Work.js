@@ -14,7 +14,7 @@ import {
 
 const Work = ({ match }) => {
   const project = projects?.find((p) => p.href === match.params.name) ?? {};
-  console.log(project);
+
   // MAIN RENDER
   return (
     <MainProject>

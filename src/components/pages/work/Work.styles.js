@@ -18,7 +18,7 @@ export const NameProject = styled.h1`
   font-family: ${fonts.font1};
   font-size: ${sizes.lg};
   font-weight: 200;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 `;
 export const Description = styled.p`
   display: flex;
@@ -28,12 +28,12 @@ export const Description = styled.p`
   font-size: ${sizes.sm};
   font-weight: 200;
   line-height: 1.5;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 `;
 export const ProjectImage = styled.img`
   display: flex;
   width: 100%;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 `;
 export const ProjectVideo = styled.video`
   display: flex;
