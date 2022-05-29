@@ -7,6 +7,20 @@ export const projects = [
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/ppayaz-cover_ViUSQyUXA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652465987294",
     title: "P'payaz ",
     description:
+      "P´Payaz es un colectivo de creativos integrado por profesionistas de diferentes disciplinas. El equipo busca alejarse del cliché de una agencia, conectando al miembro adecuado de acuerdo a la naturaleza de cada proyecto. A través de un website con estilo minimalista destaca su simplicidad con elementos fundamentales, colores y formas.",
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/secuencia_1_YuiJSlt8E.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653758333469",
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/Captura_de_Pantalla_2022-05-28_a_la_s__12.10.40_oRq0wZmNxy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653757963381"
+    ]
+  },
+  {
+    tags: ["UX-UI", "Animation", "Development"],
+    href: "lozano-studio",
+    src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
+    alt: "Lozano cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/awa/awa_EgrsiRB30.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653852207118",
+    title: "AWA",
+    description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
@@ -15,6 +29,7 @@ export const projects = [
     ],
     video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
   },
+
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "lozano-studio",
