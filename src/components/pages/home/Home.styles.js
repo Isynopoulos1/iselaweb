@@ -20,5 +20,5 @@ export const MainVideo = styled.video`
   margin-top: ${margins.xs};
   justify-content: center;
   align-items: center;
-  width: 75%;
+  width: 73%;
 `;
