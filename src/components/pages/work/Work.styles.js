@@ -46,6 +46,10 @@ export const ProjectImage = styled.img`
   width: 100%;
   height: 100%;
 `;
+export const VideoContainer = styled.div`
+  display: flex;
+  flex-direction: row;
+`;
 export const ProjectVideo = styled.video`
   display: flex;
   width: 100%;

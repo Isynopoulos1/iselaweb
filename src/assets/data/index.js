@@ -125,11 +125,11 @@ export const projects = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/ODA_CASE_3_NVQQdV80g.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653940570190",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/reticula_Uwp8DM8yG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653946538056",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/ODA_CASE_6_rEuv29pT6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653940552276"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda-banner_tVeaT0N_o.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653947917651"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
