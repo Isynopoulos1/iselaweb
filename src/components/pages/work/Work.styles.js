@@ -43,9 +43,8 @@ export const ProjectImage = styled.img`
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 80%;
+  width: 100%;
   height: 100%;
-
   margin-bottom: ${margins.sm};
 `;
 export const ProjectVideo = styled.video`
