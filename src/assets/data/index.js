@@ -63,7 +63,8 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/protype_qYQsZuW2J.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653932784784",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/pantone_S2Ol6D_a6.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1653933466335"
     ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/app_AHy8wRsi3.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653934109424"
+    video:
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/app-video_eNRCWohlm.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653934773156"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
