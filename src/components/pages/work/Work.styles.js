@@ -6,7 +6,6 @@ export const MainProject = styled.main`
   display: flex;
   justify-content: center;
   flex-direction: column;
-  padding: 20px 50px;
 `;
 
 export const NameProject = styled.h1`
@@ -22,6 +21,9 @@ export const NameProject = styled.h1`
 `;
 export const Description = styled.p`
   display: flex;
+  line-height: 100%;
+  display: inline;
+  text-align: center;
   align-items: center;
   justify-content: center;
   font-family: ${fonts.font1};
@@ -37,4 +39,5 @@ export const ProjectImage = styled.img`
 `;
 export const ProjectVideo = styled.video`
   display: flex;
+  width: 100%;
 `;

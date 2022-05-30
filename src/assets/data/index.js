@@ -4,14 +4,12 @@ export const projects = [
     href: "lozano-studio",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Lozano cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/ppayaz-cover_ViUSQyUXA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652465987294",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_B1zD_0ptV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653872397863",
     title: "P'payaz ",
     description:
-      "P´Payaz es un colectivo de creativos integrado por profesionistas de diferentes disciplinas. El equipo busca alejarse del cliché de una agencia, conectando al miembro adecuado de acuerdo a la naturaleza de cada proyecto. A través de un website con estilo minimalista destaca su simplicidad con elementos fundamentales, colores y formas.",
+      "P'payaz es un colectivo de creativos integrado por profesionistas de diferentes disciplinas. El equipo busca alejarse del cliché de una agencia, conectando al miembro adecuado de acuerdo a la naturaleza de cada proyecto. A través de un website con estilo minimalista destaca su simplicidad con elementos fundamentales, colores y formas.",
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/secuencia_1_YuiJSlt8E.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653758333469",
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/Captura_de_Pantalla_2022-05-28_a_la_s__12.10.40_oRq0wZmNxy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653757963381"
-    ]
+    images: ["https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_rdGOyuvFD.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653872729586"]
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
