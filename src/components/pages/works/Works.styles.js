@@ -1,11 +1,11 @@
 import styled from "styled-components";
-import { colors, sizes, fonts } from "@styles";
+import { colors, sizes, fonts, margins } from "@styles";
 
 export const WorkContainer = styled.main`
-  width: calc(100% - 100px);
+  width: 100%;
   align-items: center;
   justify-content: center;
-  margin-top: 150px;
+  margin-top: ${margins.lg};
   padding: 0px 50px;
 `;
 export const Filters = styled.div`

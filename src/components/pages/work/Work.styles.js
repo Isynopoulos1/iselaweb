@@ -52,5 +52,6 @@ export const VideoContainer = styled.div`
 `;
 export const ProjectVideo = styled.video`
   display: flex;
+  flex-direction: row;
   width: 100%;
 `;

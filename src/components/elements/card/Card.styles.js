@@ -3,9 +3,9 @@ import { colors, sizes, fonts } from "@styles";
 
 export const CardContainer = styled.div`
   display: flex;
+  align-items: center;
   flex-direction: column;
-  width: 100%;
-  height: 400px;
+  width: 400px;
   cursor: pointer;
 `;
 
@@ -13,7 +13,7 @@ export const CardCover = styled.img`
   display: flex;
   border-radius: 5px;
   flex-direction: column;
-  height: 350px;
+  height: 300px;
   width: 100%;
 `;
 
