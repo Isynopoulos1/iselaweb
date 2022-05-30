@@ -29,6 +29,7 @@ const Work = ({ match }) => {
       <ProjectContainer>
         <ProjectImage src={project?.images[0]} />
         <ProjectImage src={project?.images[1]} />
+        <ProjectImage src={project?.images[2]} />
       </ProjectContainer>
     </MainProject>
   );
