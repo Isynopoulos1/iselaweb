@@ -14,7 +14,7 @@ export const FooterContainer = styled.footer`
 `;
 
 export const Copyright = styled.div`
-  font-size: ${sizes.xs};
+  font-size: ${sizes.xss};
   color: ${colors.black};
   font-family: "Roboto Flex", sans-serif;
   font-weight: 200;

@@ -13,10 +13,10 @@ import InstagramLogo from "@assets/icons/ig-logo";
 const Social = () => {
   return (
     <SocialContainer>
-      <BehanceLogo color="black" width="19px" />
-      <LinkedinLogo color="black" width="14px" />
-      <GitLogo color="black" width="16px" />
-      <InstagramLogo color="black" width="19px" />
+      <BehanceLogo color="black" width="16px" />
+      <LinkedinLogo color="black" width="11px" />
+      <GitLogo color="black" width="13px" />
+      <InstagramLogo color="black" width="16px" />
     </SocialContainer>
   );
 };

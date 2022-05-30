@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { colors, sizes, fonts } from "@styles";
+import { colors, sizes, fonts, margins } from "@styles";
 
 export const MainProject = styled.main`
   position: relative;
@@ -13,29 +13,40 @@ export const NameProject = styled.h1`
   align-items: center;
   justify-content: center;
   width: 100%;
-  margin-top: 200px;
+  margin-top: ${margins.md};
   font-family: ${fonts.font1};
   font-size: ${sizes.lg};
   font-weight: 200;
-  margin-bottom: 100px;
+  margin-bottom: ${margins.xs};
+`;
+export const DescriptionContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `;
 export const Description = styled.p`
-  display: flex;
-  line-height: 100%;
+  padding: 50px;
+  line-height: 20px;
   display: inline;
   text-align: center;
-  align-items: center;
-  justify-content: center;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
   font-weight: 200;
-  line-height: 1.5;
-  margin-bottom: 100px;
+`;
+export const ProjectContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 `;
 export const ProjectImage = styled.img`
   display: flex;
-  width: 100%;
-  margin-bottom: 100px;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 100%;
+
+  margin-bottom: ${margins.sm};
 `;
 export const ProjectVideo = styled.video`
   display: flex;

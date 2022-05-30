@@ -4,7 +4,16 @@ import React from "react";
 import { projects } from "@assets/data";
 
 //IMPORT STYLES
-import { MainProject, NameProject, Description, ProjectImage, ProjectVideo } from "./Work.styles";
+import {
+  MainProject,
+  NameProject,
+  Description,
+  ProjectImage,
+  ProjectVideo,
+  ProjectWrapper,
+  DescriptionContainer,
+  ProjectContainer
+} from "./Work.styles";
 
 const Work = ({ match }) => {
   const project = projects?.find(p => p.href === match.params.name) ?? {};
@@ -13,10 +22,14 @@ const Work = ({ match }) => {
   return (
     <MainProject>
       <NameProject>{project?.title}</NameProject>
-      <Description>{project?.description}</Description>
+      <DescriptionContainer>
+        <Description>{project?.description}</Description>
+      </DescriptionContainer>
       <ProjectVideo id="video" src={project?.video} autoPlay muted loop />
-      <ProjectImage src={project?.images[0]} />
-      <ProjectImage src={project?.images[1]} />
+      <ProjectContainer>
+        <ProjectImage src={project?.images[0]} />
+        <ProjectImage src={project?.images[1]} />
+      </ProjectContainer>
     </MainProject>
   );
 };

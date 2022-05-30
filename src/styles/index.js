@@ -7,7 +7,7 @@ export const colors = {
   mediumgray: "#232323",
   lightergray: "#80808094",
   lightgray: "#808080",
-  secondary: "#FEFAEE",
+  secondary: "#FEFAEE"
 };
 
 export const sizes = {
@@ -17,9 +17,15 @@ export const sizes = {
   md: "16px",
   lg: "25px",
   xl: "34px",
-  xll: "40px",
+  xll: "40px"
 };
 
 export const fonts = {
-  font1: " Roboto Flex , sans-serif",
+  font1: " Roboto Flex , sans-serif"
+};
+
+export const margins = {
+  xs: " 50px",
+  sm: "100px",
+  md: "200px"
 };
