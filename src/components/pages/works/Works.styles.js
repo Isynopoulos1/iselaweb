@@ -5,7 +5,7 @@ export const WorkContainer = styled.main`
   width: 100%;
   align-items: center;
   justify-content: center;
-  margin-top: ${margins.lg};
+  margin-top: ${margins.sm};
   padding: 0px 50px;
 `;
 export const Filters = styled.div`
