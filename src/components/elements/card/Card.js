@@ -18,12 +18,12 @@ const Card = ({ title, cover, href }) => {
 
 Card.propTypes = {
   cover: PropTypes.string,
-  title: PropTypes.string,
+  title: PropTypes.string
 };
 
 Card.defaultProps = {
   cover: "",
-  title: "",
+  title: ""
 };
 
 export default Card;

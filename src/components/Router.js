@@ -10,14 +10,19 @@ import Contact from "@pages/contact/Contact";
 import NotFound from "@pages/notFound/NotFound";
 
 const Router = ({ location }) => {
+  const routes = [
+    { path: "/", component: Home, exact: true },
+    { path: "/about", component: About, exact: true },
+    { path: "/works", component: Works, exact: true },
+    { path: "/works/:name", component: Work, exact: true },
+    { path: "/contact", component: Contact, exact: true },
+    { path: "*", component: NotFound, exact: false }
+  ];
   return (
     <Switch>
-      <Route exact path="/" component={Home} />
-      <Route exact path="/about" component={About} />
-      <Route exact path="/works" component={Works} />
-      <Route exact path="/works/:name" component={Work} />
-      <Route exact path="/contact" component={Contact} />
-      <Route path="*" component={NotFound} />
+      {routes?.map((route, i) => {
+        return <Route key={i} exact={route.exact} path={route.path} component={route.component} />;
+      })}
     </Switch>
   );
 };

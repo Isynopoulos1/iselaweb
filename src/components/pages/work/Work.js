@@ -17,7 +17,10 @@ import {
 } from "./Work.styles";
 
 const Work = ({ match }) => {
-  const project = projects?.find(p => p.href === match.params.name) ?? {};
+  const project =
+    projects?.find(p => {
+      return p.href === match.params.name;
+    }) ?? {};
 
   // MAIN RENDER
   return (
@@ -30,10 +33,9 @@ const Work = ({ match }) => {
         <ProjectVideo id="video" src={project?.video} autoPlay muted loop />
       </VideoContainer>
       <ProjectContainer>
-        <ProjectImage src={project?.images[0]} />
-        <ProjectImage src={project?.images[1]} />
-        <ProjectImage src={project?.images[2]} />
-        <ProjectImage src={project?.images[3]} />
+        {project?.images.map((img, i) => (
+          <ProjectImage key={i} src={img} />
+        ))}
       </ProjectContainer>
     </MainProject>
   );

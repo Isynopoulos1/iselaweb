@@ -8,25 +8,22 @@ import Card from "@elements/card/Card";
 import { WorkContainer, Filters, Covers } from "./Works.styles";
 
 // IMPORT DATA
-import { projects } from "@assets/data";
+import { projects, labels } from "@assets/data";
 
 const Works = () => {
-  // RENDER FUNCTIONS
   const renderProjects = () => {
-    return projects.map((card, i) => (
-      <Card key={i} cover={card.cover} title={card.title} href={card.href} />
-    ));
+    return projects.map((card, i) => {
+      return <Card key={i} cover={card.cover} title={card.title} href={card.href} />;
+    });
   };
 
   // MAIN RENDER
   return (
     <WorkContainer>
       <Filters>
-        <BtnFilter label="UX-UI" />
-        <BtnFilter label="Development" />
-        <BtnFilter label="Animation" />
-        <BtnFilter label="Branding" />
-        <BtnFilter label="Art Direction" />
+        {labels?.map((label, i) => {
+          return <BtnFilter key={i} label={label} />;
+        })}
       </Filters>
 
       <Covers>{renderProjects()}</Covers>

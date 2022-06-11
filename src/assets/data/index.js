@@ -18,7 +18,7 @@ export const projects = [
 
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "AWA",
+    href: "awa",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "AWA cover",
     cover:
@@ -36,7 +36,7 @@ export const projects = [
 
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Nixi",
+    href: "nixi",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Nixi cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nixi_2QtdgCJfR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951787789",
@@ -52,7 +52,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Delivery App",
+    href: "delivery-app",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Delivery App cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/deliver_nXGHALGHA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951914482",
@@ -87,7 +87,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Natours",
+    href: "natours",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Natours cover",
     cover:
@@ -104,7 +104,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Doc To You",
+    href: "doc-to-you",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Doc To You cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/doc-cover_YguBeaayA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653952659326",
@@ -120,7 +120,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Oda al Pan",
+    href: "oda-al-pan",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Oda al Pan cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/cover-oda_2oI6TiurK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951929612",
@@ -136,7 +136,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Nexter",
+    href: "nexter",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Nexter cover",
     cover:
@@ -153,7 +153,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Paypal",
+    href: "paypal",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Paypalcover",
     cover:
@@ -170,7 +170,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Movistar",
+    href: "movistar",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Movistar cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/Movi-cover_9c7s_ZK8i.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951846463",
@@ -186,7 +186,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Reebok",
+    href: "reebok",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Reebok cover",
     cover:
@@ -203,7 +203,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Dog Chow",
+    href: "dog-chow",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Dog Chowcover",
     cover:
@@ -220,7 +220,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Isela Alarcón",
+    href: "isela-alarcon",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Isela Alarcóncover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653952591167",
@@ -236,7 +236,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Gerber",
+    href: "gerber",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Gerber cover",
     cover:
@@ -253,7 +253,7 @@ export const projects = [
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
-    href: "Woomen",
+    href: "woomen",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Woomen cover",
     cover:
@@ -269,3 +269,5 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
   }
 ];
+
+export const labels = ["UX-UI", "Development", "Animation", "Branding", "Art Direction"];
