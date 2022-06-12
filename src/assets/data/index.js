@@ -48,7 +48,7 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixivideo_0Ngp8wMPW.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654973221968"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
@@ -100,7 +100,8 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video:
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours-video_soH_hSfVI.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654969848803"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
@@ -116,7 +117,8 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video:
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doctou.video_jNFMNG-2L.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654971622334"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
@@ -145,11 +147,10 @@ export const projects = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter-layout_5pblfc9nh.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655041229505",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter-mockup_RaZGQQj7f.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655041851287"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_video_4ylYEkyzh.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654968717232"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
@@ -182,7 +183,8 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video:
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/moviistar-video_hQ1DkcTc2.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654971386050"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
@@ -249,7 +251,8 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video:
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/gerber/_por_que%CC%81_papa%CC%81_no_sale_en_las_fotos__di%CC%81a_del_padre__gerber__540p__WQ-Atf1H2.mov?ik-sdk-version=javascript-1.4.3&updatedAt=1655028456930"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
@@ -266,7 +269,8 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video:
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/woomen/film.mp4__1080p__Y3E2E4Q-y.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654972540672"
   }
 ];
 
