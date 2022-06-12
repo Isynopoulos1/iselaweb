@@ -19,6 +19,9 @@ export const NameProject = styled.h1`
   font-weight: 200;
   margin-bottom: ${margins.xs};
 `;
+export const ContentContainer = styled.div`
+  display: flex;
+`;
 export const DescriptionContainer = styled.div`
   display: flex;
   justify-content: center;
@@ -48,10 +51,8 @@ export const ProjectImage = styled.img`
 `;
 export const VideoContainer = styled.div`
   display: flex;
-  flex-direction: row;
 `;
 export const ProjectVideo = styled.video`
   display: flex;
-  flex-direction: row;
   width: 100%;
 `;

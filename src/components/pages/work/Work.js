@@ -12,8 +12,8 @@ import {
   ProjectVideo,
   ProjectWrapper,
   DescriptionContainer,
-  ProjectContainer,
-  VideoContainer
+  ContentContainer,
+  ProjectContainer
 } from "./Work.styles";
 
 const Work = ({ match }) => {
@@ -29,14 +29,14 @@ const Work = ({ match }) => {
       <DescriptionContainer>
         <Description>{project?.description}</Description>
       </DescriptionContainer>
-      <VideoContainer>
-        <ProjectVideo id="video" src={project?.video} autoPlay muted loop />
-      </VideoContainer>
-      <ProjectContainer>
-        {project?.images.map((img, i) => (
-          <ProjectImage key={i} src={img} />
-        ))}
-      </ProjectContainer>
+      <ProjectVideo id="video" src={project?.video} autoPlay muted loop />
+      <ContentContainer>
+        <ProjectContainer>
+          {project?.images.map((img, i) => (
+            <ProjectImage key={i} src={img} />
+          ))}
+        </ProjectContainer>
+      </ContentContainer>
     </MainProject>
   );
 };
