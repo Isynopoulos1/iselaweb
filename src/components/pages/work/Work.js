@@ -29,7 +29,7 @@ const Work = ({ match }) => {
       <DescriptionContainer>
         <Description>{project?.description}</Description>
       </DescriptionContainer>
-      <ProjectVideo id="video" src={project?.video} autoPlay muted loop />
+      {project?.video && <ProjectVideo id="video" src={project?.video} autoPlay muted loop />}
       <ContentContainer>
         <ProjectContainer>
           {project?.images.map((img, i) => (
