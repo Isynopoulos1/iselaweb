@@ -44,9 +44,10 @@ export const projects = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi-tab_8gGVF1qOS-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655136965587",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/insights-nixi_byArWAby6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655137112233",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/container_QubvMZRO0.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655128793686",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/test-nixi_2aQ0_Hgsr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655129117315"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixivideo_0Ngp8wMPW.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654973221968"
   },
@@ -245,11 +246,7 @@ export const projects = [
     title: "Gerber",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
-    ],
+    images: [],
     video:
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/gerber/_por_que%CC%81_papa%CC%81_no_sale_en_las_fotos__di%CC%81a_del_padre__gerber__540p__WQ-Atf1H2.mov?ik-sdk-version=javascript-1.4.3&updatedAt=1655028456930"
   },

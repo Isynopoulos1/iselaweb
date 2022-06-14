@@ -6,6 +6,8 @@ export const MainProject = styled.main`
   display: flex;
   justify-content: center;
   flex-direction: column;
+  margin: 0 auto;
+  max-width: 1200px;
 `;
 
 export const NameProject = styled.h1`

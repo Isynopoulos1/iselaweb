@@ -2,7 +2,6 @@ import styled from "styled-components";
 import { colors, sizes, fonts, margins } from "@styles";
 
 export const WorkContainer = styled.main`
-  width: 100%;
   align-items: center;
   justify-content: center;
   margin-top: ${margins.sm};
@@ -20,8 +19,10 @@ export const Filters = styled.div`
 `;
 export const Covers = styled.section`
   display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  grid-gap: 20px;
+  grid-gap: 30px;
 `;

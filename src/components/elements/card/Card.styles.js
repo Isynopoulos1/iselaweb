@@ -5,7 +5,7 @@ export const CardContainer = styled.div`
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 400px;
+  width: 380px;
   cursor: pointer;
 `;
 
@@ -13,7 +13,7 @@ export const CardCover = styled.img`
   display: flex;
   border-radius: 5px;
   flex-direction: column;
-  height: 300px;
+  height: auto;
   width: 100%;
 `;
 
