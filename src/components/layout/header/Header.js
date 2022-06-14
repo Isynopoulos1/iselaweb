@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import { HeaderContainer } from "./Header.styles";
 
 //IMPORT COMPONENTS
-
+import AsideMenu from "@elements/asideMenu/AsideMenu";
 import LogoDesktop from "@elements/logo/LogoDesktop";
 import Menu from "@elements/menu/Menu";
 
@@ -21,7 +21,7 @@ const Header = () => {
         <Link to="/">
           <LogoDesktop color="black" width="150px" />
         </Link>
-        {isOpen && <h2>FUTURE MENU</h2>}
+        {isOpen && <AsideMenu />}
         <Menu isOpen={isOpen} setOpen={setOpen} color="black" width="150px" />
       </HeaderContainer>
     </>
