@@ -20,5 +20,8 @@ export const MainVideo = styled.video`
   margin-top: ${margins.xs};
   justify-content: center;
   align-items: center;
-  width: 73%;
+  max-width: 1200px;
+  @media only screen and (max-width: 700px) {
+    max-width: 600px;
+  }
 `;
