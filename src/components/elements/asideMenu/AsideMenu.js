@@ -13,8 +13,8 @@ const AsideMenu = ({ setOpen }) => {
       <Link to="/about" onClick={() => setOpen(false)}>
         About
       </Link>
-      <Link to="/work" onClick={() => setOpen(false)}>
-        Work
+      <Link to="/works" onClick={() => setOpen(false)}>
+        Works
       </Link>
       <Link to="/contact" onClick={() => setOpen(false)}>
         Contact

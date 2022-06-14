@@ -18,7 +18,7 @@ const Header = () => {
   return (
     <>
       <HeaderContainer>
-        <Link to="/">
+        <Link to="/" onClick={() => setOpen(false)}>
           <LogoDesktop color="black" width="150px" />
         </Link>
         {isOpen && <AsideMenu setOpen={setOpen} />}
