@@ -21,7 +21,7 @@ const Header = () => {
         <Link to="/">
           <LogoDesktop color="black" width="150px" />
         </Link>
-        {isOpen && <AsideMenu />}
+        {isOpen && <AsideMenu setOpen={setOpen} />}
         <Menu isOpen={isOpen} setOpen={setOpen} color="black" width="150px" />
       </HeaderContainer>
     </>

@@ -13,4 +13,8 @@ export const HeaderContainer = styled.header`
   background-color: white;
   margin: 0 auto;
   max-width: 1200px;
+  & a,
+  div {
+    z-index: 3;
+  }
 `;

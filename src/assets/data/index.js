@@ -11,8 +11,8 @@ export const projects = [
       "P'payaz es un colectivo de creativos integrado por profesionistas de diferentes disciplinas. El equipo busca alejarse del cliché de una agencia, conectando al miembro adecuado de acuerdo a la naturaleza de cada proyecto. A través de un website con estilo minimalista destaca su simplicidad con elementos fundamentales, colores y formas. Visita el sitio web en: www.ppayaz.es",
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/secuencia_1_YuiJSlt8E.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653871926118",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/mobile_l18stBHCa.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653928355751",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayazes_OO2NdeXhz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653902612219"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/mobile_l18stBHCa.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayazes_OO2NdeXhz.png"
     ]
   },
 
@@ -45,8 +45,8 @@ export const projects = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi-tab_2_OPeR4h8Kg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655202513469",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/insights-nixi_2_qdnr-83rHz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655202882472",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/container_QubvMZRO0.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655128793686",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/niciwall-container_xWrcQCxJt.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655223800969",
+
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi-prototype_2_gHnAE6axP.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655202625231"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixivideo_0Ngp8wMPW.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654973221968"
