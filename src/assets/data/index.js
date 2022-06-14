@@ -44,10 +44,10 @@ export const projects = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi-tab_8gGVF1qOS-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655136965587",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/insights-nixi_byArWAby6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655137112233",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi-tab_2_OPeR4h8Kg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655202513469",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/insights-nixi_2_qdnr-83rHz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655202882472",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/container_QubvMZRO0.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655128793686",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/test-nixi_2aQ0_Hgsr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655129117315"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi-prototype_2_gHnAE6axP.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655202625231"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixivideo_0Ngp8wMPW.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654973221968"
   },
@@ -62,7 +62,7 @@ export const projects = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/designs_rNVg8IjkE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653933181807",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/protype_qYQsZuW2J.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653932784784",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/pantone_ZI_95xIBV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653932723216",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/pantone_S2Ol6D_a6.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1653933466335"
     ],
     video:
@@ -148,7 +148,7 @@ export const projects = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter-wireframe_cpVu2VNyd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655115997593",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/wireframe-nexter_lnYwJYcjv.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655200589558",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter-mockup_RaZGQQj7f.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655041851287"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_video_4ylYEkyzh.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654968717232"
