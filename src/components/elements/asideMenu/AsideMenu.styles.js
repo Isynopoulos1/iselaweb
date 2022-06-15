@@ -14,7 +14,6 @@ export const BgMenu = styled.aside`
   width: 100%;
   height: 100vh;
   background-color: white;
-  transition: white 0.8s linear 0.2s;
 
   & a {
     display: flex;
@@ -23,5 +22,6 @@ export const BgMenu = styled.aside`
     font-family: ${fonts.font1};
     font-weight: lighter;
     text-decoration: none;
+    transition: white 0.8s linear 0.5s;
   }
 `;

@@ -1,5 +1,8 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, Route } from "react-router-dom";
+
+//IMPORT DATA
+import { projects } from "@assets/data";
 
 //IMPORT STYLES
 import { BgMenu } from "./AsideMenu.styles";
@@ -8,17 +11,20 @@ import { BgMenu } from "./AsideMenu.styles";
 import LogoDesktop from "@elements/logo/LogoDesktop";
 
 const AsideMenu = ({ setOpen }) => {
+  const categories = [
+    { path: "/about", label: "About" },
+    { path: "/works", label: "Works" },
+    { path: "/contact", label: "Contact" }
+  ];
   return (
     <BgMenu>
-      <Link to="/about" onClick={() => setOpen(false)}>
-        About
-      </Link>
-      <Link to="/works" onClick={() => setOpen(false)}>
-        Works
-      </Link>
-      <Link to="/contact" onClick={() => setOpen(false)}>
-        Contact
-      </Link>
+      {categories.map((categorie, i) => {
+        return (
+          <Link to={categorie.path} onClick={() => setOpen(false)}>
+            {categorie.label}
+          </Link>
+        );
+      })}
     </BgMenu>
   );
 };
