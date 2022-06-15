@@ -19,7 +19,6 @@ export const NameProject = styled.h1`
   font-family: ${fonts.font1};
   font-size: ${sizes.lg};
   font-weight: 200;
-  margin-bottom: ${margins.xs};
 `;
 export const ContentContainer = styled.div`
   display: flex;
@@ -28,10 +27,12 @@ export const DescriptionContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: ${margins.xs};
+  margin-top: ${margins.xs};
 `;
 export const Description = styled.p`
   padding: 50px;
-  line-height: 20px;
+  line-height: 2;
   display: inline;
   text-align: center;
   font-family: ${fonts.font1};
@@ -50,6 +51,7 @@ export const ProjectImage = styled.img`
   align-items: center;
   width: 100%;
   height: 100%;
+  margin-bottom: ${margins.xs};
 `;
 export const VideoContainer = styled.div`
   display: flex;
@@ -57,4 +59,5 @@ export const VideoContainer = styled.div`
 export const ProjectVideo = styled.video`
   display: flex;
   width: 100%;
+  margin-bottom: ${margins.xs};
 `;

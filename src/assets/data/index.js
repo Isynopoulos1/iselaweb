@@ -4,12 +4,11 @@ export const projects = [
     href: "ppayaz",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "ppayaz cover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951763558",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
     title: "P'payaz ",
     description:
       "P'payaz es un colectivo de creativos integrado por profesionistas de diferentes disciplinas. El equipo busca alejarse del cliché de una agencia, conectando al miembro adecuado de acuerdo a la naturaleza de cada proyecto. A través de un website con estilo minimalista destaca su simplicidad con elementos fundamentales, colores y formas. Visita el sitio web en: www.ppayaz.es",
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/secuencia_1_YuiJSlt8E.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653871926118",
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/secuencia_1_YuiJSlt8E.mp4",
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/mobile_l18stBHCa.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayazes_OO2NdeXhz.png"
@@ -21,17 +20,16 @@ export const projects = [
     href: "awa",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "AWA cover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/amelie-cover_FSjr1mQBk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951943523",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/amelie-cover_FSjr1mQBk.png",
     title: "AWA",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/layouts_-obrVQi-p.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653929772117",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/layouts_-obrVQi-p.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4"
   },
 
   {
@@ -39,134 +37,125 @@ export const projects = [
     href: "nixi",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Nixi cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nixi_2QtdgCJfR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951787789",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nixi_2QtdgCJfR.png",
     title: "Nixi for Children  ",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi-tab_2_OPeR4h8Kg.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655202513469",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/niciwall-container_xWrcQCxJt.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655223800969",
-
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi-prototype_2_gHnAE6axP.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655202625231"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_02.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_03.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_04.png"
     ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixivideo_0Ngp8wMPW.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654973221968"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_01.mp48"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "delivery-app",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Delivery App cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/deliver_nXGHALGHA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951914482",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/deliver_nXGHALGHA.png",
     title: "Delivery App ",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/designs_rNVg8IjkE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653933181807",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/pantone_ZI_95xIBV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653932723216",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/pantone_S2Ol6D_a6.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1653933466335"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_02.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655309686123",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_03.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655309720086",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_04.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655309707923"
     ],
-    video:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/app-video_cQL_9CrOp.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653935318086"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_01.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1655309650623"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "lozano-studio",
-    src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Lozano cover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/lozano-cover_GUntsovVG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951859020",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/lozano-cover_GUntsovVG.png",
     title: "Lozano Studio",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/devices_x8BNBE4_2.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1653937326841",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/mobile_image_LQkXCESyd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653936224380",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/pantone_7PJdMySPp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653936191036"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_02.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655309974587",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_03.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655309989246",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_04.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310004364"
     ],
-    video:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/banner_irlanda_uP-pnDPf9.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653937017298"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_01.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1655309958383"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "natours",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Natours cover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/natours-cover_oEj46T3WR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951817353",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/natours-cover_oEj46T3WR.png",
     title: "Natours",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/wireframe-natours_88SJU7HTL.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655115960785",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_02.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310168636",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_03.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310183853",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_04.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310201109",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_05.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310216561"
     ],
-    video:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours-video_soH_hSfVI.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654969848803"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_01.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1655310153333"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "doc-to-you",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Doc To You cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/doc-cover_YguBeaayA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653952659326",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/doc-cover_YguBeaayA.png",
     title: "Doc To You",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_02.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310347152",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_03.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310359547",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_04.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310368604"
     ],
-    video:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doctou.video_jNFMNG-2L.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654971622334"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_01.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1655310335843"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "oda-al-pan",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Oda al Pan cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/cover-oda_2oI6TiurK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951929612",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/cover-oda_2oI6TiurK.png",
     title: "Oda al Pan",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/ODA_CASE_3_NVQQdV80g.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653940570190",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/reticula_Uwp8DM8yG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653946538056",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/ODA_CASE_6_rEuv29pT6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653940552276"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_02.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310557020",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_3.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310545693",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310582589"
     ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda-banner_tVeaT0N_o.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1653947917651"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_01.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1655310531501"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "nexter",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Nexter cover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nexter-cover_gbg_CUfSC.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653952622226",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nexter-cover_gbg_CUfSC.png",
     title: "Nexter",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/wireframe-nexter_lnYwJYcjv.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655200589558",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter-mockup_RaZGQQj7f.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655041851287"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_02.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_03.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655309239829"
     ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_video_4ylYEkyzh.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654968717232"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_01.mp4"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "paypal",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Paypalcover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/paypal-cover_SBdfK6Fcn.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653952767638",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/paypal-cover_SBdfK6Fcn.png",
     title: "Paypal",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/paypal/quinto-paypal_Tdio1sRaR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655123866987",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/paypal/toolkit-paypal_2coNY4xCy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655049228491",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/paypal/paypal-mockup_7r3vrYmR_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655124602264"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/paypal/paypal_01.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310720359",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/paypal/paypal_02.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310737016",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/paypal/paypal_03.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655310757571"
     ]
   },
   {
@@ -174,99 +163,85 @@ export const projects = [
     href: "movistar",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Movistar cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/Movi-cover_9c7s_ZK8i.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951846463",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/Movi-cover_9c7s_ZK8i.png",
     title: "Movistar",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/movistar_02.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655311622409",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/movistar_03.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655311648512"
     ],
-    video:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/moviistar-video_hQ1DkcTc2.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654971386050"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/movistar_01.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1655311588155"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "reebok",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Reebok cover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/reebok-cover_XDbuPGGBy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951752448",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/reebok-cover_XDbuPGGBy.png",
     title: "Reebok",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/reebok/reebok_01.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655312837318",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/reebok/reebok_02.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655312897257",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/reebok/reebok_03.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655312563021"
+    ]
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "dog-chow",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Dog Chowcover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/dogchow-cover_SLLqmg52S.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653951886213",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/dogchow-cover_SLLqmg52S.png",
     title: "Dog Chow",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_01.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655313896938",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_02.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655313880237",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_03.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655313868007"
+    ]
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "isela-alarcon",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Isela Alarcóncover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653952591167",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png",
     title: "Isela Alarcón",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1622996247113"
+    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "gerber",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Gerber cover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/berger-cover_Y8I19idks.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653952676112",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/berger-cover_Y8I19idks.png",
     title: "Gerber",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [],
-    video:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/gerber/_por_que%CC%81_papa%CC%81_no_sale_en_las_fotos__di%CC%81a_del_padre__gerber__540p__WQ-Atf1H2.mov?ik-sdk-version=javascript-1.4.3&updatedAt=1655028456930"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/gerber/gerber_01.mp4"
   },
   {
     tags: ["UX-UI", "Animation", "Development"],
     href: "woomen",
     src: "https://ik.imagekit.io/ppayaz/ppayaz-website/LUISCUEVAS_j651FWl_T.png",
     alt: "Woomen cover",
-    cover:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/woomen-cover_qIit_E0oZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1653952569371",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/woomen-cover_qIit_E0oZ.png",
     title: "Woomen",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png?ik-sdk-version=javascript-1.4.3&updatedAt=1651768565143"
-    ],
-    video:
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/woomen/film.mp4__1080p__Y3E2E4Q-y.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1654972540672"
+    images: [],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/woomen/woomen_01.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1655310875259"
   }
 ];
 
