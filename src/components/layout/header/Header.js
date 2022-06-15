@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 //IMPORT STYLES
-import { HeaderContainer } from "./Header.styles";
+import { HeaderContainer, SubContainer } from "./Header.styles";
 
 //IMPORT COMPONENTS
 import AsideMenu from "@elements/asideMenu/AsideMenu";
@@ -18,11 +18,13 @@ const Header = () => {
   return (
     <>
       <HeaderContainer>
-        <Link to="/" onClick={() => setOpen(false)}>
-          <LogoDesktop color="black" width="150px" />
-        </Link>
-        {isOpen && <AsideMenu setOpen={setOpen} />}
-        <Menu isOpen={isOpen} setOpen={setOpen} color="black" width="150px" />
+        <SubContainer>
+          <Link to="/" onClick={() => setOpen(false)}>
+            <LogoDesktop color="black" width="150px" />
+          </Link>
+          {isOpen && <AsideMenu setOpen={setOpen} />}
+          <Menu isOpen={isOpen} setOpen={setOpen} color="black" width="150px" />
+        </SubContainer>
       </HeaderContainer>
     </>
   );

@@ -20,7 +20,7 @@ const AsideMenu = ({ setOpen }) => {
     <BgMenu>
       {categories.map((categorie, i) => {
         return (
-          <Link to={categorie.path} onClick={() => setOpen(false)}>
+          <Link key={i} to={categorie.path} onClick={() => setOpen(false)}>
             {categorie.label}
           </Link>
         );
