@@ -1,6 +1,22 @@
 import styled from "styled-components";
 import { colors, sizes, fonts, margins } from "@styles";
 
+export const Wrapper = styled.div`
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #0000004f;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  & img {
+    max-width: 1200px;
+  }
+`;
+
 export const MainProject = styled.main`
   position: relative;
   display: flex;
@@ -39,20 +55,6 @@ export const Description = styled.p`
   font-size: ${sizes.sm};
   font-weight: 200;
 `;
-export const ProjectContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-`;
-export const ProjectImage = styled.img`
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100%;
-  margin-bottom: ${margins.xs};
-`;
 export const VideoContainer = styled.div`
   display: flex;
 `;
@@ -60,4 +62,10 @@ export const ProjectVideo = styled.video`
   display: flex;
   width: 100%;
   margin-bottom: ${margins.xs};
+`;
+export const ProjectContainer = styled.div`
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  width: calc(100% + 12px);
 `;
