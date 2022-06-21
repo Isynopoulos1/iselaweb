@@ -7,10 +7,12 @@ export const projects = [
     title: "P'payaz ",
     description:
       "P'payaz es un colectivo de creativos integrado por profesionistas de diferentes disciplinas. El equipo busca alejarse del cliché de una agencia, conectando al miembro adecuado de acuerdo a la naturaleza de cada proyecto. A través de un website con estilo minimalista destaca su simplicidad con elementos fundamentales, colores y formas. Visita el sitio web en: www.ppayaz.es",
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/secuencia_1_YuiJSlt8E.mp4",
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_01.mp4",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/mobile_l18stBHCa.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayazes_OO2NdeXhz.png"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_02.jpeg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_03.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_04.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_05.png"
     ]
   },
 
