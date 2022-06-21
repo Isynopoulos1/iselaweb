@@ -15,6 +15,9 @@ export const SquareWrapper = styled.div`
   &:nth-child(2n + 1) {
     margin-right: 12px;
   }
+  @media only screen and (max-width: 1000px) {
+    width: calc(100% + 12px);
+  }
 `;
 
 export const SquareImage = styled.img`

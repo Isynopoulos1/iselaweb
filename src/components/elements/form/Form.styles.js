@@ -25,6 +25,12 @@ export const InputStyle = styled.input`
   &:focus {
     outline: none;
   }
+  @media only screen and (max-width: 700px) {
+    width: 450px;
+  }
+  @media only screen and (max-width: 500px) {
+    width: 350px;
+  }
 `;
 
 export const TextAreaStyle = styled.textarea`
@@ -45,5 +51,11 @@ export const TextAreaStyle = styled.textarea`
   }
   &:focus {
     outline: none;
+  }
+  @media only screen and (max-width: 700px) {
+    width: 450px;
+  }
+  @media only screen and (max-width: 500px) {
+    width: 350px;
   }
 `;

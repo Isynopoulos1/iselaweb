@@ -1,6 +1,14 @@
 import styled from "styled-components";
 import { colors, sizes, fonts, margins } from "@styles";
 
+export const MainProject = styled.main`
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 1200px;
+`;
 export const Wrapper = styled.div`
   position: fixed;
   top: 0;
@@ -16,16 +24,6 @@ export const Wrapper = styled.div`
     max-width: 1200px;
   }
 `;
-
-export const MainProject = styled.main`
-  position: relative;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  margin: 0 auto;
-  max-width: 1200px;
-`;
-
 export const NameProject = styled.h1`
   display: flex;
   align-items: center;
