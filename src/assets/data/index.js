@@ -103,9 +103,10 @@ export const projects = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_02.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_02.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_03.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_04.png"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_04.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_05.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655802216058g"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_01.mp4"
   },
@@ -120,7 +121,8 @@ export const projects = [
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_02.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_3.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_4.png"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_4.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_05.png"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_01.mp4"
   },
@@ -190,8 +192,9 @@ export const projects = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_01.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_02.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_03.png"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_02_HmUjDIFOj.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_03.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dochow_05.jpg"
     ]
   },
   {
