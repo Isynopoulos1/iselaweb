@@ -6,10 +6,6 @@ import { AboutContainer, Photo, Description, Greetings } from "./About.styles";
 const About = () => {
   return (
     <AboutContainer>
-      <Photo
-        src="https://ik.imagekit.io/ppayaz/iselalarcon/about/1645198493321_KhmFRf9M1.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1653900861003"
-        alt="Photo"
-      />
       <Description>
         <Greetings>Hi, I'm Isela :) </Greetings>
         I'm a UX/UI Designer from Mexico currently based in Barcelona. I've a strong passion for design, art, cooking, digital tendencies, fashion,
@@ -22,6 +18,10 @@ const About = () => {
         on my own as a web developer. My profile matches such a hybrid between designer and web developer. In fact, I love working in both areas
         equally!
       </Description>
+      <Photo
+        src="https://ik.imagekit.io/ppayaz/iselalarcon/about/1645198493321_KhmFRf9M1.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1653900861003"
+        alt="Photo"
+      />
     </AboutContainer>
   );
 };
