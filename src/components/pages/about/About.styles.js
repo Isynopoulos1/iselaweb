@@ -17,6 +17,9 @@ export const Photo = styled.img`
   align-items: center;
   max-width: 1200px;
   margin-top: ${margins.xs};
+  @media only screen and (max-width: 700px) {
+    max-width: 500px;
+  }
 `;
 export const Description = styled.div`
   display: flex;

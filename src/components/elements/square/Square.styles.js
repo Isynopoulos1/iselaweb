@@ -16,7 +16,7 @@ export const SquareWrapper = styled.div`
     margin-right: 12px;
   }
   @media only screen and (max-width: 1000px) {
-    width: calc(100% + 12px);
+    width: calc(100% - 2px - 12px);
   }
 `;
 
