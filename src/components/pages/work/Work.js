@@ -11,12 +11,16 @@ import {
   Wrapper,
   MainProject,
   NameProject,
-  Description,
+  Context,
   ProjectImage,
   ProjectVideo,
   ProjectWrapper,
-  DescriptionContainer,
-  ProjectContainer
+  DataContainer,
+  ProjectContainer,
+  Challenges,
+  User,
+  Process,
+  Tools
 } from "./Work.styles";
 
 const Work = ({ match }) => {
@@ -43,10 +47,14 @@ const Work = ({ match }) => {
         </Wrapper>
       )}
       <NameProject>{project?.title}</NameProject>
-      <DescriptionContainer>
-        <Description>{project?.description}</Description>
-      </DescriptionContainer>
+      <DataContainer>
+        <Context>{project?.context}</Context>
+        <Challenges>{project?.challenges}</Challenges>
+        <User>{project?.user}</User>
+      </DataContainer>
       {project?.video && <ProjectVideo src={project?.video} autoPlay muted loop />}
+      <Process>{project?.process}</Process>
+      <Tools>{project?.tools}</Tools>
       <ProjectContainer>
         {project?.images.map((img, i) => (
           <Square key={i} src={img} index={i} onClick={() => handleSelect(img)} />

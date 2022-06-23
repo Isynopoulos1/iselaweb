@@ -5,8 +5,16 @@ export const projects = [
     alt: "ppayaz cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
     title: "P'payaz ",
-    description:
-      "P'payaz es un colectivo de creativos integrado por profesionistas de diferentes disciplinas. El equipo busca alejarse del cliché de una agencia, conectando al miembro adecuado de acuerdo a la naturaleza de cada proyecto. A través de un website con estilo minimalista destaca su simplicidad con elementos fundamentales, colores y formas. Visita el sitio web en: www.ppayaz.es",
+    context: [
+      "Context:,P'payaz is an artist collective made up of professionals from different disciplines.",
+      "Context:,P'payaz is an artist collective made up of professionals from different disciplines.",
+      "Context:,P'payaz is an artist collective made up of professionals from different disciplines."
+    ],
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process:
+      "Process: In Figma I created wireframes to structure each of the content pages: Home, Services, Cases and Contact. Through Atomic Design I created components to potentially implement them in programming and in this way make different reusable elements. Later I developed different components in React to create buttons with effects such as hover. Implement a map to create a content structure on the cards for each case. In the services section I used a library of SVG icons to which I gave them a transition and opacity effect. The contact page links to the different social networks of the brand. Through a clean website with minimal style. I highlighted the primary color of its logo in vector shapes and fundamental elements, in this way it achieved the main objective. Visit the website at: www.ppayaz.es. ",
+    tools: "Tools: Development: React, Javascript, CSS, SASS. UX: Figma. Design: Photoshop, Illustrator. Animation: After Effects, Premiere",
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_01.mp4",
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_02.jpeg",

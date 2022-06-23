@@ -26,6 +26,7 @@ export const fonts = {
 };
 
 export const margins = {
+  xss: " 20px",
   xs: " 50px",
   sm: "100px",
   md: "200px",
