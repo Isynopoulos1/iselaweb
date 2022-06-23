@@ -26,8 +26,7 @@ export const Wrapper = styled.div`
 `;
 export const NameProject = styled.h1`
   display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: left;
   width: 100%;
   margin-top: ${margins.md};
   font-family: ${fonts.font1};
@@ -40,7 +39,7 @@ export const DataContainer = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  text-align: left;
 `;
 export const Category = styled.h1`
   display: flex;
@@ -53,32 +52,30 @@ export const Context = styled.p`
   line-height: 2;
   flex-direction: column;
   display: flex;
-  text-align: center;
+  text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
   font-weight: 200;
-  margin-bottom: ${margins.xss};
 `;
 export const Challenges = styled.p`
   line-height: 2;
-  text-align: center;
+  text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
   font-weight: 200;
-  margin-bottom: ${margins.xss};
 `;
 export const User = styled.p`
   line-height: 2;
-  text-align: center;
+  text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
   font-weight: 200;
-  margin-bottom: ${margins.xss};
+  margin-bottom: ${margins.xs};
 `;
 export const Process = styled.div`
   & p {
     line-height: 2;
-    text-align: center;
+    text-align: left;
     font-family: ${fonts.font1};
     font-size: ${sizes.sm};
     font-weight: 200;
@@ -87,7 +84,7 @@ export const Process = styled.div`
 export const Tools = styled.div`
   line-height: 2;
   font-weight: 400;
-  text-align: center;
+  text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.xs};
   margin-bottom: ${margins.xs};
