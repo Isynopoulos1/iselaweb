@@ -67,14 +67,18 @@ export const projects = [
       "Context: Nixi For Children is a startup based in Barcelona, witch helps to families around the world developing immersive experiences of virtual reality to reduce patient anxiety.",
     challenges: "Main Challenges: Help hospitals afford to implement and maintain Nixi for their patients. Family engagement",
     user: "User I Persona: Families embracing new digital trends and looking to help their children or family members reduce preoperative anxiety. ",
-    process: [],
-    tools: [
-      "Tools:",
-      "Development: React, Javascript, CSS, SASS. ",
-      "UX: Figma.",
-      " Design: Photoshop, Illustrator.",
-      "Animation: After Effects, Premiere."
+    process: [
+      "Process: Research. We used Typeform such as tool to collected data and figured out the pain and gains of the parents.",
+      "60% Of the parents interviewed think their children are afraid when they visit the doctor.",
+      "40% Of them, look for information on the internet.",
+      "40% Look for information, asking friends and family members.",
+      "57% Have shared information with other parents.",
+      "Define (the Problem): This is how we detected that parents also suffer from anxiety generated when separating from children, feeling alone, or not having enough information.",
+      "Ideate: Nixi Family Wall. Take care of the family it is as important as caring for the patient. We create a community that accompanies the family at all stages, sharing information between parents, supporting and creating links.",
+      "Development: Nixi connects families who want to help and need to be supported. In this way we build communities of support between families. Prototype mvp (minimal viable product). Implementation using the hashtag #NixiFamilyWall to drive traffic to social networks.",
+      "Test: Create a design system that could scale. Evolution to Progressive Web app can also be installed on the phone through the current website."
     ],
+    tools: ["Tools:", "UX: Figma, Typescript.", "Design: Photoshop, Illustrator.", " Animation: After Effects, Premiere."],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_02.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_03.jpg",
