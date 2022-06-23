@@ -5,16 +5,22 @@ export const projects = [
     alt: "ppayaz cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
     title: "P'payaz ",
-    context: [
-      "Context:,P'payaz is an artist collective made up of professionals from different disciplines.",
-      "Context:,P'payaz is an artist collective made up of professionals from different disciplines.",
-      "Context:,P'payaz is an artist collective made up of professionals from different disciplines."
-    ],
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
     challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
     user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
-    process:
-      "Process: In Figma I created wireframes to structure each of the content pages: Home, Services, Cases and Contact. Through Atomic Design I created components to potentially implement them in programming and in this way make different reusable elements. Later I developed different components in React to create buttons with effects such as hover. Implement a map to create a content structure on the cards for each case. In the services section I used a library of SVG icons to which I gave them a transition and opacity effect. The contact page links to the different social networks of the brand. Through a clean website with minimal style. I highlighted the primary color of its logo in vector shapes and fundamental elements, in this way it achieved the main objective. Visit the website at: www.ppayaz.es. ",
-    tools: "Tools: Development: React, Javascript, CSS, SASS. UX: Figma. Design: Photoshop, Illustrator. Animation: After Effects, Premiere",
+    process: [
+      "Process: In Figma I created wireframes to structure each of the content pages: Home, Services, Cases and Contact.",
+      "Process: In Figma I created wireframes to structure each of the content pages: Home, Services, Cases and Contact.",
+      "Process: In Figma I created wireframes to structure each of the content pages: Home, Services, Cases and Contact."
+    ],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_01.mp4",
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_02.jpeg",
@@ -30,8 +36,18 @@ export const projects = [
     alt: "AWA cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/amelie-cover_FSjr1mQBk.png",
     title: "AWA",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/layouts_-obrVQi-p.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png",
@@ -46,8 +62,19 @@ export const projects = [
     alt: "Nixi cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nixi_2QtdgCJfR.png",
     title: "Nixi for Children  ",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "UX-UI I Case Study",
+    context:
+      "Context: Nixi For Children is a startup based in Barcelona, witch helps to families around the world developing immersive experiences of virtual reality to reduce patient anxiety.",
+    challenges: "Main Challenges: Help hospitals afford to implement and maintain Nixi for their patients. Family engagement",
+    user: "User I Persona: Families embracing new digital trends and looking to help their children or family members reduce preoperative anxiety. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_02.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_03.jpg",
@@ -62,8 +89,18 @@ export const projects = [
     alt: "Delivery App cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/deliver_nXGHALGHA.png",
     title: "Delivery App ",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_05.jpeg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_02.png",
@@ -78,8 +115,18 @@ export const projects = [
     alt: "Lozano cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/lozano-cover_GUntsovVG.png",
     title: "Lozano Studio",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_02.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_05.jpg",
@@ -94,8 +141,18 @@ export const projects = [
     alt: "Natours cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/natours-cover_oEj46T3WR.png",
     title: "Natours",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_02.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_05.jpg",
@@ -110,8 +167,18 @@ export const projects = [
     alt: "Doc To You cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/doc-cover_YguBeaayA.png",
     title: "Doc To You",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_02.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_03.png",
@@ -126,8 +193,18 @@ export const projects = [
     alt: "Oda al Pan cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/cover-oda_2oI6TiurK.png",
     title: "Oda al Pan",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_02.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_3.png",
@@ -142,8 +219,18 @@ export const projects = [
     alt: "Nexter cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nexter-cover_gbg_CUfSC.png",
     title: "Nexter",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_02.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_03.png"
@@ -156,8 +243,18 @@ export const projects = [
     alt: "Paypalcover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/paypal-cover_SBdfK6Fcn.png",
     title: "Paypal",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/paypal/paypal_01.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/paypal/paypal_02.png",
@@ -171,8 +268,18 @@ export const projects = [
     alt: "Movistar cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/Movi-cover_9c7s_ZK8i.png",
     title: "Movistar",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/movistar_02.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/movistar_03.png"
@@ -185,8 +292,18 @@ export const projects = [
     alt: "Reebok cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/reebok-cover_XDbuPGGBy.png",
     title: "Reebok",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/reebok/reebok_02.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/reebok/reebok_03.png"
@@ -198,8 +315,18 @@ export const projects = [
     alt: "Dog Chowcover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/dogchow-cover_SLLqmg52S.png",
     title: "Dog Chow",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_01.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_02_HmUjDIFOj.jpg",
@@ -213,8 +340,18 @@ export const projects = [
     alt: "Isela Alarcóncover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png",
     title: "Isela Alarcón",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png",
@@ -228,8 +365,18 @@ export const projects = [
     alt: "Gerber cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/berger-cover_Y8I19idks.png",
     title: "Gerber",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/gerber/gerber_01.mp4"
   },
@@ -239,8 +386,18 @@ export const projects = [
     alt: "Woomen cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/woomen-cover_qIit_E0oZ.png",
     title: "Woomen",
-    description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    category: "Development I UX-UI I Branding I Art Direction",
+    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
+    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
+    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    process: [],
+    tools: [
+      "Tools:",
+      "Development: React, Javascript, CSS, SASS. ",
+      "UX: Figma.",
+      " Design: Photoshop, Illustrator.",
+      "Animation: After Effects, Premiere."
+    ],
     images: [],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/woomen/woomen_01.mp4"
   }

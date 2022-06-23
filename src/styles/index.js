@@ -14,7 +14,7 @@ export const sizes = {
   xss: "10px",
   xs: "12px",
   sm: "14px",
-  md: "16px",
+  md: "20px",
   lg: "25px",
   xl: "34px",
   xll: "40px",

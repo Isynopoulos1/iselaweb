@@ -32,8 +32,8 @@ export const NameProject = styled.h1`
   margin-top: ${margins.md};
   font-family: ${fonts.font1};
   font-size: ${sizes.lg};
-  font-weight: 200;
-  margin-bottom: ${margins.xs};
+  font-weight: 400;
+  margin-bottom: ${margins.xss};
 `;
 
 export const DataContainer = styled.div`
@@ -41,6 +41,13 @@ export const DataContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+`;
+export const Category = styled.h1`
+  display: flex;
+  font-family: ${fonts.font1};
+  font-size: ${sizes.sm};
+  font-weight: bolder;
+  margin-bottom: ${margins.xss};
 `;
 export const Context = styled.p`
   line-height: 2;
@@ -54,7 +61,6 @@ export const Context = styled.p`
 `;
 export const Challenges = styled.p`
   line-height: 2;
-  display: inline;
   text-align: center;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
@@ -63,24 +69,23 @@ export const Challenges = styled.p`
 `;
 export const User = styled.p`
   line-height: 2;
-  display: inline;
   text-align: center;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
   font-weight: 200;
   margin-bottom: ${margins.xss};
 `;
-export const Process = styled.p`
-  line-height: 2;
-  display: inline;
-  text-align: center;
-  font-family: ${fonts.font1};
-  font-size: ${sizes.sm};
-  font-weight: 200;
+export const Process = styled.div`
+  & p {
+    line-height: 2;
+    text-align: center;
+    font-family: ${fonts.font1};
+    font-size: ${sizes.sm};
+    font-weight: 200;
+  }
 `;
-export const Tools = styled.p`
+export const Tools = styled.div`
   line-height: 2;
-  display: inline;
   font-weight: 400;
   text-align: center;
   font-family: ${fonts.font1};

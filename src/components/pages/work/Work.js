@@ -16,6 +16,7 @@ import {
   ProjectVideo,
   ProjectWrapper,
   DataContainer,
+  Category,
   ProjectContainer,
   Challenges,
   User,
@@ -48,13 +49,22 @@ const Work = ({ match }) => {
       )}
       <NameProject>{project?.title}</NameProject>
       <DataContainer>
+        <Category>{project?.category}</Category>
         <Context>{project?.context}</Context>
         <Challenges>{project?.challenges}</Challenges>
         <User>{project?.user}</User>
       </DataContainer>
       {project?.video && <ProjectVideo src={project?.video} autoPlay muted loop />}
-      <Process>{project?.process}</Process>
-      <Tools>{project?.tools}</Tools>
+      <Process>
+        {project?.process.map((line, i) => {
+          return <p key={i}>{line}</p>;
+        })}
+      </Process>
+      <Tools>
+        {project?.tools.map((filter, i) => {
+          return <p key={i}>{filter}</p>;
+        })}
+      </Tools>
       <ProjectContainer>
         {project?.images.map((img, i) => (
           <Square key={i} src={img} index={i} onClick={() => handleSelect(img)} />
