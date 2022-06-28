@@ -340,10 +340,14 @@ export const projects = [
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png",
     title: "Isela Alarcón",
     category: "Development I UX-UI I Branding I Art Direction I Animation",
-    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
-    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
-    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
-    process: [],
+    context: "Context: ia is my personal firm, I wanted to show my work in a clean space that is modern and minimalist.",
+    challenges: "Main Challenges: Building a personalized website in React to showcase my creative work.",
+    user: "User I Persona: Potential work and people searching for inspiration. ",
+    process: [
+      "First I created my personal logo. I wanted to develop a branding short and easy to read. Elegant and minimalist. So I decided to use just the first letters of my name.",
+      "Then, in Figma I created wireframes with the site mapping,  flows, and components that potentially be reused in code. ",
+      "In programming, I thought of a website that potentially is translated to Spanish with traditional sections such as:  About Me, Work, and Contact. I used React technology, I designed components such as buttons, social icons, cards, and different elements to build an atomic system. I implemented styled components to create lists of styles for reused and dry code. I created a map list to put different cards with video content."
+    ],
     tools: [
       "Tools:",
       "Development: React, Javascript, CSS, SASS. ",
@@ -352,9 +356,8 @@ export const projects = [
       "Animation: After Effects, Premiere."
     ],
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/1200-container_up1w6WBEo.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/muck_OdvKT2FR9.jpg"
     ],
     video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4"
   },
