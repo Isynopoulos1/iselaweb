@@ -22,7 +22,7 @@ export const sizes = {
 };
 
 export const fonts = {
-  font1: " Roboto Flex , sans-serif"
+  font1: " Roboto , sans-serif"
 };
 
 export const margins = {

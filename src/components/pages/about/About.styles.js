@@ -29,7 +29,7 @@ export const Description = styled.div`
   line-height: 2;
   max-width: 1200px;
   font-size: ${sizes.sm};
-  font-family: "Roboto Flex", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 200;
 `;
 export const Greetings = styled.p`

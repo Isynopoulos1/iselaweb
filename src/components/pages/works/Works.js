@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 //IMPORT COMPONENTS
 import BtnFilter from "@elements/filters/BtnFilter";
@@ -11,10 +11,23 @@ import { WorkContainer, Filters, Covers } from "./Works.styles";
 import { projects, labels } from "@assets/data";
 
 const Works = () => {
+  // HOOKS
+  const [filter, setFilter] = useState("");
+
+  // HANDLE FUNCTIONS
+  const handleFilter = label => {
+    return filter === label ? setFilter("") : setFilter(label);
+  };
+
+  // RENDER FUNCTIONS
   const renderProjects = () => {
-    return projects.map((card, i) => {
-      return <Card key={i} cover={card.cover} title={card.title} href={card.href} />;
-    });
+    return projects
+      .filter(card => {
+        return !filter ? card : card.tags.includes(filter);
+      })
+      .map((card, i) => {
+        return <Card key={i} cover={card.cover} title={card.title} href={card.href} />;
+      });
   };
 
   // MAIN RENDER
@@ -22,7 +35,7 @@ const Works = () => {
     <WorkContainer>
       <Filters>
         {labels?.map((label, i) => {
-          return <BtnFilter key={i} label={label} />;
+          return <BtnFilter key={i} label={label} onClick={() => handleFilter(label)} filter={filter} />;
         })}
       </Filters>
 
