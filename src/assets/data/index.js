@@ -1,6 +1,6 @@
 export const projects = [
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["UX-UI", "Animation", "Development, Branding"],
     href: "ppayaz",
     alt: "ppayaz cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
@@ -30,7 +30,7 @@ export const projects = [
   },
 
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["UX-UI", "Development"],
     href: "awa",
     alt: "AWA cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/amelie-cover_FSjr1mQBk.png",
@@ -94,7 +94,8 @@ export const projects = [
       "Context: This is a project created in the course of Motion Design with Figma in Udemy. I used this UI UX design tool to create User Interfaces and engaging prototypes.",
     challenges:
       "Main Challenges: My goal for this project was to launch a delivery app building interactions, animation and motion graphics, friendly and easy to use.",
-    user: "User I Persona: Nina. She is 30 years old freelancer, currently working from home. Nina hasn’t enough time to cook so she used to order delivery food. ",
+    user:
+      "User I Persona: Nina. She is 30 years old freelancer, currently working from home. Nina hasn’t enough time to cook so she used to order delivery food. ",
     process: [
       "I thought was important to give the users the possibility to choose options such as health and comfort food in the app. I decided to highlight the promo of the day to facilitate the purchase process and generate revenue. I wanted to create an intuitive design flow that was handy to use. I created flashy interactions with masking techniques and a complex order progress prototype.",
       "- Using parallax to draw attention",
@@ -171,7 +172,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["Branding", "Animation"],
     href: "doc-to-you",
     alt: "Doc To You cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/doc-cover_YguBeaayA.png",
@@ -197,7 +198,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["Branding", "Animation"],
     href: "oda-al-pan",
     alt: "Oda al Pan cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/cover-oda_2oI6TiurK.png",
@@ -206,7 +207,8 @@ export const projects = [
     context:
       "Context: Oda al pan; a familiar business that exalts the best of traditional Mexican bakery, adapting to a market that seeks authenticity.",
     challenges: "Main Challenges: Create a logotype that reflects authenticity and elegance.",
-    user: "User I Persona: People between 30 and 45 years old who live in Mexico City. They usually order food online and look for quality products at a reasonable price. ",
+    user:
+      "User I Persona: People between 30 and 45 years old who live in Mexico City. They usually order food online and look for quality products at a reasonable price. ",
     process: [
       "I developed a corporate image whose main element is a wheat leaf, to emphasize the main ingredient I chose a warm primary color that reflected the golden tones of the bread. I decided to use a classic serif typeface that subtly has wheat leaves at the ends. The result: a dynamic and elegant logo."
     ],
@@ -244,7 +246,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["Branding", "Art Direction"],
     href: "paypal",
     alt: "Paypalcover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/paypal-cover_SBdfK6Fcn.png",
@@ -266,7 +268,7 @@ export const projects = [
     ]
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["Animation", "Art Direction"],
     href: "movistar",
     alt: "Movistar cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/Movi-cover_9c7s_ZK8i.png",
@@ -288,7 +290,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/movistar_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["Art Direction"],
     href: "reebok",
     alt: "Reebok cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/reebok-cover_XDbuPGGBy.png",
@@ -296,7 +298,8 @@ export const projects = [
     category: " Art Direction",
     context: "Context: Reebok is an American snickers, sports apparel and accessory company. Positioned worldwide for the quality of its products.",
     challenges: "Main Challenges: Develop a campaign on social networks to encourage purchases on Valentine's Day.",
-    user: "User I Persona: Users from 20 to 30 years old, who actively participate in Instagram to stay updated on fashion trends, get informed and receive promotions. ",
+    user:
+      "User I Persona: Users from 20 to 30 years old, who actively participate in Instagram to stay updated on fashion trends, get informed and receive promotions. ",
     process: [
       "Everyone has a friend with whom we can share everything, even the style. This Valentine's Day we celebrate those who have the perfect partner, the one with whom they can share the same Reebok garment and thus make a Partner Match.Created a sticker for IG stories. Users had to share a photo with their best friend saying why they are Partner Match and add the sticker. Those who uploaded their photograph participated in the promotion. In addition, Instagrammers joined the campaign in a #PerfectMatchChallenge, sharing side by side how much they knew about their best friend."
     ],
@@ -307,7 +310,7 @@ export const projects = [
     ]
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["Art Direction"],
     href: "dog-chow",
     alt: "Dog Chowcover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/dogchow-cover_SLLqmg52S.png",
@@ -317,7 +320,8 @@ export const projects = [
       "Context: Dog Chow is a brand of dog food marketed and manufactured by Nestlé Purina. They want to celebrate the dogs with a special date.",
     challenges:
       "Main Challenges: They seek to position dog day in the consumer's mind as a special date in which man's best friend deserves recognition.",
-    user: "User I Persona: FB and IG users between 25 and 50 years old who are dog lovers and want to join this celebration by sharing the love they have for their pet on their social networks.",
+    user:
+      "User I Persona: FB and IG users between 25 and 50 years old who are dog lovers and want to join this celebration by sharing the love they have for their pet on their social networks.",
     process: [
       "We launched a teaser of the day, inviting IG and FB users to participate in the celebration, writing via inbox the things they loved to share with their pets. Previously, a shooting of cakes prepared with Purina Dog Chow was developed, which on the day of the launch we personalized with toys and names of the pets from each of the messages received on social media. As a result, a high participation of users and new followers of the brand was obtained, as well as the positioning of this date, which is now celebrated annually by Dog Chow."
     ],
@@ -330,7 +334,7 @@ export const projects = [
     ]
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["UX-UI", "Animation", "Development", "Branding", "Art Direction"],
     href: "isela-alarcon",
     alt: "Isela Alarcóncover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png",
@@ -358,7 +362,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["Animation", "Art Direction"],
     href: "gerber",
     alt: "Gerber cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/berger-cover_Y8I19idks.png",
@@ -366,7 +370,8 @@ export const projects = [
     category: "Art Direction",
     context: "Context: Gerber is a brand of infant food, specializing in the manufacture of natural foods without preservatives or sweeteners.",
     challenges: "Main Challenges: Digital campaign to position and celebrate Father's Day.",
-    user: "User I Persona: Young families who consume the brand's products, who usually use social networks to share tips, connect with friends and share moments of their lives. ",
+    user:
+      "User I Persona: Young families who consume the brand's products, who usually use social networks to share tips, connect with friends and share moments of their lives. ",
     process: [
       "We realized that parents generally have the task in the family of taking photos of mothers and children. With this idea in mind we decided to make a commemorative video. Celebrating this adorable work. In addition, we developed a dynamic on social networks where we asked families who follow the brand to share their favorite photos with us to celebrate Father's Day. We responded to their messages by generating a commemorative frame allusive to the day where we placed the photo they had shared with us. The video was launched in a digital campaign on the official website and social networks. Where we show the different photos that users did not previously share, generating closeness with the brand's consumers."
     ],
@@ -375,7 +380,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/gerber/gerber_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["Art Direction", "Animation"],
     href: "woomen",
     alt: "Woomen cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/woomen-cover_qIit_E0oZ.png",
