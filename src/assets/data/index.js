@@ -1,6 +1,6 @@
 export const projects = [
   {
-    tags: ["UX-UI", "Animation", "Development, Branding"],
+    tags: ["UX-UI", "Animation", "Development", "Branding"],
     href: "ppayaz",
     alt: "ppayaz cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
@@ -27,32 +27,6 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_04.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_05.png"
     ]
-  },
-
-  {
-    tags: ["UX-UI", "Development"],
-    href: "awa",
-    alt: "AWA cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/amelie-cover_FSjr1mQBk.png",
-    title: "AWA",
-    category: "Development I UX-UI ",
-    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
-    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
-    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
-    process: [],
-    tools: [
-      "Tools:",
-      "Development: React, Javascript, CSS, SASS. ",
-      "UX: Figma.",
-      " Design: Photoshop, Illustrator.",
-      "Animation: After Effects, Premiere."
-    ],
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/layouts_-obrVQi-p.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/logo_desktop_black_JlhAlF9Jk.png"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4"
   },
 
   {
@@ -84,7 +58,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["UX-UI", "Animation"],
     href: "delivery-app",
     alt: "Delivery App cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/deliver_nXGHALGHA.png",
@@ -356,10 +330,12 @@ export const projects = [
       "Animation: After Effects, Premiere."
     ],
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/1200-container_up1w6WBEo.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/muck_OdvKT2FR9.jpg"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-03.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-01.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-02.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-04.jpg"
     ],
-    video: "https://ik.imagekit.io/ppayaz/ppayaz-website/ODA_WEB_2696X1042_2ok1K5MbR.mp4"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-05.mp4"
   },
   {
     tags: ["Animation", "Art Direction"],
