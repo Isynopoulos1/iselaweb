@@ -25,3 +25,30 @@ export const BgMenu = styled.aside`
     transition: white 0.8s linear 0.5s;
   }
 `;
+export const Languaje = styled.div`
+  display: flex;
+  justify-content: space-between;
+  width: 50px;
+`;
+export const Spanish = styled.p`
+  font-family: ${fonts.font1};
+  color: ${colors.lightergray};
+  font-size: ${sizes.xs};
+  font-weight: 300;
+  border-right: 1px solid black;
+  width: 25px;
+  cursor: pointer;
+  &:hover {
+    color: ${colors.black};
+  }
+`;
+export const English = styled.p`
+  font-family: ${fonts.font1};
+  color: ${colors.lightergray};
+  font-size: ${sizes.xs};
+  font-weight: 300;
+  cursor: pointer;
+  &:hover {
+    color: ${colors.black};
+  }
+`;

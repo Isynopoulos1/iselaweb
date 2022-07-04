@@ -5,7 +5,7 @@ import { Link, Route } from "react-router-dom";
 import { projects } from "@assets/data";
 
 //IMPORT STYLES
-import { BgMenu } from "./AsideMenu.styles";
+import { BgMenu, Languaje, Spanish, English } from "./AsideMenu.styles";
 
 //IMPORT COMPONENTS
 import LogoDesktop from "@elements/logo/LogoDesktop";
@@ -25,6 +25,10 @@ const AsideMenu = ({ setOpen }) => {
           </Link>
         );
       })}
+      <Languaje>
+        <Spanish>Es</Spanish>
+        <English>En</English>
+      </Languaje>
     </BgMenu>
   );
 };
