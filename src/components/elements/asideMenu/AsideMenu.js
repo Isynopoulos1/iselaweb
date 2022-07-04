@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, Route } from "react-router-dom";
+import PropTypes from "prop-types";
 
 //IMPORT DATA
 import { projects } from "@assets/data";
@@ -25,12 +26,28 @@ const AsideMenu = ({ setOpen }) => {
           </Link>
         );
       })}
+
       <Languaje>
-        <Spanish>Es</Spanish>
+        <Spanish
+          onClick={() => {
+            console.log("caca");
+          }}
+        >
+          Es
+        </Spanish>
         <English>En</English>
       </Languaje>
     </BgMenu>
   );
+};
+Languaje.propTypes = {
+  translate: PropTypes.string,
+  onClick: PropTypes.func
+};
+
+Languaje.defaultProps = {
+  translate: "languaje1",
+  onClick: () => {}
 };
 
 export default AsideMenu;

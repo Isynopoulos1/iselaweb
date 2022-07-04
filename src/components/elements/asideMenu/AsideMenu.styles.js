@@ -30,7 +30,7 @@ export const Languaje = styled.div`
   justify-content: space-between;
   width: 50px;
 `;
-export const Spanish = styled.p`
+export const Spanish = styled.div`
   font-family: ${fonts.font1};
   color: ${colors.lightergray};
   font-size: ${sizes.xs};
