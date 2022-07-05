@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { colors, sizes } from "@styles";
+import { colors, sizes, margins } from "@styles";
 
 export const FooterContainer = styled.footer`
   display: flex;
@@ -9,7 +9,7 @@ export const FooterContainer = styled.footer`
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 150px;
+  height: ${margins.xs};
   background-color: ${colors.white};
 `;
 

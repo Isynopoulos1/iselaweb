@@ -17,7 +17,7 @@ export const Container = styled.div`
 `;
 export const MainVideo = styled.video`
   display: flex;
-  margin-top: ${margins.sm};
+  margin-top: ${margins.xs};
   justify-content: center;
   align-items: center;
   max-width: 1200px;
