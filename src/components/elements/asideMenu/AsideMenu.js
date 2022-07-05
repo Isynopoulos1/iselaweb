@@ -1,32 +1,33 @@
 import React from "react";
-import { Link, Route } from "react-router-dom";
+import { Link } from "react-router-dom";
+import { useSelector } from "react-redux";
+import { getTranslate } from "r1-localize";
 import PropTypes from "prop-types";
-
-//IMPORT DATA
-import { projects } from "@assets/data";
 
 //IMPORT STYLES
 import { BgMenu, Languaje, Spanish, English } from "./AsideMenu.styles";
 
-//IMPORT COMPONENTS
-import LogoDesktop from "@elements/logo/LogoDesktop";
-
 const AsideMenu = ({ setOpen }) => {
+  // HOOKS
+  const translate = useSelector(state => getTranslate(state.localize));
+
+  // DATA
   const categories = [
-    { path: "/about", label: "About" },
-    { path: "/works", label: "Works" },
-    { path: "/contact", label: "Contact" }
+    { path: "/about", label: "menu.about" },
+    { path: "/works", label: "menu.works" },
+    { path: "/contact", label: "menu.contact" }
   ];
+
+  // MAIN RENDER
   return (
     <BgMenu>
       {categories.map((categorie, i) => {
         return (
           <Link key={i} to={categorie.path} onClick={() => setOpen(false)}>
-            {categorie.label}
+            {translate(categorie.label)}
           </Link>
         );
       })}
-
       <Languaje>
         <Spanish
           onClick={() => {
@@ -39,15 +40,6 @@ const AsideMenu = ({ setOpen }) => {
       </Languaje>
     </BgMenu>
   );
-};
-Languaje.propTypes = {
-  translate: PropTypes.string,
-  onClick: PropTypes.func
-};
-
-Languaje.defaultProps = {
-  translate: "languaje1",
-  onClick: () => {}
 };
 
 export default AsideMenu;

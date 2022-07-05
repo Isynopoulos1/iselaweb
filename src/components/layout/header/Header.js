@@ -13,8 +13,6 @@ const Header = () => {
   //HOOKS
   const [isOpen, setOpen] = useState(false);
 
-  //HANDLE FUNCTION
-
   return (
     <>
       <HeaderContainer>

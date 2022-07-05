@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import { useSelector } from "react-redux";
+import { getTranslate } from "r1-localize";
 
 // IMPORT DATA
 import { projects } from "@assets/data";
@@ -12,9 +14,7 @@ import {
   MainProject,
   NameProject,
   Context,
-  ProjectImage,
   ProjectVideo,
-  ProjectWrapper,
   DataContainer,
   Category,
   ProjectContainer,
@@ -26,6 +26,7 @@ import {
 
 const Work = ({ match }) => {
   // HOOKS & VARIABLES
+  const translate = useSelector(state => getTranslate(state.localize));
   const [toggle, setToggle] = useState("");
   const project =
     projects?.find(p => {
@@ -50,8 +51,8 @@ const Work = ({ match }) => {
       <NameProject>{project?.title}</NameProject>
       <DataContainer>
         <Category>{project?.category}</Category>
-        <Context>{project?.context}</Context>
-        <Challenges>{project?.challenges}</Challenges>
+        <Context>{translate(project?.context)}</Context>
+        <Challenges>{translate(project?.challenges)}</Challenges>
         <User>{project?.user}</User>
       </DataContainer>
       {project?.video && <ProjectVideo src={project?.video} autoPlay muted loop />}

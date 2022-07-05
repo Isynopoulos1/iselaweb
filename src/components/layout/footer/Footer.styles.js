@@ -11,6 +11,10 @@ export const FooterContainer = styled.footer`
   width: 100%;
   height: ${margins.xs};
   background-color: ${colors.white};
+  @media only screen and (max-width: 700px) {
+    position: fixed;
+    bottom: ${margins.xs};
+  }
 `;
 
 export const Copyright = styled.div`

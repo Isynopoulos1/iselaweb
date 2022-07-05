@@ -2,6 +2,8 @@ import styled from "styled-components";
 import { colors, sizes, fonts, margins } from "@styles";
 
 export const HomeContainer = styled.div`
+  position: relative;
+  overflow: hidden;
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -23,5 +25,6 @@ export const MainVideo = styled.video`
   max-width: 1200px;
   @media only screen and (max-width: 700px) {
     max-width: 600px;
+    margin-top: ${margins.sm};
   }
 `;
