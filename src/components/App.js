@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { withRouter } from "react-router-dom";
 
 //IMPORT COMPONENTS
@@ -10,6 +10,12 @@ import Router from "./Router";
 import "@styles/reset.css";
 
 const App = ({ location, history }) => {
+  // LIFECYCLE
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
+
+  // MAIN RENDER
   return (
     <div>
       <Header />

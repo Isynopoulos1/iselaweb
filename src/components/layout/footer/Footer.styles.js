@@ -8,12 +8,13 @@ export const FooterContainer = styled.footer`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: calc(100% - 2 * ${margins.xss});
   height: ${margins.xs};
   background-color: ${colors.white};
+  padding: ${margins.xss};
   @media only screen and (max-width: 700px) {
     position: fixed;
-    bottom: ${margins.xs};
+    bottom: 0;
   }
 `;
 

@@ -6,8 +6,8 @@ export const HomeContainer = styled.div`
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  width: 100%;
-  height: 100%;
+  width: calc(100% - 2 * ${margins.xs});
+  height: 100vh;
   justify-content: center;
   align-items: center;
 `;

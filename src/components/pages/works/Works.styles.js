@@ -10,12 +10,15 @@ export const WorkContainer = styled.main`
 export const Filters = styled.div`
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   width: 100%;
   font-family: ${fonts.font1};
   font-weight: 200;
   font-size: ${sizes.xs};
   grid-gap: 20px;
-  margin-bottom: 70px;
+  margin-bottom: 40px;
+  @media only screen and (max-width: 900px) {
+  }
 `;
 export const Covers = styled.section`
   display: flex;
