@@ -8,6 +8,18 @@
 
   "project.nixi.context": "Context: Nixi For Children es una startup con sede en Barcelona, que ayuda a familias de todo el mundo a desarrollar experiencias inmersivas de realidad virtual para reducir la ansiedad de los pacientes.",
   "project.nixi.challenges": "Objetivo: Ayudar a los hospitales a permitirse implementar y mantener Nixi para sus pacientes. Compromiso familiar",
+  "project.nixi.user": "Usuario I Persona: Familias que adoptan las nuevas tendencias digitales y buscan ayudar a sus hijos o familiares a reducir la ansiedad preoperatoria.",
+  "project.nixi.process1": "Proceso e investigación: Empatizar: Utilizamos Typeform como herramienta para recopilar datos y descubrir el dolor y las ganancias de los padres.",
+  "project.nixi.process2": "- 60% de los padres entrevistados cree que sus hijos tienen miedo cuando van al médico.",
+  "project.nixi.process3": "- 40% de ellos busca información en internet.",
+  "project.nixi.process4": "- 40% Busca información preguntando a amigos y familiares.",
+  "project.nixi.process5": "- 57% han compartido información con otros padres.",
+  "project.nixi.process6": "Definir el problema: Es así como detectamos que los padres también sufren de ansiedad generada al separarse de los hijos, sentirse solos o no tener suficiente información. Idear: Muro de la familia Nixi. Cuidar a la familia es tan importante como cuidar al paciente. Creamos una comunidad que acompaña a la familia en todas las etapas, compartiendo información entre padres, apoyando y creando vínculos. Proceso: Nixi conecta a familias que quieren ayudar y necesitan apoyo. De esta manera construimos comunidades de apoyo entre familias. Prototipo mvp (producto mínimo viable) Implementación utilizando el hashtag #NixiFamilyWall para impulsar trafico a redes sociales. Test: Creé un sistema de diseño que pueda escalar. La app puede ser escalable a un progressive web app, que  también se puede instalar en el teléfono a través del sitio web actual.",
+
+  "project.nixi.tool1": "Herramientas:",
+  "project.nixi.tool2": " UX-UI: Figma, Typescript",
+  "project.nixi.tool3": "Diseño: Photoshop, Illustrator.",
+  "project.nixi.tool4": "Animación: After Effects, Premiere.",
 
   "project.ppayaz.context": "Context: P'payaz is an artist collective made up of professionals from different disciplines."
 }

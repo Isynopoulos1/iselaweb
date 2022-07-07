@@ -63,7 +63,7 @@ const Work = ({ match }) => {
       </Process>
       <Tools>
         {project?.tools.map((filter, i) => {
-          return <p key={i}>{filter}</p>;
+          return <p key={i}>{translate(filter)}</p>;
         })}
       </Tools>
       <ProjectContainer>
