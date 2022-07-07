@@ -6,9 +6,9 @@ export const projects = [
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
     title: "P'payaz ",
     category: "Development I UX-UI I Branding I Art Direction I Animation",
-    context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
-    challenges: "Main Challenges: Highlighting the coolness of the brand through a minimalist website.",
-    user: "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
+    context: "project.ppayaz.context",
+    challenges: "project.ppayaz.challenges",
+    user: "project.ppayaz.user",
     process: [
       "Process: In Figma I created wireframes to structure each of the content pages: Home, Services, Cases and Contact. Through Atomic Design I created components to potentially implement them in programming and in this way make different reusable elements. After I developed different components in React to create buttons with effects such as hover. I Implemented a map to create a content structure on the cards for each case. In the services section I used a library of SVG icons to which I gave them a transition and opacity effect. The contact page links to the different social networks of the brand. Through a clean website with minimal style. I highlighted the primary color of its logo in vector shapes and fundamental elements, in this way it achieved the main objective.",
       "Visit the website at: www.ppayaz.es"
@@ -39,7 +39,14 @@ export const projects = [
     context: "project.nixi.context",
     challenges: "project.nixi.challenges",
     user: "project.nixi.user",
-    process: ["project.nixi.process"],
+    process: [
+      "project.nixi.process1",
+      "project.nixi.process2",
+      "project.nixi.process3",
+      "project.nixi.process4",
+      "project.nixi.process5",
+      "project.nixi.process6"
+    ],
     tools: ["Tools:", "UX: Figma, Typescript.", "Design: Photoshop, Illustrator.", " Animation: After Effects, Premiere."],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_02.png",
@@ -141,7 +148,7 @@ export const projects = [
     tags: ["Branding", "Animation"],
     href: "doc-to-you",
     alt: "Doc To You cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/doc-cover_YguBeaayA.png",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/doc_cover.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657184619317",
     title: "Doc To You",
     category: "Animation I Branding I Art Direction",
     context: "Context: P'payaz is an artist collective made up of professionals from different disciplines.",

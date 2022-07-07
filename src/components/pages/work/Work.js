@@ -58,7 +58,7 @@ const Work = ({ match }) => {
       {project?.video && <ProjectVideo src={project?.video} autoPlay muted loop />}
       <Process>
         {project?.process.map((line, i) => {
-          return <p key={i}>{line}</p>;
+          return <p key={i}>{translate(line)}</p>;
         })}
       </Process>
       <Tools>
