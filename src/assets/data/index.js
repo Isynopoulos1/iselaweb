@@ -38,15 +38,8 @@ export const projects = [
     category: "Animation I UX-UI I Case Study",
     context: "project.nixi.context",
     challenges: "project.nixi.challenges",
-    user: "User I Persona: Families embracing new digital trends and looking to help their children or family members reduce preoperative anxiety. ",
-    process: [
-      "Process: Research. We used Typeform such as tool to collected data and figured out the pain and gains of the parents.",
-      "- 60% Of the parents interviewed think their children are afraid when they visit the doctor.",
-      "- 40% Of them, look for information on the internet.",
-      "- 40% Look for information, asking friends and family members.",
-      "- 57% Have shared information with other parents.",
-      "Define (the Problem): This is how we detected that parents also suffer from anxiety generated when separating from children, feeling alone, or not having enough information. Ideate: Nixi Family Wall. Take care of the family it is as important as caring for the patient. We create a community that accompanies the family at all stages, sharing information between parents, supporting and creating links. Development: Nixi connects families who want to help and need to be supported. In this way we build communities of support between families. Prototype mvp (minimal viable product). Implementation using the hashtag #NixiFamilyWall to drive traffic to social networks. Test: Create a design system that could scale. Evolution to Progressive Web app can also be installed on the phone through the current website."
-    ],
+    user: "project.nixi.user",
+    process: ["project.nixi.process"],
     tools: ["Tools:", "UX: Figma, Typescript.", "Design: Photoshop, Illustrator.", " Animation: After Effects, Premiere."],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_02.png",
@@ -67,7 +60,8 @@ export const projects = [
       "Context: This is a project created in the course of Motion Design with Figma in Udemy. I used this UI UX design tool to create User Interfaces and engaging prototypes.",
     challenges:
       "Main Challenges: My goal for this project was to launch a delivery app building interactions, animation and motion graphics, friendly and easy to use.",
-    user: "User I Persona: Nina. She is 30 years old freelancer, currently working from home. Nina hasn’t enough time to cook so she used to order delivery food. ",
+    user:
+      "User I Persona: Nina. She is 30 years old freelancer, currently working from home. Nina hasn’t enough time to cook so she used to order delivery food. ",
     process: [
       "I thought was important to give the users the possibility to choose options such as health and comfort food in the app. I decided to highlight the promo of the day to facilitate the purchase process and generate revenue. I wanted to create an intuitive design flow that was handy to use. I created flashy interactions with masking techniques and a complex order progress prototype.",
       "- Using parallax to draw attention",
@@ -179,7 +173,8 @@ export const projects = [
     context:
       "Context: Oda al pan; a familiar business that exalts the best of traditional Mexican bakery, adapting to a market that seeks authenticity.",
     challenges: "Main Challenges: Create a logotype that reflects authenticity and elegance.",
-    user: "User I Persona: People between 30 and 45 years old who live in Mexico City. They usually order food online and look for quality products at a reasonable price. ",
+    user:
+      "User I Persona: People between 30 and 45 years old who live in Mexico City. They usually order food online and look for quality products at a reasonable price. ",
     process: [
       "I developed a corporate image whose main element is a wheat leaf, to emphasize the main ingredient I chose a warm primary color that reflected the golden tones of the bread. I decided to use a classic serif typeface that subtly has wheat leaves at the ends. The result: a dynamic and elegant logo."
     ],
@@ -269,7 +264,8 @@ export const projects = [
     category: " Art Direction",
     context: "Context: Reebok is an American snickers, sports apparel and accessory company. Positioned worldwide for the quality of its products.",
     challenges: "Main Challenges: Develop a campaign on social networks to encourage purchases on Valentine's Day.",
-    user: "User I Persona: Users from 20 to 30 years old, who actively participate in Instagram to stay updated on fashion trends, get informed and receive promotions. ",
+    user:
+      "User I Persona: Users from 20 to 30 years old, who actively participate in Instagram to stay updated on fashion trends, get informed and receive promotions. ",
     process: [
       "Everyone has a friend with whom we can share everything, even the style. This Valentine's Day we celebrate those who have the perfect partner, the one with whom they can share the same Reebok garment and thus make a Partner Match.Created a sticker for IG stories. Users had to share a photo with their best friend saying why they are Partner Match and add the sticker. Those who uploaded their photograph participated in the promotion. In addition, Instagrammers joined the campaign in a #PerfectMatchChallenge, sharing side by side how much they knew about their best friend."
     ],
@@ -290,7 +286,8 @@ export const projects = [
       "Context: Dog Chow is a brand of dog food marketed and manufactured by Nestlé Purina. They want to celebrate the dogs with a special date.",
     challenges:
       "Main Challenges: They seek to position dog day in the consumer's mind as a special date in which man's best friend deserves recognition.",
-    user: "User I Persona: FB and IG users between 25 and 50 years old who are dog lovers and want to join this celebration by sharing the love they have for their pet on their social networks.",
+    user:
+      "User I Persona: FB and IG users between 25 and 50 years old who are dog lovers and want to join this celebration by sharing the love they have for their pet on their social networks.",
     process: [
       "We launched a teaser of the day, inviting IG and FB users to participate in the celebration, writing via inbox the things they loved to share with their pets. Previously, a shooting of cakes prepared with Purina Dog Chow was developed, which on the day of the launch we personalized with toys and names of the pets from each of the messages received on social media. As a result, a high participation of users and new followers of the brand was obtained, as well as the positioning of this date, which is now celebrated annually by Dog Chow."
     ],
@@ -341,7 +338,8 @@ export const projects = [
     category: "Art Direction",
     context: "Context: Gerber is a brand of infant food, specializing in the manufacture of natural foods without preservatives or sweeteners.",
     challenges: "Main Challenges: Digital campaign to position and celebrate Father's Day.",
-    user: "User I Persona: Young families who consume the brand's products, who usually use social networks to share tips, connect with friends and share moments of their lives. ",
+    user:
+      "User I Persona: Young families who consume the brand's products, who usually use social networks to share tips, connect with friends and share moments of their lives. ",
     process: [
       "We realized that parents generally have the task in the family of taking photos of mothers and children. With this idea in mind we decided to make a commemorative video. Celebrating this adorable work. In addition, we developed a dynamic on social networks where we asked families who follow the brand to share their favorite photos with us to celebrate Father's Day. We responded to their messages by generating a commemorative frame allusive to the day where we placed the photo they had shared with us. The video was launched in a digital campaign on the official website and social networks. Where we show the different photos that users did not previously share, generating closeness with the brand's consumers."
     ],

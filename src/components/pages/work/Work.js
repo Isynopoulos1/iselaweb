@@ -53,7 +53,7 @@ const Work = ({ match }) => {
         <Category>{project?.category}</Category>
         <Context>{translate(project?.context)}</Context>
         <Challenges>{translate(project?.challenges)}</Challenges>
-        <User>{project?.user}</User>
+        <User>{translate(project?.user)}</User>
       </DataContainer>
       {project?.video && <ProjectVideo src={project?.video} autoPlay muted loop />}
       <Process>
