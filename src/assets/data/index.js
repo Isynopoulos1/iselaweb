@@ -1,6 +1,6 @@
 export const projects = [
   {
-    tags: ["UX-UI", "Animation", "Development", "Branding"],
+    tags: ["label.filter1", "label.filter3", "label.filter2", "label.filter4"],
     href: "ppayaz",
     alt: "ppayaz cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
@@ -21,7 +21,7 @@ export const projects = [
   },
 
   {
-    tags: ["UX-UI", "Animation"],
+    tags: ["label.filter1", "label.filter3"],
     href: "nixi",
     alt: "Nixi cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nixi_2QtdgCJfR.png",
@@ -48,7 +48,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation"],
+    tags: ["label.filter1", "label.filter3"],
     href: "delivery-app",
     alt: "Delivery App cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/deliver_nXGHALGHA.png",
@@ -76,7 +76,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["label.filter1", "label.filter3", "label.filter2"],
     href: "lozano-studio",
     alt: "Lozano cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/lozano-cover_GUntsovVG.png",
@@ -96,7 +96,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["label.filter1", "label.filter3", "label.filter2"],
     href: "natours",
     alt: "Natours cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/natours-cover_oEj46T3WR.png",
@@ -116,7 +116,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_01.mp4"
   },
   {
-    tags: ["Branding", "Animation"],
+    tags: ["label.filter4", "label.filter3"],
     href: "doc-to-you",
     alt: "Doc To You cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/doc_cover.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657184619317",
@@ -138,7 +138,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_01.mp4"
   },
   {
-    tags: ["Branding", "Animation"],
+    tags: ["label.filter4", "label.filter3"],
     href: "oda-al-pan",
     alt: "Oda al Pan cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/cover-oda_2oI6TiurK.png",
@@ -158,7 +158,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_01.mp4"
   },
   {
-    tags: ["UX-UI", "Animation", "Development"],
+    tags: ["label.filter1", "label.filter3", "label.filter2"],
     href: "nexter",
     alt: "Nexter cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nexter-cover_gbg_CUfSC.png",
@@ -176,7 +176,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_01.mp4"
   },
   {
-    tags: ["Branding", "Art Direction"],
+    tags: ["label.filter4", "label.filter5"],
     href: "paypal",
     alt: "Paypalcover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/paypal-cover_SBdfK6Fcn.png",
@@ -195,7 +195,7 @@ export const projects = [
     ]
   },
   {
-    tags: ["Animation", "Art Direction"],
+    tags: ["label.filter3", "label.filter5"],
     href: "movistar",
     alt: "Movistar cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/Movi-cover_9c7s_ZK8i.png",
@@ -213,7 +213,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/movistar_01.mp4"
   },
   {
-    tags: ["Art Direction"],
+    tags: ["label.filter5"],
     href: "reebok",
     alt: "Reebok cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/reebok-cover_XDbuPGGBy.png",
@@ -230,7 +230,7 @@ export const projects = [
     ]
   },
   {
-    tags: ["Art Direction"],
+    tags: ["label.filter5"],
     href: "dog-chow",
     alt: "Dog Chowcover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/dogchow-cover_SLLqmg52S.png",
@@ -249,7 +249,7 @@ export const projects = [
     ]
   },
   {
-    tags: ["UX-UI", "Animation", "Development", "Branding", "Art Direction"],
+    tags: ["label.filter1", "label.filter3", "label.filter2", "label.filter4", "label.filter5"],
     href: "isela-alarcon",
     alt: "Isela Alarcóncover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png",
@@ -269,7 +269,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-05.mp4"
   },
   {
-    tags: ["Animation", "Art Direction"],
+    tags: ["label.filter3", "Art Direction"],
     href: "gerber",
     alt: "Gerber cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/berger-cover_Y8I19idks.png",
@@ -284,7 +284,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/gerber/gerber_01.mp4"
   },
   {
-    tags: ["Art Direction", "Animation"],
+    tags: ["label.filter5", "label.filter3"],
     href: "woomen",
     alt: "Woomen cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/woomen-cover_qIit_E0oZ.png",
@@ -300,4 +300,4 @@ export const projects = [
   }
 ];
 
-export const labels = ["UX-UI", "Development", "Animation", "Branding", "Art Direction"];
+export const labels = ["label.filter1", "label.filter2", "label.filter3", "label.filter4", "label.filter5"];

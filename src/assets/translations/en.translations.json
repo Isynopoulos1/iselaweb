@@ -6,6 +6,17 @@
   "about.title": "Hi, I'm Isela :)",
   "about.description": "I'm a UX/UI Designer from Mexico currently based in Barcelona. I've a strong passion for design, art, cooking, digital tendencies, fashion, cinema, architecture & animals. With a background in the digital world as a Senior Art director, I've been in the advertising industry for over 10 years. Mostly, I've worked in top digital advertising agencies, designing for brands such as Paypal, Movistar, Amazon, Nike, Purina, Gerber. In 2020, I decided to move to Barcelona to attend a workshop on Design Thinking in Brother Bcn. I am very proficient in After Effects, Adobe suite (Photoshop, Illustrator, Premiere), and different design tools and frameworks such as Figma. I enjoy building sites implementing a design system. I also have a huge interest in Web development, It's reflected by my knowledge in HTML, CSS, SASS, Javascript with libraries such as React and Nodejs. During the last 2 years, I've complimented my career as a digital designer with certificates, workshops, and working on my own as a web developer. My profile matches such a hybrid between designer and web developer. In fact, I love working in both areas equally!",
 
+  "contact.cta": "Contact me :)",
+  "contact.name": "Name",
+  "contact.mail": "Mail",
+  "contact.message": "Message",
+
+  "label.filter1": "UX-UI",
+  "label.filter2": "Development",
+  "label.filter3": "Animation",
+  "label.filter4": "Branding",
+  "label.filter5": "Art Direction",
+
   "project.ppayaz.context": "Context: P'payaz is an artist collective made up of professionals from different disciplines.",
   "project.ppayaz.challenges": "Main Challenges: To highlight the coolness of the brand through a minimalist website.",
   "project.ppayaz.user": "User I Persona: Entrepreneurs and creatives in the sector who seek and offer professional digital services remotely. ",
@@ -119,9 +130,9 @@
   "project.dogchow.tool1": "Tools:",
   "project.dogchow.tool2": "Design: Photoshop, Illustrator.",
 
-  "project.ia.context": "Context: ia is my personal firm, I want to show my work in a clean space that could be modern and minimalist.",
+  "project.ia.context": "Context: ia is my personal firm, I want to show my professional work in a clean space that could be modern and minimalist.",
   "project.ia.challenges": "Main Challenges: To build a personalized website to showcase my creative work.",
-  "project.ia.user": "User I Persona: Potential work and people searching inspiration. ",
+  "project.ia.user": "User I Persona: Potential jobs and people searching inspiration. ",
   "project.ia.process1": "Process: First I created my personal logo. I wanted to develop a branding short and easy to read. Elegant and minimalist. So I decided to use just the first letters of my name.",
   "project.ia.process2": " Then, in Figma I created wireframes with the site mapping,  flows, and components that potentially be reused in code. ",
   "project.ia.process3": " In programming, I thought in a website that potentially is translated to Spanish with traditional sections such as:  About Me, Work, and Contact. I used React technology, I designed components such as buttons, social icons, cards, and different elements to build an atomic system. I implemented styled components to create lists of styles for reused and dry code. I created a map list to put different cards with video content.",

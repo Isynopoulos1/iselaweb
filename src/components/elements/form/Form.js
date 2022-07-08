@@ -1,4 +1,6 @@
 import React from "react";
+import { useSelector } from "react-redux";
+import { getTranslate } from "r1-localize";
 
 //IMPORT STYLES
 import { InputWrapper, InputStyle, TextAreaStyle } from "./Form.styles";
@@ -7,11 +9,15 @@ import { InputWrapper, InputStyle, TextAreaStyle } from "./Form.styles";
 import Button from "@elements/button/Button";
 
 const Form = () => {
+  //HOOKS
+  const translate = useSelector(state => getTranslate(state.localize));
+
+  //MAIN RENDER
   return (
     <InputWrapper>
-      <InputStyle placeholder="Name" />
-      <InputStyle placeholder="Mail" />
-      <TextAreaStyle placeholder="Message" />
+      <InputStyle placeholder={translate("contact.name")} />
+      <InputStyle placeholder={translate("contact.mail")} />
+      <TextAreaStyle placeholder={translate("contact.message")} />
       <Button />
     </InputWrapper>
   );
