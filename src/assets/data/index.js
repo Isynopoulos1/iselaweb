@@ -125,9 +125,7 @@ export const projects = [
     context: "project.doctoyou.context",
     challenges: "project.doctoyou.challenges",
     user: "project.doctoyou.user",
-    process: [
-      "I chose an organic typeface that appears to be connected. In the center it contains an arrow that emphasizes this concept. I proposed a gradient in the colors used, to suggest modernity, very much in trend with similar apps."
-    ],
+    process: ["project.doctoyou.process1"],
     tools: ["project.doctoyou.tool1", "project.doctoyou.tool2", "project.doctoyou.tool3"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_02.jpg",
