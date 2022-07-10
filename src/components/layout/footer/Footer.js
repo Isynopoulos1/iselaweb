@@ -1,4 +1,6 @@
 import React from "react";
+import { useSelector } from "react-redux";
+import { getTranslate } from "r1-localize";
 
 //IMPORT STYLES
 import { FooterContainer, Copyright } from "./Footer.styles";
@@ -7,10 +9,12 @@ import { FooterContainer, Copyright } from "./Footer.styles";
 import Social from "@elements/social/Social";
 
 const Footer = () => {
+  //HOOKS
+  const translate = useSelector(state => getTranslate(state.localize));
   return (
     <FooterContainer>
       <Social />
-      <Copyright>Copyright 2022 IselAlarcón© | All rights reserved</Copyright>
+      <Copyright>{translate("footer.copyright")}</Copyright>
     </FooterContainer>
   );
 };
