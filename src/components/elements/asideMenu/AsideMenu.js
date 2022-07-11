@@ -1,15 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
-import { getTranslate } from "r1-localize";
+import { getTranslate, withLocalize } from "r1-localize";
 import PropTypes from "prop-types";
 
 //IMPORT STYLES
-import { BgMenu, Languaje, Spanish, English } from "./AsideMenu.styles";
+import { BgMenu, Languages, Language } from "./AsideMenu.styles";
 
-const AsideMenu = ({ setOpen }) => {
+const AsideMenu = ({ setOpen, languages, setActiveLanguage }) => {
   // HOOKS
   const translate = useSelector(state => getTranslate(state.localize));
+  console.log(languages);
 
   // DATA
   const categories = [
@@ -18,6 +19,16 @@ const AsideMenu = ({ setOpen }) => {
     { path: "/contact", label: "menu.contact" }
   ];
 
+  // HANDLE FUNCTION
+
+  // RENDER FUNCTION
+  const renderLanguages = () => {
+    return languages.map(l => (
+      <Language key={l.code} onClick={() => setActiveLanguage(l.code)}>
+        {l.name}
+      </Language>
+    ));
+  };
   // MAIN RENDER
   return (
     <BgMenu>
@@ -28,18 +39,9 @@ const AsideMenu = ({ setOpen }) => {
           </Link>
         );
       })}
-      <Languaje>
-        <Spanish
-          onClick={() => {
-            console.log("caca");
-          }}
-        >
-          Es
-        </Spanish>
-        <English>En</English>
-      </Languaje>
+      <Languages>{renderLanguages()}</Languages>
     </BgMenu>
   );
 };
 
-export default AsideMenu;
+export default withLocalize(AsideMenu);

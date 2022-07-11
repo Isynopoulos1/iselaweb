@@ -25,30 +25,27 @@ export const BgMenu = styled.aside`
     transition: white 0.8s linear 0.5s;
   }
 `;
-export const Languaje = styled.div`
+export const Languages = styled.div`
+  position: relative;
   display: flex;
   justify-content: space-between;
   width: 50px;
 `;
-export const Spanish = styled.div`
+
+export const Language = styled.span`
+  position: relative;
   font-family: ${fonts.font1};
   color: ${colors.lightergray};
   font-size: ${sizes.xs};
   font-weight: 300;
-  border-right: 1px solid black;
-  width: 25px;
+  padding: ${sizes.xs};
   cursor: pointer;
   &:hover {
     color: ${colors.black};
   }
-`;
-export const English = styled.p`
-  font-family: ${fonts.font1};
-  color: ${colors.lightergray};
-  font-size: ${sizes.xs};
-  font-weight: 300;
-  cursor: pointer;
-  &:hover {
-    color: ${colors.black};
+  &:first-child::after {
+    position: absolute;
+    margin-left: ${sizes.xs};
+    content: "|";
   }
 `;

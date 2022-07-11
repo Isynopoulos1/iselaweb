@@ -1,5 +1,8 @@
 import React, { useEffect } from "react";
 import { withRouter } from "react-router-dom";
+import { withLocalize } from "r1-localize";
+
+import { activateTranslations } from "@utils";
 
 //IMPORT COMPONENTS
 import Header from "@layout/header/Header";
@@ -9,8 +12,11 @@ import Router from "./Router";
 //IMPORT STYLES
 import "@styles/reset.css";
 
-const App = ({ location, history }) => {
+const App = ({ location, history, addTranslationForLanguage }) => {
   // LIFECYCLE
+  useEffect(() => {
+    activateTranslations(addTranslationForLanguage);
+  }, []);
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [location.pathname]);
@@ -25,4 +31,4 @@ const App = ({ location, history }) => {
   );
 };
 
-export default withRouter(App);
+export default withLocalize(withRouter(App));
