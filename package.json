@@ -20,6 +20,7 @@
       "last 1 safari version"
     ]
   },
+  "homepage": ".",
   "dependencies": {
     "hamburger-react": "2.5.0",
     "r1-localize": "3.5.11",
