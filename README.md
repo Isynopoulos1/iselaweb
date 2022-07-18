@@ -1,5 +1,7 @@
 # React boilerplate with webpack 5
 
+## Installation
+
 - Same folder structure with public as a **CRA** but simplified bundle and lighter build
 - development and production setups ready for a production release
 - 0 vulnerabilities (so far)
@@ -17,3 +19,7 @@
 <i> [webpack-dev-server] 404s will fallback to '/index.html'
 <i> [webpack-dev-middleware] wait until bundle finished: /
 ```
+
+## Deploy
+
+deploy the github page with the script `npm run deploy`
