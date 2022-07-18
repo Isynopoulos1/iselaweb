@@ -23,3 +23,4 @@
 ## Deploy
 
 deploy the github page with the script `npm run deploy`
+and check if it's building the github action
