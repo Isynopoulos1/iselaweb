@@ -39,6 +39,13 @@ module.exports = {
           globOptions: {
             ignore: ["*.DS_Store"]
           }
+        },
+        {
+          from: paths.public + "/404.html",
+          to: ".",
+          globOptions: {
+            ignore: ["*.DS_Store"]
+          }
         }
       ]
     }),
