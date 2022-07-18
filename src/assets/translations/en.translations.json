@@ -12,6 +12,7 @@
   "contact.name": "Name",
   "contact.mail": "Mail",
   "contact.message": "Message",
+  "contact.send": "Send",
 
   "label.filter1": "UX-UI",
   "label.filter2": "Development",
