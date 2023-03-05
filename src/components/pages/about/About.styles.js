@@ -7,18 +7,19 @@ export const AboutContainer = styled.main`
   flex-direction: column;
   align-items: center;
   margin-top: ${margins.sm};
-  width: calc(100% - 100px);
+  width: calc(100% - 40px);
   height: auto;
-  padding: 20px 50px;
+  padding: 20px;
 `;
 export const Photo = styled.img`
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 800px;
+  width: 800px;
   margin-top: ${margins.xs};
-  @media only screen and (max-width: 700px) {
-    max-width: 100%;
+  @media only screen and (max-width: 840px) {
+    width: 100%;
+    height: auto;
   }
 `;
 export const Description = styled.div`
