@@ -15,10 +15,10 @@ export const Photo = styled.img`
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 1200px;
+  max-width: 800px;
   margin-top: ${margins.xs};
   @media only screen and (max-width: 700px) {
-    max-width: 500px;
+    max-width: 100%;
   }
 `;
 export const Description = styled.div`
@@ -27,15 +27,20 @@ export const Description = styled.div`
   justify-content: center;
   text-align: center;
   line-height: 2;
-  max-width: 1200px;
+  width: 800px;
   font-size: ${sizes.sm};
   font-family: "Roboto", sans-serif;
-  font-weight: 200;
+  font-weight: 300;
+  @media only screen and (max-width: 700px) {
+    width: 100%;
+  }
 `;
-export const Greetings = styled.p`
-  display: flex;
-  justify-content: center;
+export const Greetings = styled.h2`
   text-align: center;
+  width: 800px;
   font-size: ${sizes.xl};
   margin-bottom: ${margins.xs};
+  @media only screen and (max-width: 700px) {
+    width: 100%;
+  }
 `;

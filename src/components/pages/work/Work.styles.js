@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { colors, sizes, fonts, margins } from "@styles";
+import { sizes, fonts, margins } from "@styles";
 
 export const MainProject = styled.main`
   position: relative;
@@ -8,6 +8,7 @@ export const MainProject = styled.main`
   flex-direction: column;
   margin: 0 auto;
   max-width: 1200px;
+  padding: 0 20px;
 `;
 export const Wrapper = styled.div`
   position: fixed;
@@ -55,21 +56,21 @@ export const Context = styled.p`
   text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
-  font-weight: 200;
+  font-weight: 300;
 `;
 export const Challenges = styled.p`
   line-height: 2;
   text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
-  font-weight: 200;
+  font-weight: 300;
 `;
 export const User = styled.p`
   line-height: 2;
   text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
-  font-weight: 200;
+  font-weight: 300;
   margin-bottom: ${margins.xs};
 `;
 export const Process = styled.div`
@@ -78,7 +79,7 @@ export const Process = styled.div`
     text-align: left;
     font-family: ${fonts.font1};
     font-size: ${sizes.sm};
-    font-weight: 200;
+    font-weight: 300;
   }
 `;
 export const Tools = styled.div`

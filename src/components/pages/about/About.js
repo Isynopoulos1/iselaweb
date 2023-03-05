@@ -14,10 +14,12 @@ const About = () => {
     <AboutContainer>
       <Description>
         <Greetings>{translate("about.title")}</Greetings>
-        {translate("about.description")}
+        <p>{translate("about.description")}</p>
+        <p> {translate("about.description2")}</p>
+        <p> {translate("about.description3")}</p>
       </Description>
       <Photo
-        src="https://ik.imagekit.io/ppayaz/iselalarcon/about/1645198493321_KhmFRf9M1.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1653900861003"
+        src="https://ik.imagekit.io/ppayaz/iselalarcon/about/profilenuevo_noisy_sFJOPGACm.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678025109385"
         alt="Photo"
       />
     </AboutContainer>

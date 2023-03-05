@@ -6,7 +6,9 @@
   "footer.copyright": "Copyright 2022 IselAlarcón© | All rights reserved",
 
   "about.title": "Hi, I'm Isela :)",
-  "about.description": "I'm a UX/UI Designer from Mexico currently based in Barcelona. I've a strong passion for design, art, cooking, digital tendencies, fashion, cinema, architecture & animals. With a background in the digital world as a Senior Art director, I've been in the advertising industry for over 10 years. Mostly, I've worked in top digital advertising agencies, designing for brands such as Paypal, Movistar, Amazon, Nike, Purina, Gerber. In 2020, I decided to move to Barcelona to attend a workshop on Design Thinking in Brother Bcn. I am very proficient in After Effects, Adobe suite (Photoshop, Illustrator, Premiere), and different design tools and frameworks such as Figma. I enjoy building sites implementing a design system. I also have a huge interest in Web development, It's reflected by my knowledge in HTML, CSS, SASS, Javascript with libraries such as React and Nodejs. During the last 2 years, I've complimented my career as a digital designer with certificates, workshops, and working on my own as a web developer. My profile matches such a hybrid between designer and web developer. In fact, I love working in both areas equally!",
+  "about.description": "I'm a Product Designer and Junior Frontend Developer with a strong passion for design, arts, and technology.",
+  "about.description2": "With a background in the digital world for over 10 years, I've worked mostly in digital advertising agencies, designing for brands such as Paypal, Movistar, and Amazon. In 2020, I decided to move to Barcelona to expand my career in the technology field.",
+  "about.description3": "I also have a huge interest in Web development. So It's reflected by my knowledge in HTML, CSS, SASS, and a basic level in Python and Javascript with libraries such as React and Nodejs. I also enjoy building sites and implementing a design system!",
 
   "contact.cta": "Contact me :)",
   "contact.name": "Name",

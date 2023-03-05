@@ -16,6 +16,6 @@ export const CtaForm = styled.h1`
   color: ${colors.mediumgray};
   font-family: ${fonts.font1};
   font-size: ${sizes.lg};
-  font-weight: 200;
+  font-weight: 300;
   margin-bottom: 50px;
 `;

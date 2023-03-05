@@ -6,7 +6,9 @@
   "footer.copyright": "Copyright 2022 IselAlarcón© | Todos los derechos reservados",
 
   "about.title": "Hola, soy Isela :)",
-  "about.description": "Soy una diseñadora de UX/UI.  Soy de México y actualmente vivo en Barcelona. Tengo una gran pasión por el diseño, el arte, cocina, tendencias digitales, moda, cine, arquitectura y los animales. Con experiencia en el mundo digital como directora de arte senior, llevo más de 12 años en la industria de la publicidad. Principalmente, he trabajado en agencias de publicidad digital, diseñando para marcas como Paypal, Movistar, Amazon, Nike, Purina, Gerber. En 2020 decidí mudarme a Barcelona para asistir a un taller de Design Thinking en Brother Bcn. Soy muy competente en After Effects, la suite de Adobe (Photoshop, Illustrator, Premiere) y diferentes herramientas y marcos de diseño como Figma. Disfruto construyendo sitios implementando un sistema de diseño. También tengo un gran interés en el desarrollo web, reflejado en mi conocimiento en HTML, CSS, SASS, Javascript con bibliotecas como React y Nodejs. Durante los últimos 2 años, he complementado mi carrera como diseñador digital con certificados, talleres y trabajando por mi cuenta como desarrollador web. Mi perfil coincide con un híbrido entre diseñador y desarrollador web. De hecho, ¡me encanta trabajar en ambas áreas por igual!",
+  "about.description": "Soy Diseñadora de Producto y Desarrolladora Frontend con una gran pasión por el diseño, las artes y tecnología.",
+  "about.description2": "Con más de 10 años de experiencia en el mundo digital, he trabajado principalmente en agencias publicitarias, diseñando para marcas como Paypal,  Movistar y Amazon. En 2020 decidí mudarme a Barcelona para expandir mi carrera en el campo de la tecnología. ",
+  "about.description3": "También tengo un gran interés en el desarrollo web. Así lo refleja mi conocimiento en HTML, CSS, SASS, y un nivel básico en Python y Javascript con librerías como React y Nodejs. ¡Disfruto construyendo sitios e implementando un sistema de diseño!",
 
   "contact.cta": "Contáctame :)",
   "contact.name": "Nombre",
