@@ -6,7 +6,6 @@ export const HomeContainer = styled.div`
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  width: calc(100% - 2 * ${margins.xs});
   height: 100vh;
   justify-content: center;
   align-items: center;
