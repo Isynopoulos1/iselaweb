@@ -1,25 +1,24 @@
 export const projects = [
   {
-    tags: ["label.filter1", "label.filter3", "label.filter2", "label.filter4"],
-    href: "ppayaz",
-    alt: "ppayaz cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
-    title: "P'payaz ",
+    tags: ["label.filter1", "label.filter3", "label.filter2", "label.filter4", "label.filter5"],
+    href: "isela-alarcon",
+    alt: "Isela Alarcóncover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png",
+    title: "Isela Alarcón",
     category: "Development I UX-UI I Branding I Art Direction I Animation",
-    context: "project.ppayaz.context",
-    challenges: "project.ppayaz.challenges",
-    user: "project.ppayaz.user",
-    process: ["project.ppayaz.process1", "project.ppayaz.process2"],
-    tools: ["project.ppayaz.tool1", "project.ppayaz.tool2", "project.ppayaz.tool3", "project.ppayaz.tool4", "project.ppayaz.tool5"],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_01.mp4",
+    context: "project.ia.context",
+    challenges: "project.ia.challenges",
+    user: "project.ia.user",
+    process: ["project.ia.process1", "project.ia.process2", "project.ia.process3"],
+    tools: ["project.ia.tool1", "project.ia.tool2", "project.ia.tool3", "project.ia.tool4", "project.ia.tool5"],
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_02.jpeg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_03.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_04.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_05.png"
-    ]
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-03.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-01.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-02.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-04.jpg"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-05.mp4"
   },
-
   {
     tags: ["label.filter1", "label.filter3"],
     href: "nixi",
@@ -47,6 +46,27 @@ export const projects = [
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_01.mp4"
   },
+  {
+    tags: ["label.filter1", "label.filter3", "label.filter2", "label.filter4"],
+    href: "ppayaz",
+    alt: "ppayaz cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
+    title: "P'payaz ",
+    category: "Development I UX-UI I Branding I Art Direction I Animation",
+    context: "project.ppayaz.context",
+    challenges: "project.ppayaz.challenges",
+    user: "project.ppayaz.user",
+    process: ["project.ppayaz.process1", "project.ppayaz.process2"],
+    tools: ["project.ppayaz.tool1", "project.ppayaz.tool2", "project.ppayaz.tool3", "project.ppayaz.tool4", "project.ppayaz.tool5"],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_01.mp4",
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_02.jpeg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_03.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_04.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_05.png"
+    ]
+  },
+
   {
     tags: ["label.filter1", "label.filter3"],
     href: "delivery-app",
@@ -245,26 +265,6 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_03.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dochow_05.jpg"
     ]
-  },
-  {
-    tags: ["label.filter1", "label.filter3", "label.filter2", "label.filter4", "label.filter5"],
-    href: "isela-alarcon",
-    alt: "Isela Alarcóncover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png",
-    title: "Isela Alarcón",
-    category: "Development I UX-UI I Branding I Art Direction I Animation",
-    context: "project.ia.context",
-    challenges: "project.ia.challenges",
-    user: "project.ia.user",
-    process: ["project.ia.process1", "project.ia.process2", "project.ia.process3"],
-    tools: ["project.ia.tool1", "project.ia.tool2", "project.ia.tool3", "project.ia.tool4", "project.ia.tool5"],
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-03.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-01.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-02.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-04.jpg"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-05.mp4"
   },
   {
     tags: ["label.filter3", "Art Direction"],
