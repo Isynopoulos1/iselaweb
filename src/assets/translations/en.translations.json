@@ -5,12 +5,10 @@
 
   "footer.copyright": "Copyright 2022 IselAlarcón© | All rights reserved",
 
-  "about.title": "Hi, I'm Isela :)",
-  "about.description": "I'm a Product Designer and Junior Frontend Developer with a strong passion for design, arts, and technology.",
-  "about.description2": "With a background in the digital world for over 10 years, I've worked mostly in digital advertising agencies, designing for brands such as Paypal, Movistar, and Amazon. In 2020, I decided to move to Barcelona to expand my career in the technology field.",
-  "about.description3": "I also have a huge interest in Web development. So It's reflected by my knowledge in HTML, CSS, SASS, and a basic level in Python and Javascript with libraries such as React and Nodejs. I also enjoy building sites and implementing a design system!",
-
-  "contact.cta": "Contact me :)",
+  "about.title": "Hello, I'm Isela :)",
+  "about.description": "I'm a Product Designer and Frontend Developer that feels passionate for design, arts, and technology.",
+  "about.description2": "With a background in digital, I've worked for over ten years in digital advertising agencies, where I had the chance to design for different international brands such as Paypal, Movistar, and Amazon. In 2020, I moved to Barcelona to jump into the technology field. My curiosity and interest in Web development took me to learn new tools such as HTML, CSS, SASS, and languages as Javascript with libraries such as React and Nodejs.",
+  "about.description3": "One of the things that I enjoy the most is building sites and implementing a design system. 🔺 ◼️ 🔹",
   "contact.name": "Name",
   "contact.mail": "Mail",
   "contact.message": "Message",
@@ -60,7 +58,7 @@
   "project.nixi.tool4": "Animation: After Effects, Premiere.",
 
   "project.delivery.context": "Context: This is a case study created to my course in Motion Design with Figma.",
-  "project.delivery.challenges": "Main Challenges: My goal for this project was to create attractive user interfaces and prototypes with a delivery application that creates user-friendly and intuitive interactions, animation, and motion graphics.",
+  "project.delivery.challenges": "Main Challenges: To create attractive user interfaces and prototypes with a delivery application that creates user-friendly and intuitive interactions, animation, and motion graphics.",
   "project.delivery.user": "User I Persona: Nina. She is 30 years old freelancer, currently working from home. Nina hasn’t enough time to cook so she used to order delivery food.",
   "project.delivery.process1": "Process: I thought was important to give the users the possibility to choose options such as health and comfort food in the app. I decided to highlight the promo of the day to facilitate the purchase process and generate revenue. I wanted to create an intuitive design flow that was handy to use. I created flashy interactions with masking techniques and a complex order progress prototype.",
   "project.delivery.process2": "-Using parallax to draw attention.",
