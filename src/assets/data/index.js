@@ -106,7 +106,8 @@ export const projects = [
     challenges: "project.lozano.challenges",
     user: "project.lozano.user",
     process: ["project.lozano.process1"],
-    tools: ["project.lozano.tool1", "project.lozano.tool2", "project.lozano.tool3", "project.lozano.tool4"],
+    tools: ["project.lozano.tool1", "project.lozano.tool2", "project.lozano.tool3", "project.lozano.tool4", "project.lozano.tool6"],
+
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_02.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_05.jpg",

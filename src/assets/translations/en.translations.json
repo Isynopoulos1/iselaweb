@@ -55,7 +55,7 @@
   "project.nixi.process5": "- 57% Have shared information with other parents.",
   "project.nixi.process6": "Define (the Problem): This is how we detected that parents also suffer from anxiety generated when separating from children, feeling alone, or not having enough information. Ideate: Nixi Family Wall. Take care of the family it is as important as caring for the patient. We create a community that accompanies the family at all stages, sharing information between parents, supporting and creating links. Development: Nixi connects families who want to help and need to be supported. In this way we build communities of support between families. Prototype mvp (minimal viable product). Implementation using the hashtag #NixiFamilyWall to drive traffic to social networks. Test: Create a design system that could scale. Evolution to Progressive Web app can also be installed on the phone through the current website.",
   "project.nixi.tool1": "Tools:",
-  "project.nixi.tool2": " UX-UI: Figma, Typescript.",
+  "project.nixi.tool2": " UX-UI: Design Thinking methodology, Figma, Typescript.",
   "project.nixi.tool3": "Design: Photoshop, Illustrator.",
   "project.nixi.tool4": "Animation: After Effects, Premiere.",
 
@@ -82,6 +82,7 @@
   "project.lozano.tool3": " UX-UI: Figma, Typescript.",
   "project.lozano.tool4": "Design: Photoshop, Illustrator.",
   "project.lozano.tool5": "Animation: After Effects, Premiere.",
+  "project.lozano.tool6": "Look at the website here: www.irlandalozano.com ",
 
   "project.natours.context": "Context: Natours it's a project created to my the course of advanced CSS and SASS.",
   "project.natours.challenges": "Main Challenges: To develop a modern responsive website using CSS architecture.",
