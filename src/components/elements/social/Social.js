@@ -5,7 +5,7 @@ import { SocialContainer } from "./Social.styles";
 import { colors } from "@styles";
 
 //IMPORT COMPONENTS
-import BehanceLogo from "@assets/icons/be-logo";
+
 import LinkedinLogo from "@assets/icons/in-logo";
 import GitLogo from "@assets/icons/git-logo";
 import InstagramLogo from "@assets/icons/ig-logo";
