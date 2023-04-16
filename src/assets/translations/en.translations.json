@@ -159,8 +159,20 @@
   "project.cultura.context": "Context: Cultura Inquieta is a platform for the dissemination of culture, art, communication, creativity and organization of cultural programs. In the online sphere, Cultura Inquieta is one of the European cultural references on the net.",
   "project.cultura.challenges": "Main Challenges: Celebrate Women's Day, showing pioneering women in history as a reference.",
   "project.cultura.user": "User I Persona: Instagram users in favor of feminism who follow the account of Cultura Inquieta or are interested in similar topics.",
-  "project.cultura.process1": "Process: Most of the time women use esterotypes to define themselves. However meny women, have transformed this stereptypes, qith their ideas and actions, but it seems like, they are not remembered enough. So, how can we make them visible in is women day? Idea: To show pioneer women on the most used search tool: the internet. We created a video with a search engine that show us women who have transformed the most common stereoptypes we have been living with. This is to encourage women to be inspired by them.",
+  "project.cultura.process1": "Process: Most of the time women use esterotypes to define themselves. However meny women, have transformed this stereptypes, with their ideas and actions, but it seems like, they are not remembered enough. So, how can we make them visible in is women day? Idea: To show pioneer women on the most used search tool: the internet. We created a video with a search engine that show us women who have transformed the most common stereoptypes we have been living with. This is to encourage women to be inspired by them.",
   "project.cultura.tool1": "Tools:",
   "project.cultura.tool2": "Design: Photoshop, Illustrator.",
-  "project.cultura.tool3": "Animation: After Effects, Premiere"
+  "project.cultura.tool3": "Animation: After Effects, Premiere",
+
+  "project.flitter.context": "Context: As a student of the Women in Tech Web Development Bootcamp, I had the opportunity to work on an exciting project called Flitter. It was an excellent opportunity for me to apply the web development skills I learned during the bootcamp. By creating a replica of Twitter, I learned how to build a full-stack web application that included user authentication, data storage, and a user interface. ",
+  "project.flitter.challenges": "Main Challenges: The team's goal was to create a clone of the popular social media platform Twitter. ",
+  "project.flitter.user": "User I Persona: Individuals who enjoy using social media platforms, particularly those who are familiar with and enjoy using Twitter. ",
+  "project.flitter.process1": "Planning and ideation: The first step in creating Flitter was to plan and ideate the project. This involved discussing and brainstorming ideas with the team, identifying the key features and functionalities to include in the MVP, and creating a roadmap for development.",
+  "project.flitter.process2": "Design and user interface: Once the ideation process was complete, the team focused on designing the user interface and user experience. This involved creating wireframes, mockups, and prototypes to ensure the app's design was intuitive, user-friendly, and visually appealing.",
+  "project.flitter.process3": "Development: With the design and user interface in place, the team began developing the app's core functionalities, such as user authentication, profile creation, tweeting, following and unfollowing other users, and liking and disliking fleets.",
+  "project.flitter.process4": "Testing and debugging: As development progressed, the team conducted extensive testing and debugging to ensure the app's functionality was consistent and free of errors. This involved using various testing methods, such as unit testing, integration testing, and user acceptance testing.",
+  "project.flitter.process5": "Deployment: Once the app was fully developed and tested, it was deployed to a server for public use. This involved configuring the server and deploying the app to ensure it was accessible to users.",
+  "project.flitter.tool1": "Tools:",
+  "project.flitter.tool2": "Frontend: VUE, JAVASCRIPT, CSS, GIT ",
+  "project.flitter.tool3": "Backend: Node.JS, MongoDB, JWT, Express "
 }

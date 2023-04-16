@@ -162,5 +162,17 @@
   "project.cultura.process1": "Proceso: La mayoría de las veces las mujeres usan estereotipos para definirse a sí mismas. Sin embargo, muchas mujeres han transformado estos estereotipos, con sus ideas y acciones, pero parece que no son lo suficientemente recordadas. Entonces, ¿cómo podemos visibilizarlas en este día de la mujer? Idea: Mostrar mujeres pioneras en la herramienta de búsqueda más utilizada: Internet. Creamos un video con un buscador que nos muestra mujeres que han transformado los estereotipos más comunes con los que hemos estado viviendo. Esto es para animar a las mujeres a que se inspiren en ellas.",
   "project.cultura.tool1": "Herramientas:",
   "project.cultura.tool2": "Diseño:Photoshop, Illustrator.",
-  "project.cultura.tool3": "Animación: After Effects, Premiere"
+  "project.cultura.tool3": "Animación: After Effects, Premiere",
+
+  "project.flitter.context": "Context: As a student of the Women in Tech Web Development Bootcamp, I had the opportunity to work on an exciting project called Flitter. It was an excellent opportunity for me to apply the web development skills I learned during the bootcamp. By creating a replica of Twitter, I learned how to build a full-stack web application that included user authentication, data storage, and a user interface. ",
+  "project.flitter.challenges": "Main Challenges: The team's goal was to create a clone of the popular social media platform Twitter. ",
+  "project.flitter.user": "User I Persona: Individuals who enjoy using social media platforms, particularly those who are familiar with and enjoy using Twitter. ",
+  "project.flitter.process1": "Planning and ideation: The first step in creating Flitter was to plan and ideate the project. This involved discussing and brainstorming ideas with the team, identifying the key features and functionalities to include in the MVP, and creating a roadmap for development.",
+  "project.flitter.process2": "Design and user interface: Once the ideation process was complete, the team focused on designing the user interface and user experience. This involved creating wireframes, mockups, and prototypes to ensure the app's design was intuitive, user-friendly, and visually appealing.",
+  "project.flitter.process3": "Development: With the design and user interface in place, the team began developing the app's core functionalities, such as user authentication, profile creation, tweeting, following and unfollowing other users, and liking and disliking fleets.",
+  "project.flitter.process4": "Testing and debugging: As development progressed, the team conducted extensive testing and debugging to ensure the app's functionality was consistent and free of errors. This involved using various testing methods, such as unit testing, integration testing, and user acceptance testing.",
+  "project.flitter.process5": "Deployment: Once the app was fully developed and tested, it was deployed to a server for public use. This involved configuring the server and deploying the app to ensure it was accessible to users.",
+  "project.flitter.tool1": "Tools:",
+  "project.flitter.tool2": "Frontend: VUE, JAVASCRIPT, CSS, GIT ",
+  "project.flitter.tool3": "Backend: Node.JS, MongoDB, JWT, Express "
 }

@@ -296,6 +296,32 @@ export const projects = [
     tools: ["project.cultura.tool1", "project.cultura.tool2", "project.cultura.tool3"],
     images: [],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/woomen/woomen_01.mp4"
+  },
+  {
+    tags: ["label.filter5", "label.filter3"],
+    href: "flitter",
+    alt: "Flitter cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/flitter-cover_LcfLJ5SvY.jpg?updatedAt=1681577656173",
+    title: "Flitter",
+    category: "Development I UX-UI I Branding ",
+    context: "project.flitter.context",
+    challenges: "project.flitter.challenges",
+    user: "project.flitter.user",
+    process: [
+      "project.flitter.process1",
+      "project.flitter.process2",
+      "project.flitter.process3",
+      "project.flitter.process4",
+      "project.flitter.process5"
+    ],
+    tools: ["project.flitter.tool1", "project.flitter.tool2", "project.flitter.tool3"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flow-chart_gF_fhj2gK.jpg?updatedAt=1681578384970",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flitter-logo.png?updatedAt=1681659755156",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/zona-privada.png?updatedAt=1681660041420",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/Zona_publica.png?updatedAt=1681659942226"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
   }
 ];
 
