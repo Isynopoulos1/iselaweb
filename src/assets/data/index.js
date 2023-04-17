@@ -322,6 +322,27 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/Zona_publica.png?updatedAt=1681659942226"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
+  },
+
+  {
+    tags: ["label.filter5", "label.filter3"],
+    href: "Perritos Waiting",
+    alt: "Pw cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/perritos-cover_kGVZ2bOPj.jpg?updatedAt=1681664275148",
+    title: "Perritos Waiting",
+    category: "Development I UX-UI I Branding ",
+    context: "project.pw.context",
+    challenges: "project.pw.challenges",
+    user: "project.pw.user",
+    process: ["project.pw.process1", "project.pw.process2", "project.pw.process3", "project.pw.process4", "project.pw.process5"],
+    tools: ["project.flitter.tool1", "project.flitter.tool2", "project.flitter.tool3"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image4.png?updatedAt=1681664533999",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image1.jpg?updatedAt=1681664836487",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image2.png?updatedAt=1681664470025",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image3.png?updatedAt=1681664504294"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/pw-video.mp4?updatedAt=1681721741768"
   }
 ];
 
