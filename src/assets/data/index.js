@@ -104,8 +104,15 @@ export const projects = [
     context: "project.ppayaz.context",
     challenges: "project.ppayaz.challenges",
     user: "project.ppayaz.user",
-    process: ["project.ppayaz.process1", "project.ppayaz.process2"],
-    tools: ["project.ppayaz.tool1", "project.ppayaz.tool2", "project.ppayaz.tool3", "project.ppayaz.tool4", "project.ppayaz.tool5"],
+    process: ["project.ppayaz.process1"],
+    tools: [
+      "project.ppayaz.tool1",
+      "project.ppayaz.tool2",
+      "project.ppayaz.tool3",
+      "project.ppayaz.tool4",
+      "project.ppayaz.tool5",
+      "project.ppayaz.tool6"
+    ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_01.mp4",
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_02.jpeg",
@@ -125,8 +132,8 @@ export const projects = [
     context: "project.finances.context",
     challenges: "project.finances.challenges",
     user: "project.finances.user",
-    process: ["project.finances.process1", "project.finances.process2", "project.finances.process3", "project.finances.process4"],
-    tools: ["project.finances.tool1", "project.finances.tool2"],
+    process: ["project.finances.process1", "project.finances.process2", "project.finances.process3"],
+    tools: ["project.finances.tool1", "project.finances.tool2", "project.finances.tool3"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/wireframe.jpg?updatedAt=1681741192749",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/layout.png?updatedAt=1681741180880"
@@ -144,7 +151,7 @@ export const projects = [
     challenges: "project.pw.challenges",
     user: "project.pw.user",
     process: ["project.pw.process1", "project.pw.process2", "project.pw.process3"],
-    tools: ["project.pw.tool1", "project.pw.tool2"],
+    tools: ["project.pw.tool1", "project.pw.tool2", "project.pw.tool3"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/wireframe.jpg?updatedAt=1681737875996",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image4.png?updatedAt=1681664533999",
@@ -211,8 +218,8 @@ export const projects = [
     context: "project.doctoyou.context",
     challenges: "project.doctoyou.challenges",
     user: "project.doctoyou.user",
-    process: ["project.doctoyou.process1", "project.doctoyou.process2"],
-    tools: ["project.doctoyou.tool1", "project.doctoyou.tool2", "project.doctoyou.tool3"],
+    process: ["project.doctoyou.process1"],
+    tools: ["project.doctoyou.tool1", "project.doctoyou.tool2", "project.doctoyou.tool3", "project.doctoyou.tool4"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_02.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_03.png",

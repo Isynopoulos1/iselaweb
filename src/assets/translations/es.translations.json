@@ -26,12 +26,12 @@
   "project.ppayaz.challenges": "Objetivo: Destacar la frescura de la marca a través de un website minimalista.",
   "project.ppayaz.user": "Usuario I Persona: Emprendedores y creativos del sector que buscan y ofrecen  servicios digitales profesionales vía remota.",
   "project.ppayaz.process1": "Proceso: En Figma desarrollé wireframes para estructurar cada una de las páginas de contenido: Home, Servicios, Casos y Contacto. A través de Atomic Design creé componentes para implementarlos potencialmente en programación y de esta forma hacer reusables distintos elementos. Posteriormente en React  hice distintos componentes como botones con efecto hover. Implementé un map para crear una misma estructura de contenido en las tarjetas de cada caso. En la sección de servicios, usé una librería de  íconos en SVG a los cuales les dí un efecto de transición y opacidad. La página de contacto vincula a las distintas redes sociales de la marca. A través de un website limpio con estilo minimalista resalté el color primario de su logo en formas vectoriales y elementos fundamentales, de esta forma alcancé el principal objetivo.",
-  "project.ppayaz.process2": "Visita el sitio web en: www.ppayaz.com",
   "project.ppayaz.tool1": "Herramientas:",
   "project.ppayaz.tool2": " Programación: React, Javascript, CSS, SASS",
   "project.ppayaz.tool3": "UX-UI: Figma.",
   "project.ppayaz.tool4": "Diseño: Photoshop, Illustrator",
   "project.ppayaz.tool5": "Animación: After Effects, Premiere",
+  "project.ppayaz.tool6": "Visita el sitio web en: www.ppayaz.com",
 
   "project.nixi.context": "Contexto: Nixi For Children es una startup con sede en Barcelona, que ayuda a familias de todo el mundo a desarrollar experiencias inmersivas de realidad virtual para reducir la ansiedad de los pacientes.",
   "project.nixi.challenges": "Objetivo: Ayudar a los hospitales a permitirse implementar y mantener Nixi para sus pacientes. Compromiso familiar",
@@ -86,10 +86,10 @@
   "project.doctoyou.challenges": "Objetivo: Crear un logotipo que represente la facilidad con la que las personas pueden conectar con este servicio.",
   "project.doctoyou.user": "Usuario I Persona: Personas entre 30 y 45 años, en tendencia con nuevas tecnologías digitales,  que desean conectar con doctores para atención médica de urgencia.",
   "project.doctoyou.process1": "Proceso: Elegí una tipografía orgánica que aparenta estar conectada. Al centro contiene una flecha que enfatiza este concepto. Propuse un degradado en los colores utilizados, para sugerir modernidad,  muy en tendencia con aplicaciones similares.",
-  "project.doctoyou.process2": "Visita el website aquí: www.doctoyou.net ",
   "project.doctoyou.tool1": "Herramientas:",
   "project.doctoyou.tool2": "Diseño: Photoshop, Illustrator.",
   "project.doctoyou.tool3": "Animación: After Effects, Premiere.",
+  "project.doctoyou.tool4": "Visita el website aquí: www.doctoyou.net",
 
   "project.oda.context": "Contexto: Oda al pan; una empresa que exalta lo mejor de la panadería tradicional mexicana adaptándose a un mercado que busca lo auténtico.",
   "project.oda.challenges": "Objetivo: Crear una imagen corporativa que refleje autenticidad y elegancia.",
@@ -185,6 +185,7 @@
   "project.pw.process3": "En general, el proyecto Perritos Waiting fue una gran oportunidad para mejorar mis habilidades técnicas en desarrollo web y creatividad en la creación y organización de contenido. ",
   "project.pw.tool1": "Tools:",
   "project.pw.tool2": "CSS, HTML, Figma",
+  "project.pw.tool3": "Echa un vistazo al proyecto aquí: https://isynopoulos1.github.io/css_practice/",
 
   "project.finances.context": "Contexto: Como parte de mi bootcamp de desarrollo web Women in Tech, trabajé en un proyecto para desarrollar una aplicación de gestión de finanzas personales usando Javascript. El objetivo del proyecto era crear una aplicación que pudiera ayudar a las personas a rastrear sus gastos, ingresos y ahorros de una manera simple y fácil de usar.",
   "project.finances.challenges": "Objetivo: Crear una aplicación que pueda ayudar a las personas a realizar un seguimiento de sus gastos, ingresos y ahorros de manera simple y fácil de usar.  ",
@@ -192,7 +193,7 @@
   "project.finances.process1": "El principal desafío de este proyecto fue desarrollar una aplicación que pudiera manejar la gestión financiera de los usuarios mientras se mantenía una interfaz limpia y fácil de usar. Uno de los requisitos clave era mostrar los gastos totales, ingresos y dinero total ahorrado, lo que requería implementar estructuras de datos y algoritmos para calcular y mostrar eficientemente estas cifras.",
   "project.finances.process2": "Otro requisito importante era permitir que los usuarios añadieran y eliminaran entradas de ingresos y gastos con un concepto. Esta función requería implementar event listeners y funciones para manejar la entrada del usuario y la manipulación de datos.  ",
   "project.finances.process3": "En general, la construcción de este proyecto con Javascript en el navegador usando el DOM requirió una combinación de habilidades técnicas en Javascript, manipulación de datos y principios de diseño UI/UX. El resultado final fue una aplicación que proporcionaba una manera simple e intuitiva para que las personas gestionaran sus finanzas personales.",
-  "project.finances.process4": "Echa un vistazo al proyecto aquí: https://isynopoulos1.github.io/finance_app_practice/public/",
   "project.finances.tool1": "Tools:",
-  "project.finances.tool2": "JAVASCRIPT, CSS, HTML, MongoDB, Figma "
+  "project.finances.tool2": "JAVASCRIPT, CSS, HTML, MongoDB, Figma ",
+  "project.finances.tool3": "Echa un vistazo al proyecto aquí: https://isynopoulos1.github.io/finance_app_practice/public/"
 }
