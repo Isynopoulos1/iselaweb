@@ -146,7 +146,7 @@ export const projects = [
     context: "project.doctoyou.context",
     challenges: "project.doctoyou.challenges",
     user: "project.doctoyou.user",
-    process: ["project.doctoyou.process1"],
+    process: ["project.doctoyou.process1", "project.doctoyou.process2"],
     tools: ["project.doctoyou.tool1", "project.doctoyou.tool2", "project.doctoyou.tool3"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_02.jpg",
@@ -326,7 +326,7 @@ export const projects = [
 
   {
     tags: ["label.filter5", "label.filter3"],
-    href: "Perritos Waiting",
+    href: "perritos-waiting",
     alt: "Pw cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/perritos-cover_kGVZ2bOPj.jpg?updatedAt=1681664275148",
     title: "Perritos Waiting",
@@ -337,10 +337,28 @@ export const projects = [
     process: ["project.pw.process1", "project.pw.process2", "project.pw.process3"],
     tools: ["project.pw.tool1", "project.pw.tool2"],
     images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/wireframe.jpg?updatedAt=1681737875996",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image4.png?updatedAt=1681664533999",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image1.jpg?updatedAt=1681664836487",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image2.png?updatedAt=1681664470025",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image3.png?updatedAt=1681664504294"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/pw-video.mp4?updatedAt=1681721741768"
+  },
+  {
+    tags: ["label.filter5", "label.filter3"],
+    href: "finances-app",
+    alt: "Finances",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/finances-cover_mfdR4DBaa.jpg?updatedAt=1681740021316",
+    title: "Finances App",
+    category: "Development I UX-UI  ",
+    context: "project.finances.context",
+    challenges: "project.finances.challenges",
+    user: "project.finances.user",
+    process: ["project.finances.process1", "project.finances.process2", "project.finances.process3", "project.finances.process4"],
+    tools: ["project.finances.tool1", "project.finances.tool2"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/wireframe.jpg?updatedAt=1681741192749",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/layout.png?updatedAt=1681741180880"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/pw-video.mp4?updatedAt=1681721741768"
   }
