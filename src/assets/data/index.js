@@ -334,8 +334,8 @@ export const projects = [
     context: "project.pw.context",
     challenges: "project.pw.challenges",
     user: "project.pw.user",
-    process: ["project.pw.process1", "project.pw.process2", "project.pw.process3", "project.pw.process4", "project.pw.process5"],
-    tools: ["project.flitter.tool1", "project.flitter.tool2", "project.flitter.tool3"],
+    process: ["project.pw.process1", "project.pw.process2", "project.pw.process3"],
+    tools: ["project.pw.tool1", "project.pw.tool2"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image4.png?updatedAt=1681664533999",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image1.jpg?updatedAt=1681664836487",
