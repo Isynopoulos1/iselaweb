@@ -20,6 +20,54 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-05.mp4"
   },
   {
+    tags: ["label.filter5", "label.filter3"],
+    href: "flitter",
+    alt: "Flitter cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/flitter-cover_LcfLJ5SvY.jpg?updatedAt=1681577656173",
+    title: "Flitter",
+    category: "Development I UX-UI I Branding ",
+    context: "project.flitter.context",
+    challenges: "project.flitter.challenges",
+    user: "project.flitter.user",
+    process: [
+      "project.flitter.process1",
+      "project.flitter.process2",
+      "project.flitter.process3",
+      "project.flitter.process4",
+      "project.flitter.process5"
+    ],
+    tools: ["project.flitter.tool1", "project.flitter.tool2", "project.flitter.tool3"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flow-chart_gF_fhj2gK.jpg?updatedAt=1681578384970",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flitter-logo.png?updatedAt=1681659755156",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/zona-privada.png?updatedAt=1681660041420",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/Zona_publica.png?updatedAt=1681659942226"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
+  },
+
+  {
+    tags: ["label.filter1", "label.filter3", "label.filter2"],
+    href: "lozano-studio",
+    alt: "Lozano cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/lozano-cover_GUntsovVG.png",
+    title: "Lozano Studio",
+    category: "Animation I Development I UX-UI ",
+    context: "project.lozano.context",
+    challenges: "project.lozano.challenges",
+    user: "project.lozano.user",
+    process: ["project.lozano.process1"],
+    tools: ["project.lozano.tool1", "project.lozano.tool2", "project.lozano.tool3", "project.lozano.tool4", "project.lozano.tool6"],
+
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_02.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_05.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_03.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_04.png"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_01.mp4"
+  },
+  {
     tags: ["label.filter1", "label.filter3"],
     href: "nixi",
     alt: "Nixi cover",
@@ -68,6 +116,44 @@ export const projects = [
   },
 
   {
+    tags: ["label.filter5", "label.filter3"],
+    href: "finances-app",
+    alt: "Finances",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/finances-cover_mfdR4DBaa.jpg?updatedAt=1681740021316",
+    title: "Finances App",
+    category: "Development I UX-UI  ",
+    context: "project.finances.context",
+    challenges: "project.finances.challenges",
+    user: "project.finances.user",
+    process: ["project.finances.process1", "project.finances.process2", "project.finances.process3", "project.finances.process4"],
+    tools: ["project.finances.tool1", "project.finances.tool2"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/wireframe.jpg?updatedAt=1681741192749",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/layout.png?updatedAt=1681741180880"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/finances-video.mp4?updatedAt=1681754561236"
+  },
+  {
+    tags: ["label.filter5", "label.filter3"],
+    href: "perritos-waiting",
+    alt: "Pw cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/perritos-cover_kGVZ2bOPj.jpg?updatedAt=1681664275148",
+    title: "Perritos Waiting",
+    category: "Development I UX-UI I Branding ",
+    context: "project.pw.context",
+    challenges: "project.pw.challenges",
+    user: "project.pw.user",
+    process: ["project.pw.process1", "project.pw.process2", "project.pw.process3"],
+    tools: ["project.pw.tool1", "project.pw.tool2"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/wireframe.jpg?updatedAt=1681737875996",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image4.png?updatedAt=1681664533999",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image2.png?updatedAt=1681664470025",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image3.png?updatedAt=1681664504294"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/pw-video.mp4?updatedAt=1681721741768"
+  },
+  {
     tags: ["label.filter1", "label.filter3"],
     href: "delivery-app",
     alt: "Delivery App cover",
@@ -94,27 +180,6 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_04.png"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_01.mp4"
-  },
-  {
-    tags: ["label.filter1", "label.filter3", "label.filter2"],
-    href: "lozano-studio",
-    alt: "Lozano cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/lozano-cover_GUntsovVG.png",
-    title: "Lozano Studio",
-    category: "Animation I Development I UX-UI ",
-    context: "project.lozano.context",
-    challenges: "project.lozano.challenges",
-    user: "project.lozano.user",
-    process: ["project.lozano.process1"],
-    tools: ["project.lozano.tool1", "project.lozano.tool2", "project.lozano.tool3", "project.lozano.tool4", "project.lozano.tool6"],
-
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_02.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_05.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_03.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_04.png"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_01.mp4"
   },
   {
     tags: ["label.filter1", "label.filter3", "label.filter2"],
@@ -296,71 +361,6 @@ export const projects = [
     tools: ["project.cultura.tool1", "project.cultura.tool2", "project.cultura.tool3"],
     images: [],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/woomen/woomen_01.mp4"
-  },
-  {
-    tags: ["label.filter5", "label.filter3"],
-    href: "flitter",
-    alt: "Flitter cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/flitter-cover_LcfLJ5SvY.jpg?updatedAt=1681577656173",
-    title: "Flitter",
-    category: "Development I UX-UI I Branding ",
-    context: "project.flitter.context",
-    challenges: "project.flitter.challenges",
-    user: "project.flitter.user",
-    process: [
-      "project.flitter.process1",
-      "project.flitter.process2",
-      "project.flitter.process3",
-      "project.flitter.process4",
-      "project.flitter.process5"
-    ],
-    tools: ["project.flitter.tool1", "project.flitter.tool2", "project.flitter.tool3"],
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flow-chart_gF_fhj2gK.jpg?updatedAt=1681578384970",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flitter-logo.png?updatedAt=1681659755156",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/zona-privada.png?updatedAt=1681660041420",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/Zona_publica.png?updatedAt=1681659942226"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
-  },
-
-  {
-    tags: ["label.filter5", "label.filter3"],
-    href: "perritos-waiting",
-    alt: "Pw cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/perritos-cover_kGVZ2bOPj.jpg?updatedAt=1681664275148",
-    title: "Perritos Waiting",
-    category: "Development I UX-UI I Branding ",
-    context: "project.pw.context",
-    challenges: "project.pw.challenges",
-    user: "project.pw.user",
-    process: ["project.pw.process1", "project.pw.process2", "project.pw.process3"],
-    tools: ["project.pw.tool1", "project.pw.tool2"],
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/wireframe.jpg?updatedAt=1681737875996",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image4.png?updatedAt=1681664533999",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image2.png?updatedAt=1681664470025",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/image3.png?updatedAt=1681664504294"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/pw-video.mp4?updatedAt=1681721741768"
-  },
-  {
-    tags: ["label.filter5", "label.filter3"],
-    href: "finances-app",
-    alt: "Finances",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/finances-cover_mfdR4DBaa.jpg?updatedAt=1681740021316",
-    title: "Finances App",
-    category: "Development I UX-UI  ",
-    context: "project.finances.context",
-    challenges: "project.finances.challenges",
-    user: "project.finances.user",
-    process: ["project.finances.process1", "project.finances.process2", "project.finances.process3", "project.finances.process4"],
-    tools: ["project.finances.tool1", "project.finances.tool2"],
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/wireframe.jpg?updatedAt=1681741192749",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/layout.png?updatedAt=1681741180880"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/perritos-waiting/pw-video.mp4?updatedAt=1681721741768"
   }
 ];
 
