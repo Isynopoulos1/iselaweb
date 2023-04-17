@@ -174,7 +174,7 @@
   "project.flitter.process4": "Testing y debugging: A medida que avanzaba el desarrollo, el equipo llevó a cabo pruebas y depuración para asegurarse de que la funcionalidad de la aplicación fuera consistente y libre de errores. Esto implicó utilizar diversos métodos de prueba, como unit testing.",
   "project.flitter.process5": "Despliegue: Una vez que la aplicación estuvo completamente desarrollada y probada, se realizó su despliegue en un servidor público. Para ello, se configuró el servidor y se desplegó la aplicación en la nube utilizando una base de datos alojada en MongoDB Atlas, en lugar de en un servidor local. Esto aseguró que la aplicación fuera accesible para los usuarios y se pudiera escalar fácilmente si fuera necesario.",
   "project.flitter.tool1": "Tools:",
-  "project.flitter.tool2": "Frontend: VUE, JAVASCRIPT, CSS, GIT ",
+  "project.flitter.tool2": "Frontend: VUE, JAVASCRIPT, CSS, GIT, Figma ",
   "project.flitter.tool3": "Backend: Node.JS, MongoDB Atlas, JWT, Express ",
 
   "project.pw.context": "Contexto: Una de las cosas que me encanta de Barcelona es la cantidad de perros  bien educados que veo en las calles. Inspirada por ellos, este proyecto muestra una colección de fotos aleatorias que he tomado de perritos esperando a sus dueños afuera de tiendas, supermercados, panaderías y más. Perritos Waiting fue un proyecto que creé durante un bootcamp de Women in Tech utilizando CSS y HTML. ",
@@ -184,7 +184,7 @@
   "project.pw.process2": "Además de diseñar la página web, también utilicé mis habilidades técnicas en desarrollo web para asegurarme de que la página fuera responsiva en diferentes dispositivos y plataformas, como computadoras de escritorio y teléfonos móviles. Esto requirió pruebas y optimizaciones en el diseño y la funcionalidad de la página web para garantizar que se visualizara correctamente y fuera fácil de usar en todos los dispositivos.",
   "project.pw.process3": "En general, el proyecto Perritos Waiting fue una gran oportunidad para mejorar mis habilidades técnicas en desarrollo web y creatividad en la creación y organización de contenido. ",
   "project.pw.tool1": "Tools:",
-  "project.pw.tool2": "CSS, HTML ",
+  "project.pw.tool2": "CSS, HTML, Figma",
 
   "project.finances.context": "Contexto: Como parte de mi bootcamp de desarrollo web Women in Tech, trabajé en un proyecto para desarrollar una aplicación de gestión de finanzas personales usando Javascript. El objetivo del proyecto era crear una aplicación que pudiera ayudar a las personas a rastrear sus gastos, ingresos y ahorros de una manera simple y fácil de usar.",
   "project.finances.challenges": "Objetivo: Crear una aplicación que pueda ayudar a las personas a realizar un seguimiento de sus gastos, ingresos y ahorros de manera simple y fácil de usar.  ",
@@ -194,5 +194,5 @@
   "project.finances.process3": "En general, la construcción de este proyecto con Javascript en el navegador usando el DOM requirió una combinación de habilidades técnicas en Javascript, manipulación de datos y principios de diseño UI/UX. El resultado final fue una aplicación que proporcionaba una manera simple e intuitiva para que las personas gestionaran sus finanzas personales.",
   "project.finances.process4": "Echa un vistazo al proyecto aquí: https://isynopoulos1.github.io/finance_app_practice/public/",
   "project.finances.tool1": "Tools:",
-  "project.finances.tool2": "JAVASCRIT, CSS, HTML, MongoDB "
+  "project.finances.tool2": "JAVASCRIPT, CSS, HTML, MongoDB, Figma "
 }
