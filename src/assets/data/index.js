@@ -133,7 +133,7 @@ export const projects = [
     challenges: "project.finances.challenges",
     user: "project.finances.user",
     process: ["project.finances.process1", "project.finances.process2", "project.finances.process3"],
-    tools: ["project.finances.tool1", "project.finances.tool2", "project.finances.tool3"],
+    tools: ["project.finances.tool1", "project.finances.tool2", "project.finances.tool"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/wireframe.jpg?updatedAt=1681741192749",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/layout.png?updatedAt=1681741180880"
