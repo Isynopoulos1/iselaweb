@@ -7,7 +7,12 @@ export const colors = {
   mediumgray: "#232323",
   lightergray: "#80808094",
   lightgray: "#808080",
-  secondary: "#FEFAEE"
+  secondary: "#FEFAEE",
+  test1: "#dad4f44d",
+  test2: "#D4C9FD",
+  test3: "#ebe6ff",
+  test4: "#b8a6ff",
+  test5: "#d2ccc1"
 };
 
 export const sizes = {

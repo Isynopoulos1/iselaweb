@@ -24,6 +24,10 @@ export const BgMenu = styled.aside`
     text-decoration: none;
     transition: white 0.8s linear 0.5s;
   }
+  & a:hover {
+    color: ${colors.test5};
+    transition: color 0.2s ease;
+  }
 `;
 export const Languages = styled.div`
   position: relative;
@@ -35,7 +39,7 @@ export const Languages = styled.div`
 export const Language = styled.span`
   position: relative;
   font-family: ${fonts.font1};
-  color: ${colors.lightergray};
+  color: ${colors.test5};
   font-size: ${sizes.xs};
   font-weight: 300;
   padding: ${sizes.xs};

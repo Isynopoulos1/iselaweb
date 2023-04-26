@@ -22,5 +22,5 @@ export const Copyright = styled.div`
   font-size: ${sizes.xss};
   color: ${colors.black};
   font-family: "Roboto", sans-serif;
-  font-weight: 200;
+  font-weight: 300;
 `;
