@@ -41,7 +41,7 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flow-chart_gF_fhj2gK.jpg?updatedAt=1681578384970",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flitter-logo.png?updatedAt=1681659755156",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/zona-privada.png?updatedAt=1681660041420",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/Zona_publica.png?updatedAt=1681659942226"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/zona_publica.png?updatedAt=1682517219043"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
   },
