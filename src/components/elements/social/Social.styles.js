@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { colors, sizes } from "@styles";
 
 export const SocialContainer = styled.div`
   display: flex;
