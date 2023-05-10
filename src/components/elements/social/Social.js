@@ -12,7 +12,7 @@ import InstagramLogo from "@assets/icons/ig-logo";
 const Social = () => {
   return (
     <SocialContainer>
-      <LinkedinLogo color="black" width="11px" target="_blank" href="https://www.linkedin.com/in/isela-v-alarc%C3%B3n/" />
+      <LinkedinLogo color="black" width="11px" target="_blank" href="https://www.linkedin.com/in/isela-v-alarcon/" />
       <GitLogo color="black" width="13px" target="_blank" href="https://github.com/Isynopoulos1" />
       <InstagramLogo color="black" width="16px" target="_blank" href="https://www.instagram.com/isynnopoulos/" />
     </SocialContainer>
