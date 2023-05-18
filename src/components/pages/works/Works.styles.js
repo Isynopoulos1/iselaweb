@@ -29,3 +29,9 @@ export const Covers = styled.section`
   align-items: center;
   grid-gap: 30px;
 `;
+export const SearchProjects = styled.div`
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+`;
