@@ -31,10 +31,12 @@ const Works = () => {
       .filter(card => {
         return !filter ? card : card.tags.includes(filter);
       })
+      .filter(project => project.title.toLowerCase().includes(search))
       .map((card, i) => {
         return <Card key={i} cover={card.cover} title={card.title} href={card.href} />;
       });
   };
+  
 
   // MAIN RENDER
   return (

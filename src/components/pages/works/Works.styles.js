@@ -34,4 +34,5 @@ export const SearchProjects = styled.div`
   width: 100%;
   justify-content: center;
   align-items: center;
+  
 `;

@@ -3,7 +3,7 @@ import React from "react";
 import { InputContainer } from "../searchBar/SearchBar.styles";
 
 const SearchBar = ({ handleSearch }) => {
-  return <InputContainer placeholder="Search" onChange={handleSearch} />;
+  return <InputContainer placeholder=" Search" onChange={handleSearch} />;
 };
 
 export default SearchBar;
