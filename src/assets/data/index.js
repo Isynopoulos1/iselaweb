@@ -39,9 +39,9 @@ export const projects = [
     tools: ["project.flitter.tool1", "project.flitter.tool2", "project.flitter.tool3"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flow-chart_gF_fhj2gK.jpg?updatedAt=1681578384970",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flitter-logo.png?updatedAt=1681659755156",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/zona-privada.png?updatedAt=1681660041420",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/zona_publica.png?updatedAt=1682517219043"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/desygn-system.png?updatedAt=1685359032267",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/private-zone.png?updatedAt=1685359444952",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/public-zone.png?updatedAt=1685359427849"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
   },
