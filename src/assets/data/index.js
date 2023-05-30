@@ -13,8 +13,8 @@ export const projects = [
     tools: ["project.ia.tool1", "project.ia.tool2", "project.ia.tool3", "project.ia.tool4", "project.ia.tool5"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-03.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-01.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-02.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/design-system.png?updatedAt=1685436527585",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ui-design.png?updatedAt=1685438180181",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-04.jpg"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-05.mp4"
@@ -39,7 +39,7 @@ export const projects = [
     tools: ["project.flitter.tool1", "project.flitter.tool2", "project.flitter.tool3"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/flow-chart_gF_fhj2gK.jpg?updatedAt=1681578384970",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/desygn-system.png?updatedAt=1685359032267",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/design-system.png?updatedAt=1685438738681",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/private-zone.png?updatedAt=1685359444952",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/public-zone.png?updatedAt=1685359427849"
     ],
