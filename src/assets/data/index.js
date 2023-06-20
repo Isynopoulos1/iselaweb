@@ -89,7 +89,7 @@ export const projects = [
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_02.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_03.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_04.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/Captura-de-pantalla-2023-06-20-a-las-11.09.04_Mljv3gLViK.png?updatedAt=1687252266851",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_05.jpg"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nixi/nixi_01.mp4"
