@@ -17,6 +17,7 @@ const About = () => {
         <p>{translate("about.description")}</p>
         <p> {translate("about.description2")}</p>
         <p> {translate("about.description3")}</p>
+        <p> {translate("about.description4")}</p>
       </Description>
       <Photo src="https://ik.imagekit.io/ppayaz/iselalarcon/about/profilenuevo_1_qOOqdg9pg.jpg?updatedAt=1681467409389" alt="Photo" />
     </AboutContainer>
