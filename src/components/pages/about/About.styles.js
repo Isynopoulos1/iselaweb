@@ -10,7 +10,9 @@ export const AboutContainer = styled.main`
   width: calc(100% - 40px);
   height: auto;
   padding: 20px;
+
 `;
+
 export const Photo = styled.img`
   display: flex;
   justify-content: center;

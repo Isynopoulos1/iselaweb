@@ -13,7 +13,7 @@ export const projects = [
     tools: ["project.ia.tool1", "project.ia.tool2", "project.ia.tool3", "project.ia.tool4", "project.ia.tool5"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-03.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/design-system.png?updatedAt=1685436527585",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-01.jpg?updatedAt=1702573056229",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ui-design.png?updatedAt=1685438180181",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-04.jpg"
     ],
@@ -44,6 +44,25 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/public-zone.png?updatedAt=1685359427849"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
+  },
+  {
+    tags: ["label.filter5"],
+    href: "wedding",
+    alt: "Wedding cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21_OyOv-o-Gy.png?updatedAt=1719847921894",
+    title: "Wedding website",
+    category: "Development",
+    context: "project.wedding.context",
+    challenges: "project.wedding.challenges",
+    user: "project.wedding.user",
+    process: ["project.wedding.process1", "project.wedding.process2", "project.wedding.process3", "project.wedding.process4"],
+    tools: ["project.wedding.tool1", "project.wedding.tool2", "project.wedding.tool3"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/hero.png?updatedAt=1719849119437",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/figma.png?updatedAt=1719937354687",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/modal.png?updatedAt=1719937116848",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/components.png?updatedAt=1719937491298"
+    ]
   },
 
   {
@@ -303,23 +322,7 @@ export const projects = [
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/movistar_01.mp4"
   },
-  {
-    tags: ["label.filter5"],
-    href: "reebok",
-    alt: "Reebok cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/reebok-cover_XDbuPGGBy.png",
-    title: "Reebok",
-    category: " Art Direction",
-    context: "project.reebok.context",
-    challenges: "project.reebok.challenges",
-    user: "project.reebok.user",
-    process: ["project.reebok.process1"],
-    tools: ["project.reebok.tool1", "project.reebok.tool2"],
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/reebok/reebok_02.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/reebok/reebok_03.png"
-    ]
-  },
+
   {
     tags: ["label.filter5"],
     href: "dog-chow",

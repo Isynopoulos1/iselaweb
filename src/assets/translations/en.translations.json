@@ -11,7 +11,6 @@
   "about.description3": "🔹 One aspect of my work that I find particularly fulfilling is building sites and implementing effective design systems. ",
   "about.description4": " 💛 I value a positive work culture and environment, collaborating with a talented and supportive team is important to me as it fosters growth and innovation. ",
 
-
   "contact.cta": "Let's talk!",
   "contact.name": "Name",
   "contact.mail": "Mail",
@@ -137,12 +136,16 @@
   "project.movistar.tool2": "Design: Photoshop, Illustrator.",
   "project.movistar.tool3": "Animation: After Effects, Premiere.",
 
-  "project.reebok.context": "Context: Reebok is an American company known for producing high-quality sneakers, sports apparel, and accessories. They are recognized worldwide for their exceptional product quality.",
-  "project.reebok.challenges": "Main Challenges: To create a Valentine's Day social media campaign that drives sales and engages customers.",
-  "project.reebok.user": "User I Persona: Our target audience for the Valentine's Day campaign are active Instagram users aged 20 to 30 who are interested in fashion trends and are motivated by exclusive promotions and updates.",
-  "project.reebok.process1": "Process: This Valentine's Day, we celebrate the perfect partnership between friends who share everything, even their style. With Reebok, you and your best friend can make a Partner Match by wearing the same Reebok garment. To promote this, we created a sticker for Instagram stories. Users simply had to share a photo with their best friend and add the sticker, explaining why they are the perfect match. Those who participated in the promotion had a chance to win prizes. Additionally, Instagrammers joined the campaign with the #PerfectMatchChallenge, sharing side-by-side photos of themselves and their best friend, demonstrating how well they know each other.",
-  "project.reebok.tool1": "Tools:",
-  "project.reebok.tool2": "Design: Photoshop, Illustrator.",
+  "project.wedding.context": "Context: This project involved creating a static website for my wedding using React. The website includes sections like When, How, and Where, providing essential details about the event.",
+  "project.wedding.challenges": "Goal: Ensure the website was multilingual, requiring proper translations and implementation. Create a functional and user-friendly modal form for RSVPs and dietary preferences. Maintain performance and responsiveness across all devices using Vite and responsive CSS.",
+  "project.wedding.user": "User/Persona: Wedding guests.",
+  "project.wedding.process1": "Created the website design in Figma, designing reusable components and maintaining visual consistency with the invitations and wedding theme.",
+  "project.wedding.process2": "Used React to develop the website, leveraging Styled Components for styling and Redux for state management.",
+  "project.wedding.process3": "Implemented multilingual functionality and ensured translations were accurate and appropriate.",
+  "project.wedding.process4": "Used Postman to test and validate the RSVP form functionality and data management.",
+  "project.wedding.tool1": "Tools:",
+  "project.wedding.tool2": "Development: React, Vite, Redux, Postman, CSS, styled-components.",
+  "project.wedding.tool3": "Design: Figma, Photoshop, Illustrator.",
 
   "project.dogchow.context": "Context: Dog Chow, a Nestlé Purina brand, is excited to celebrate our furry friends with a special day dedicated to them - National Dog Day.",
   "project.dogchow.challenges": "Main Challenges: The brand aims to establish Dog Day as a special occasion in the minds of consumers, where our furry friends are celebrated and recognized for being man's best companion.",

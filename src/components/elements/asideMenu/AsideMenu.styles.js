@@ -25,7 +25,7 @@ export const BgMenu = styled.aside`
     transition: white 0.8s linear 0.5s;
   }
   & a:hover {
-    color: ${colors.test5};
+    color: ${colors.test2};
     transition: color 0.2s ease;
   }
 `;

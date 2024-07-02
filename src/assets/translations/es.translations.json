@@ -11,7 +11,6 @@
   "about.description3": "🔹 Un aspecto de mi trabajo que realmente disfruto es construir sitios e implementar sistemas de diseño. ",
   "about.description4": " 💛 Valoro una cultura laboral y un entorno positivos, colaborar con un equipo talentoso y solidario es importante para mí, para fomentar el crecimiento y la innovación.",
 
-
   "contact.cta": "¿Hablamos?",
   "contact.name": "Nombre",
   "contact.mail": "Mail",
@@ -125,12 +124,16 @@
   "project.movistar.tool2": "Diseño: Photoshop, Illustrator.",
   "project.movistar.tool3": "Animación: After Effects, Premiere.",
 
-  "project.reebok.context": "Contexto: Reebok es una empresa estadounidense de tenis, ropa y accesorios deportivos. Posicionada a nivel mundial por la calidad en sus productos.",
-  "project.reebok.challenges": "Objetivo: Desarrollar una campaña en redes sociales para incentivar la compra en San Valentín.",
-  "project.reebok.user": "Usuario I Persona: Usuarios de  20 a 30 años, que participen activamente en instagram para mantenerse actualizados en tendencias de moda, informarse y recibir promociones. ",
-  "project.reebok.process1": "Proceso: Todos tenemos un amigo con el que podemos compartir todo, incluso el estilo. Este San Valentín celebramos aquellos que tienen el partner perfecto, aquel con el que pueden compartir la misma prenda Reebok y de esta forma hacer un “Partner Match. Se creó un sticker para IG stories. Los usuarios tenían que compartir una foto con su mejor amigo diciendo por qué son Partner Match y agregar el sticker. Aquellos que subían su fotografía, participaban en la promoción. Además, instagramers se sumaron a la campaña en un #PerfectMatchChallenge, compartiendo en un side by side cuánto sabían de su mejor amigo.",
-  "project.reebok.tool1": "Herramientas:",
-  "project.reebok.tool2": "Diseño: Photoshop, Illustrator.",
+  "project.wedding.context": "Contexto: Este proyecto consistió en crear un sitio web estático para mi boda utilizando React. El sitio web incluye secciones como Cuándo, Cómo y Dónde, proporcionando detalles esenciales sobre el evento.",
+  "project.wedding.challenges": "Objetivo: Asegurar que el sitio web fuera multilingüe, requiriendo traducciones e implementación adecuada. Crear un formulario modal funcional y fácil de usar para confirmaciones de asistencia y preferencias dietéticas. Mantener el rendimiento y la capacidad de respuesta en todos los dispositivos utilizando Vite y CSS responsivo.",
+  "project.wedding.user": "Usuario I Persona: Invitados a la boda. ",
+  "project.wedding.process1": "Creé el diseño del sitio web en Figma, diseñando componentes reutilizables y manteniendo la coherencia visual con las invitaciones y el tema de la boda.",
+  "project.wedding.process2": "Utilicé React para desarrollar el sitio web, aprovechando Styled Components para el estilo y Redux para la gestión del estado.",
+  "project.wedding.process3": "Implementé la funcionalidad multilingüe y aseguré que las traducciones fueran precisas y adecuadas.",
+  "project.wedding.process4": "Utilicé Postman para probar y validar el funcionamiento del formulario de RSVP y la gestión de datos.",
+  "project.wedding.tool1": "Herramientas:",
+  "project.wedding.tool2": "Develpment: React, Vite, Redux, Postman, Css, styled-components.",
+  "project.wedding.tool3": "Design: Figma, Photoshop, Ilustrator.",
 
   "project.dogchow.context": "Contexto: Dog Chow es una marca de comida para perros comercializada y fabricada por Nestlé Purina. Desean celebrar a los perros con una fecha especial.",
   "project.dogchow.challenges": "Objetivo: Buscan posicionar en la mente del consumidor el día del perro como una fecha especial en la cuál el mejor amigo del hombre merece reconocimiento.",

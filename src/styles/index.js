@@ -12,7 +12,11 @@ export const colors = {
   test2: "#D4C9FD",
   test3: "#ebe6ff",
   test4: "#b8a6ff",
-  test5: "#d2ccc1"
+  test5: "#d2ccc1",
+  newgreen: "#98FB98",
+  newrose: "#FFE4E1",
+
+
 };
 
 export const sizes = {
