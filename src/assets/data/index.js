@@ -60,7 +60,7 @@ export const projects = [
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/hero.png?updatedAt=1719849119437",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/figma.png?updatedAt=1719937354687",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/modal.png?updatedAt=1719937116848",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/modal.png?updatedAt=1719938228393",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/components.png?updatedAt=1719937491298"
     ]
   },
