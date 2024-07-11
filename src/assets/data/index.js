@@ -58,8 +58,8 @@ export const projects = [
     process: ["project.wedding.process1", "project.wedding.process2", "project.wedding.process3", "project.wedding.process4"],
     tools: ["project.wedding.tool1", "project.wedding.tool2", "project.wedding.tool3"],
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/hero.png?updatedAt=1719849119437",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/figma.png?updatedAt=1719937354687",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/logo.png?updatedAt=1720708630123",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/figma-2.png?updatedAt=1720709084536",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/modal.png?updatedAt=1719938228393",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/components.png?updatedAt=1719937491298"
     ]
