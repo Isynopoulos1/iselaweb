@@ -46,7 +46,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
   },
   {
-    tags: ["label.filter5"],
+    tags: ["label.filter1", "label.filter2", "label.filter4"],
     href: "wedding",
     alt: "Wedding cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21_OyOv-o-Gy.png?updatedAt=1719847921894",
