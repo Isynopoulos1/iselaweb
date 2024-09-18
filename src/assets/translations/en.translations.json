@@ -6,10 +6,10 @@
   "footer.copyright": "Copyright 2023 IselAlarcón© | All rights reserved",
 
   "about.title": "Hello, I'm Isela",
-  "about.description": "📍 I am a Barcelona-based Front-end Developer.",
-  "about.description2": "⭐  I have also, solid experience in Digital design. This background gives me a unique perspective and a diverse skill set that I bring to the table. ",
-  "about.description3": "🔹 One aspect of my work that I find particularly fulfilling is building sites and implementing effective design systems. ",
-  "about.description4": " 💛 I value a positive work culture and environment, collaborating with a talented and supportive team is important to me as it fosters growth and innovation. ",
+  "about.description": "📍I’m a Front-end Developer and Product Designer based in Barcelona with over 10 years of experience as a Digital Designer and since 2020 as a front-end developer.",
+  "about.description2": "⭐ One of my core strengths is building design systems from scratch. I create user-focused components in Figma that are visually consistent, and then bring them to life by coding them in React. This ability to move fluidly between design and development helps optimize projects and create cohesive user experiences.",
+  "about.description3": "🔹 This ability to move fluidly between design and development helps optimize projects and create cohesive user experiences.",
+  "about.description4": " 💛 I value a positive work culture and environment, collaborating with a talented and supportive team is important to me, as it encourages growth and innovation. ",
 
   "contact.cta": "Let's talk!",
   "contact.name": "Name",
