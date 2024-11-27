@@ -19,7 +19,7 @@ const About = () => {
         <p> {translate("about.description3")}</p>
         <p> {translate("about.description4")}</p>
       </Description>
-      <Photo src="https://ik.imagekit.io/ppayaz/iselalarcon/about/profile-picture?updatedAt=1726651626356" alt="Photo" />
+      <Photo src="https://ik.imagekit.io/ppayaz/iselalarcon/about/final4_KhMS7Hfea.jpg?updatedAt=1702909926599" alt="Photo" />
     </AboutContainer>
   );
 };
