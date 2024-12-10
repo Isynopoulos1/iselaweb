@@ -1,5 +1,24 @@
 export const projects = [
   {
+    tags: ["label.filter1", "label.filter2", "label.filter4"],
+    href: "wedding",
+    alt: "Wedding cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21_OyOv-o-Gy.png?updatedAt=1719847921894",
+    title: "Wedding website",
+    category: "Development",
+    context: "project.wedding.context",
+    challenges: "project.wedding.challenges",
+    user: "project.wedding.user",
+    process: ["project.wedding.process1", "project.wedding.process2", "project.wedding.process3", "project.wedding.process4"],
+    tools: ["project.wedding.tool1", "project.wedding.tool2", "project.wedding.tool3"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/gallery.png?updatedAt=1733843773400",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/figma.png?updatedAt=1720772618103",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/modal.png?updatedAt=1719938228393",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/components.png?updatedAt=1719937491298"
+    ]
+  },
+  {
     tags: ["label.filter1", "label.filter3", "label.filter2", "label.filter4", "label.filter5"],
     href: "isela-alarcon",
     alt: "Isela Alarcóncover",
@@ -45,26 +64,6 @@ export const projects = [
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
   },
-  {
-    tags: ["label.filter1", "label.filter2", "label.filter4"],
-    href: "wedding",
-    alt: "Wedding cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21_OyOv-o-Gy.png?updatedAt=1719847921894",
-    title: "Wedding website",
-    category: "Development",
-    context: "project.wedding.context",
-    challenges: "project.wedding.challenges",
-    user: "project.wedding.user",
-    process: ["project.wedding.process1", "project.wedding.process2", "project.wedding.process3", "project.wedding.process4"],
-    tools: ["project.wedding.tool1", "project.wedding.tool2", "project.wedding.tool3"],
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/logo.png?updatedAt=1720708630123",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/figma.png?updatedAt=1720772618103",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/modal.png?updatedAt=1719938228393",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/isela-erwan/components.png?updatedAt=1719937491298"
-    ]
-  },
-
   {
     tags: ["label.filter1", "label.filter3", "label.filter2"],
     href: "lozano-studio",
