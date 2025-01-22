@@ -3,7 +3,7 @@
   "menu.works": "Works",
   "menu.contact": "Contact",
 
-  "footer.copyright": "Copyright 2023 IselAlarcón© | All rights reserved",
+  "footer.copyright": "Copyright 2025 IselAlarcon© | All rights reserved",
 
   "about.title": "Hello, I'm Isela",
   "about.description": "📍I’m a Front-end Developer and Product Designer based in Barcelona with over 10 years of experience as a Digital Designer and since 2020 as a front-end developer.",
@@ -200,5 +200,23 @@
   "project.finances.process3": "Overall, building this project with Javascript in the browser using the DOM required a combination of technical skills in Javascript, data manipulation, and UI/UX design principles. The end result was an app that provided a simple and intuitive way for individuals to manage their personal finances.",
   "project.finances.tool1": "Tools:",
   "project.finances.tool2": "JAVASCRIPT, CSS, HTML, MongoDB, Figma ",
-  "project.finances.tool3": "Look at the project here: https://isynopoulos1.github.io/finance_app_practice/public/ "
+  "project.finances.tool3": "Look at the project here: https://isynopoulos1.github.io/finance_app_practice/public/ ",
+
+  "project.loopz.context": "Context: Loopz Tracker App is a UI design case study showcasing advanced techniques in Figma.",
+  "project.loopz.challenges": "Objetive:Design a dynamic and user-friendly app for music events, featuring reusable elements and an efficient design system.",
+  "project.loopz.user": "User I Persona: Music lovers aged 25 to 45 who frequently attend concerts and events.",
+  "project.loopz.process1": "Main Challenges: Designing a visually dynamic yet intuitive interface.",
+  "project.loopz.process2": "Developing reusable design assets and tokens for scalability.",
+  "project.loopz.process3": "Ensuring seamless handoff with detailed documentation for developers.",
+  "project.loopz.process4": "Improving the user experience with solid testing and engaging visuals.",
+  "project.loopz.process5": "Process: Wireframing: Started with low-fidelity wireframes to establish structure and navigation.",
+  "project.loopz.process6": "Workflow Design: Defined clear user flows to ensure a smooth journey through the app.",
+  "project.loopz.process7": "Visual Design: Applied the vibrant color palette to create dynamic components. Designed reusable buttons and interface elements with flexible properties.",
+  "project.loopz.process8": "Prototype Development: Incorporated design tokens and variables to maintain consistency.",
+  "project.loopz.process9": "User Testing: Conducted advanced testing sessions to refine usability and validate design decisions.",
+  "project.loopz.process10": "Design System: Built a comprehensive system of styles, components, and grids, complete with detailed documentation to support the development process.",
+  "project.loopz.tool1": "Tools:",
+  "project.loopz.tool2": "Figma Pro: For advanced UI design, asset management, and prototyping.",
+  "project.loopz.tool3": "Photoshop & After Effects: For image and video masking, enhancing visual impact.",
+  "project.loopz.tool4": "Encoder: For finalizing multimedia assets."
 }

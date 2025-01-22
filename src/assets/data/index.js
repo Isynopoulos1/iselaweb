@@ -2,6 +2,26 @@ export const projects = [
   {
     tags: ["label.filter1", "label.filter2", "label.filter4"],
     href: "wedding",
+    alt: "Loopz Tracker",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/loopz-tracker-cover.png?updatedAt=1737560212925",
+    title: "Loopz Tracker App",
+    category: "Context",
+    context: "project.loopz.context",
+    challenges: "project.loopz.challenges",
+    user: "project.loopz.user",
+    process: ["project.loopz.process1", "project.loopz.process2", "project.loopz.process3", "project.loopz.process4","project.loopz.process5","project.loopz.process6","project.loopz.process7","project.loopz.process8","project.loopz.process9","project.loopz.process10"],
+    tools: ["project.loopz.tool1", "project.loopz.tool2", "project.loopz.tool3","project.loopz.tool4"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/app-flow.png?updatedAt=1737546041781",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/buttons-properties.png?updatedAt=1737546028289",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/tokens.png?updatedAt=1737545996059",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/component-example.png?updatedAt=1737546012217"
+    ], 
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/loopz-video.mp4?updatedAt=1737560444788"
+  },
+  {
+    tags: ["label.filter1", "label.filter2", "label.filter4"],
+    href: "wedding",
     alt: "Wedding cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21_OyOv-o-Gy.png?updatedAt=1719847921894",
     title: "Wedding website",

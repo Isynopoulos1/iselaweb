@@ -3,7 +3,7 @@
   "menu.works": "Proyectos",
   "menu.contact": "Contacto",
 
-  "footer.copyright": "Copyright 2023 IselAlarcón© | Todos los derechos reservados",
+  "footer.copyright": "Copyright 2025 IselAlarcon© | Todos los derechos reservados",
 
   "about.title": "Hola, soy Isela",
   "about.description": "📍 Soy un desarrolladora Front-end establecida en Barcelona.",
@@ -200,5 +200,23 @@
   "project.finances.process3": "En general, la construcción de este proyecto con Javascript en el navegador usando el DOM requirió una combinación de habilidades técnicas en Javascript, manipulación de datos y principios de diseño UI/UX. El resultado final fue una aplicación que proporcionaba una manera simple e intuitiva para que las personas gestionaran sus finanzas personales.",
   "project.finances.tool1": "Tools:",
   "project.finances.tool2": "JAVASCRIPT, CSS, HTML, MongoDB, Figma ",
-  "project.finances.tool3": "Echa un vistazo al proyecto aquí: https://isynopoulos1.github.io/finance_app_practice/public/"
+  "project.finances.tool3": "Echa un vistazo al proyecto aquí: https://isynopoulos1.github.io/finance_app_practice/public/",
+
+  "project.loopz.context": "Contexto: Loopz Tracker App es un estudio de caso de diseño de interfaz de usuario que utiliza técnicas avanzadas en Figma.",
+  "project.loopz.challenges": "Objetivo: Diseñar una app dinámica y fácil de usar para eventos musicales, con elementos reutilizables y un sistema de diseño eficiente.",
+  "project.loopz.user": "Usuario I Persona: Amantes de la música de 25 a 45 años que asisten con frecuencia a conciertos y eventos.",
+  "project.loopz.process1": "Principales desafios: Diseñar una interfaz visualmente dinámica pero intuitiva.",
+  "project.loopz.process2": "Desarrollar recursos de diseño reutilizables y tokens para escalabilidad.",
+  "project.loopz.process3": "Garantizar una transición fluida con documentación detallada para desarrolladores.",
+  "project.loopz.process4": "Mejorar la experiencia del usuario mediante pruebas y narrativa visual.",
+  "project.loopz.process5": "Proceso: Wireframing: Comencé con wireframes de baja fidelidad para establecer la estructura y la navegación.",
+  "project.loopz.process6": "Diseño del flujo de trabajo: Definí flujos de usuario claros para garantizar una experiencia fluida en la app.",
+  "project.loopz.process7": "Diseño Visual: Apliqué la paleta de colores vibrante para crear componentes dinámicos. Diseñé botones reutilizables y elementos de interfaz con propiedades flexibles.",
+  "project.loopz.process8": "Desarrollo del prototipo: Incorporé tokens de diseño y variables para mantener la consistencia.",
+  "project.loopz.process9": "Pruebas de usuario: Realicé pruebas para refinar la usabilidad y validar las decisiones de diseño.",
+  "project.loopz.process10": "Sistema de diseño: Construí un sistema completo con estilos, componentes y cuadrículas, acompañado de documentación detallada para facilitar el trabajo de los desarrolladores.",
+  "project.loopz.tool1": "Herramientas:",
+  "project.loopz.tool2": "Figma Pro: Para diseño avanzado de interfaces, gestión de activos y prototipado.",
+  "project.loopz.tool3": "Photoshop y After Effects: Para enmascarado de imágenes y videos, mejorando el impacto visual.",
+  "project.loopz.tool4": "Encoder: Para finalizar los recursos multimedia."
 }
