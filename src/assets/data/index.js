@@ -1,7 +1,7 @@
 export const projects = [
   {
-    tags: ["label.filter1", "label.filter2", "label.filter4"],
-    href: "wedding",
+    tags: ["label.filter1", "label.filter3"],
+    href: "Loopz App",
     alt: "Loopz Tracker",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/loopz-tracker-cover.png?updatedAt=1737560212925",
     title: "Loopz Tracker App",
