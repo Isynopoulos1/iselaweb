@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { colors, sizes, fonts, margins } from "@styles";
+import { colors, sizes, fonts, spacing } from "@styles";
 
 export const HomeContainer = styled.div`
   position: relative;
@@ -18,12 +18,12 @@ export const Container = styled.div`
 `;
 export const MainVideo = styled.video`
   display: flex;
-  margin-top: ${margins.xs};
+  margin-top: ${spacing.xs};
   justify-content: center;
   align-items: center;
   max-width: 1200px;
   @media only screen and (max-width: 700px) {
     max-width: 600px;
-    margin-top: ${margins.sm};
+    margin-top: ${spacing.sm};
   }
 `;

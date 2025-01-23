@@ -13,14 +13,15 @@ import {
   Wrapper,
   MainProject,
   NameProject,
-  Context,
+  Subtitle,
   ProjectVideo,
   DataContainer,
   Category,
-  ProjectContainer,
-  Challenges,
   User,
+  Challenges,
   Process,
+  Objectives,
+  ProjectContainer,
   Tools
 } from "./Work.styles";
 
@@ -51,16 +52,25 @@ const Work = ({ match }) => {
       <NameProject>{project?.title}</NameProject>
       <DataContainer>
         <Category>{project?.category}</Category>
-        <Context>{translate(project?.context)}</Context>
-        <Challenges>{translate(project?.challenges)}</Challenges>
+        {project?.video && <ProjectVideo src={project?.video} autoPlay muted loop />}
+        <Subtitle>{translate(project?.contextSub)}</Subtitle>
+        <User>{translate(project?.context)}</User>
+        <Subtitle>{translate(project?.userSub)}</Subtitle>
         <User>{translate(project?.user)}</User>
+        <Subtitle>{translate(project?.mainCha)}</Subtitle>
+        <Objectives>
+        {project?.objective?.map((obj, index) => (
+          <div key={index}>{translate(obj)}</div>
+        ))}
+        </Objectives>
+        {/* <Challenges>{translate(project?.challenges)}</Challenges> */}
+        <Subtitle>{translate(project?.action)}</Subtitle>
+        <Process>
+        {project?.process?.map((step, index) => (
+          <div key={index}>{translate(step)}</div>
+        ))}
+        </Process>
       </DataContainer>
-      {project?.video && <ProjectVideo src={project?.video} autoPlay muted loop />}
-      <Process>
-        {project?.process.map((line, i) => {
-          return <p key={i}>{translate(line)}</p>;
-        })}
-      </Process>
       <Tools>
         {project?.tools.map((filter, i) => {
           return <p key={i}>{translate(filter)}</p>;

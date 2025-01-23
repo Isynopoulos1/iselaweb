@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { colors, sizes, margins } from "@styles";
+import { colors, sizes, spacing } from "@styles";
 
 export const FooterContainer = styled.footer`
   display: flex;
@@ -8,10 +8,10 @@ export const FooterContainer = styled.footer`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: calc(100% - 2 * ${margins.xss});
-  height: ${margins.xs};
+  width: calc(100% - 2 * ${spacing.xss});
+  height: ${spacing.xs};
   background-color: ${colors.white};
-  padding: ${margins.xss};
+  padding: ${spacing.xss};
   @media only screen and (max-width: 700px) {
     position: fixed;
     bottom: 0;

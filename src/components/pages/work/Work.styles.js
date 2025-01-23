@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { sizes, fonts, margins } from "@styles";
+import { sizes, fonts, spacing, colors } from "@styles";
 
 export const MainProject = styled.main`
   position: relative;
@@ -30,11 +30,11 @@ export const NameProject = styled.h1`
   display: flex;
   text-align: left;
   width: 100%;
-  margin-top: ${margins.md};
+  margin-top: ${spacing.md};
   font-family: ${fonts.font1};
   font-size: ${sizes.lg};
   font-weight: 400;
-  margin-bottom: ${margins.xss};
+  margin-bottom: ${spacing.xss};
 `;
 
 export const DataContainer = styled.div`
@@ -47,13 +47,22 @@ export const Category = styled.h1`
   display: flex;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
-  font-weight: bolder;
-  margin-bottom: ${margins.xss};
+  font-weight: 400;
+  padding-bottom: ${spacing.xss};
 `;
-export const Context = styled.p`
+export const Subtitle = styled.h1`
   line-height: 2;
   flex-direction: column;
   display: flex;
+  text-align: left;
+  font-family: ${fonts.font1};
+  font-size: ${sizes.sm};
+  font-weight: 400;
+  color: ${colors.lightgray};
+  padding-top: ${spacing.xss};
+`;
+export const User = styled.p`
+  line-height: 2;
   text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
@@ -66,22 +75,19 @@ export const Challenges = styled.p`
   font-size: ${sizes.sm};
   font-weight: 300;
 `;
-export const User = styled.p`
+export const Process =styled.p`
   line-height: 2;
   text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
   font-weight: 300;
-  margin-bottom: ${margins.xs};
 `;
-export const Process = styled.div`
-  & p {
-    line-height: 2;
-    text-align: left;
-    font-family: ${fonts.font1};
-    font-size: ${sizes.sm};
-    font-weight: 300;
-  }
+export const Objectives =styled.p`
+  line-height: 2;
+  text-align: left;
+  font-family: ${fonts.font1};
+  font-size: ${sizes.sm};
+  font-weight: 300;
 `;
 export const Tools = styled.div`
   line-height: 2;
@@ -89,8 +95,8 @@ export const Tools = styled.div`
   text-align: left;
   font-family: ${fonts.font1};
   font-size: ${sizes.xs};
-  margin-bottom: ${margins.xs};
-  margin-top: ${margins.xs};
+  margin-bottom: ${spacing.xs};
+  margin-top: ${spacing.xs};
 `;
 export const VideoContainer = styled.div`
   display: flex;
@@ -98,7 +104,7 @@ export const VideoContainer = styled.div`
 export const ProjectVideo = styled.video`
   display: flex;
   width: 100%;
-  margin-bottom: ${margins.xs};
+  margin-bottom: ${spacing.xs};
 `;
 export const ProjectContainer = styled.div`
   position: relative;

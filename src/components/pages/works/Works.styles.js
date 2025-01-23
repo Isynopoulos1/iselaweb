@@ -1,10 +1,10 @@
 import styled from "styled-components";
-import { colors, sizes, fonts, margins } from "@styles";
+import { colors, sizes, fonts, spacing } from "@styles";
 
 export const WorkContainer = styled.main`
   align-items: center;
   justify-content: center;
-  margin-top: ${margins.sm};
+  margin-top: ${spacing.sm};
   padding: 0px 50px;
 `;
 export const Filters = styled.div`

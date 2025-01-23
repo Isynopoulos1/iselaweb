@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { colors, sizes, fonts, margins } from "@styles";
+import { colors, sizes, fonts } from "@styles";
 
 export const SquareWrapper = styled.div`
   position: relative;

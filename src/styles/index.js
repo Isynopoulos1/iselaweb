@@ -15,8 +15,6 @@ export const colors = {
   test5: "#d2ccc1",
   newgreen: "#98FB98",
   newrose: "#FFE4E1",
-
-
 };
 
 export const sizes = {
@@ -35,7 +33,8 @@ export const fonts = {
   font1: " Roboto , sans-serif"
 };
 
-export const margins = {
+export const spacing = {
+  tiny:"5px",
   xss: " 20px",
   xs: " 50px",
   sm: "100px",
