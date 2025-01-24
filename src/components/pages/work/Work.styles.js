@@ -42,13 +42,13 @@ export const DataContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   text-align: left;
+  padding-bottom: ${spacing.xss};
 `;
 export const Category = styled.h1`
   display: flex;
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
   font-weight: 400;
-  padding-bottom: ${spacing.xss};
 `;
 export const Subtitle = styled.h1`
   line-height: 2;
@@ -58,8 +58,14 @@ export const Subtitle = styled.h1`
   font-family: ${fonts.font1};
   font-size: ${sizes.sm};
   font-weight: 400;
-  color: ${colors.lightgray};
-  padding-top: ${spacing.xss};
+  color: ${colors.black};
+
+`;
+export const Line = styled.div`
+  width: 100%;
+  border-top: 1px solid hsla(210, 13%, 50%, 0.3);
+  margin-bottom: ${spacing.xss};  
+  margin-top: ${spacing.xss};
 `;
 export const User = styled.p`
   line-height: 2;
@@ -104,7 +110,7 @@ export const VideoContainer = styled.div`
 export const ProjectVideo = styled.video`
   display: flex;
   width: 100%;
-  margin-bottom: ${spacing.xs};
+  margin-top: ${spacing.xss};
 `;
 export const ProjectContainer = styled.div`
   position: relative;

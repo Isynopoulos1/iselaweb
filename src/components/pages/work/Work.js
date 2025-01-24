@@ -21,6 +21,7 @@ import {
   Challenges,
   Process,
   Objectives,
+  Line,
   ProjectContainer,
   Tools
 } from "./Work.styles";
@@ -53,6 +54,7 @@ const Work = ({ match }) => {
       <DataContainer>
         <Category>{project?.category}</Category>
         {project?.video && <ProjectVideo src={project?.video} autoPlay muted loop />}
+        <Line />
         <Subtitle>{translate(project?.contextSub)}</Subtitle>
         <User>{translate(project?.context)}</User>
         <Subtitle>{translate(project?.userSub)}</Subtitle>

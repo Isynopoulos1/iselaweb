@@ -25,7 +25,7 @@
 
   "project.loopz.contextSub": "Context",
   "project.loopz.context": "Loopz Tracker App is a UI design case study showcasing advanced techniques in Figma.",
-  "project.loopz.mainCha": "Main Challenges and objective",
+  "project.loopz.mainCha": "Main Challenges",
   "project.loopz.challenges": "Design a dynamic and user-friendly app for music events, featuring reusable elements and an efficient design system.",
   "project.loopz.userSub": "User I Persona",
   "project.loopz.user": "Music lovers aged 25 to 45 who frequently attend concerts and events.",
@@ -47,7 +47,7 @@
 
   "project.wedding.contextSub": "Context",
   "project.wedding.context": "This project involved creating a static website for my wedding using React. The website includes sections like When, How, and Where, providing essential details about the event.",
-  "project.wedding.userSub": "Usuario I Persona",
+  "project.wedding.userSub": "User I Persona",
   "project.wedding.user": "Wedding guests.",
   "project.wedding.mainCha": "Main Challenges",
   "project.wedding.objective1": "Ensure the website was multilingual, requiring proper translations and implementation.",
