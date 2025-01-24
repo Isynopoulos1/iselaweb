@@ -10,7 +10,7 @@ import { BgMenu, Languages, Language } from "./AsideMenu.styles";
 const AsideMenu = ({ setOpen, languages, setActiveLanguage }) => {
   // HOOKS
   const translate = useSelector(state => getTranslate(state.localize));
-  console.log(languages);
+
 
   // DATA
   const categories = [
