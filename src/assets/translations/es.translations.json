@@ -24,22 +24,6 @@
   "label.filter5": "Dirección de arte",
 
 
-  "project.gerber.context": "Contexto: Gerber es una marca de alimentación infantil, se especializa en la fabricación de alimentos naturales sin conservadores ni endulzantes.",
-  "project.gerber.challenges": "Objetivo: Campaña digital para posicionar y celebrar el día del padre.",
-  "project.gerber.user": "Usuario I Persona: Familias jóvenes que consuman productos de la marca, que suelan usar redes sociales para compartir tips, conectarse con amigos y compartir momentos de sus vidas.",
-  "project.gerber.process1": "Proceso: Nos dimos cuenta que generalmente los padres tienen la tarea  en la familia de tomar las fotos a las mamás y los hijos. Con esta idea en mente decidimos hacer un video conmemorativo. Celebrando esta adorable labor. Además, desarrollamos una dinámica en redes sociales en donde  les pedimos a familias seguidoras de la marca que nos compatieran sus fotos favoritas para celebrar el día del padre. Respondiamos sus mensajes generando un marco conmemorativo alusivo al dìa en donde colocamos la foto que nos habían compartido. El video se lanzó en una campaña digital en el website oficial y redes sociales. En donde mostramos las  distintas fotos que los usuarios no compartieron previamente, generando cercania con los consumidores de la marca.",
-  "project.gerber.tool1": "Herramientas:",
-  "project.gerber.tool2": "Diseño: Photoshop, Illustrator.",
-  "project.gerber.tool3": "Animación: After Effects, Premiere",
-
-  "project.cultura.context": "Contexto: Cultura Inquieta es una plataforma de difusión de cultura , arte, comunicación,  creatividad y  organización de programas culturales. En el ámbito en línea, Cultura Inquieta es una de las referencias culturales europeas en la red.",
-  "project.cultura.challenges": "Objetivo: Celebrar el día de la mujer, mostrando como referente  mujeres pioneras en la historia.",
-  "project.cultura.user": "Usuario I Persona: Usuarios de instagram a favor del feminismo que sigan la cuenta de Cultura Inquieta o tengan interes por temas similares.",
-  "project.cultura.process1": "Proceso: La mayoría de las veces las mujeres usan estereotipos para definirse a sí mismas. Sin embargo, muchas mujeres han transformado estos estereotipos, con sus ideas y acciones, pero parece que no son lo suficientemente recordadas. Entonces, ¿cómo podemos visibilizarlas en este día de la mujer? Idea: Mostrar mujeres pioneras en la herramienta de búsqueda más utilizada: Internet. Creamos un video con un buscador que nos muestra mujeres que han transformado los estereotipos más comunes con los que hemos estado viviendo. Esto es para animar a las mujeres a que se inspiren en ellas.",
-  "project.cultura.tool1": "Herramientas:",
-  "project.cultura.tool2": "Diseño:Photoshop, Illustrator.",
-  "project.cultura.tool3": "Animación: After Effects, Premiere",
-
   "project.loopz.contextSub": "Contexto",
   "project.loopz.context": "Loopz Tracker App es un estudio de caso de diseño de interfaz de usuario que utiliza técnicas avanzadas en Figma.",
   "project.loopz.challenges": "Diseñar una app dinámica y fácil de usar para eventos musicales, con elementos reutilizables y un sistema de diseño eficiente.",
@@ -298,9 +282,33 @@
   "project.dogchow.process2": "Realizamos un shooting de pasteles preparados con Purina Dog Chow, que personalizamos con juguetes y los nombres de las mascotas mencionadas en los mensajes recibidos en redes sociales.",
   "project.dogchow.process3": "El día del lanzamiento, compartimos los pasteles personalizados con los participantes, logrando una alta participación, nuevos seguidores, y estableciendo el Día del Perro como una tradición anual de Dog Chow.",
   "project.dogchow.tool1": "Herramientas:",
-  "project.dogchow.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere"
+  "project.dogchow.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere",
 
-  
+  "project.gerber.contextSub": "Contexto",
+  "project.gerber.context": "Gerber es una marca de alimentación infantil especializada en productos naturales sin conservadores ni endulzantes.",
+  "project.gerber.userSub": "Usuario I Persona",
+  "project.gerber.user": "Familias jóvenes que consumen los productos de la marca y suelen usar redes sociales para compartir tips, conectarse con amigos y publicar momentos de sus vidas.",
+  "project.gerber.mainCha": "Principales desafios y objetivo",
+  "project.gerber.objective1": "Crear una campaña digital para celebrar y destacar el Día del Padre.",
+  "project.gerber.action": "Proceso",
+  "project.gerber.process1": "Notamos que los padres suelen ser quienes toman las fotos de las mamás y los hijos, por lo que creamos un emotivo video celebrando esta adorable labor.",
+  "project.gerber.process2": "Lanzamos una dinámica en redes sociales invitando a las familias a compartir sus fotos favoritas para celebrar el Día del Padre. Respondimos a cada participación con un marco conmemorativo personalizado que incluía la foto enviada.",
+  "project.gerber.process3": "El video y las fotos compartidas por los usuarios se mostraron en el sitio web oficial de la marca y en redes sociales, logrando generar cercanía con la audiencia de Gerber.",
+  "project.gerber.tool1": "Herramientas:",
+  "project.gerber.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere",
+
+  "project.cultura.contextSub": "Contexto",
+  "project.cultura.context": "Cultura Inquieta es una plataforma dedicada a la difusión de cultura, arte, comunicación, creatividad y organización de programas culturales. En el ámbito digital, es una de las referencias culturales europeas en la red.",
+  "project.cultura.userSub": "Usuario I Persona",
+  "project.cultura.user": "Usuarios de Instagram que apoyan el feminismo y siguen la cuenta de Cultura Inquieta o tienen interés en temas similares.",
+  "project.cultura.mainCha": "Principales desafios y objetivo",
+  "project.cultura.objective1": "Celebrar el Día Internacional de la Mujer destacando a mujeres pioneras a lo largo de la historia.",
+  "project.cultura.action": "Proceso",
+  "project.cultura.process1": "Muchas veces, las mujeres se definen a sí mismas mediante estereotipos. Sin embargo, muchas han transformado estos estereotipos con sus ideas y acciones, aunque no siempre son suficientemente recordadas.",
+  "project.cultura.process2": "Para visibilizar a estas mujeres pioneras en el Día Internacional de la Mujer, creamos un video que las muestra utilizando la herramienta más usada: el buscador de internet.",
+  "project.cultura.process3": "El video presenta mujeres que han transformado los estereotipos más comunes, inspirando a otras a seguir su ejemplo.",
+  "project.cultura.tool1": "Herramientas:",
+  "project.cultura.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere"
 
 }
 

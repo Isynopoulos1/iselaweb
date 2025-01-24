@@ -23,23 +23,6 @@
   "label.filter4": "Branding",
   "label.filter5": "Art Direction",
 
-  "project.gerber.context": "Context: Gerber is a well-known brand that specializes in producing high-quality infant food. Gerber has become a trusted name in the industry, providing parents with peace of mind knowing that they are feeding their little ones only the best.",
-  "project.gerber.challenges": "Main Challenges: Create an engaging digital campaign for Father's Day using social media, email marketing, and influencer partnerships. Include creative content and interactive elements to encourage audience participation and generate buzz.",
-  "project.gerber.user": "User I Persona: The brand's products are often consumed by young families who frequently use social media platforms to exchange tips, connect with friends, and share memorable moments of their lives.",
-  "project.gerber.process1": "Process: During our research process, we discovered that parents are often the ones responsible for capturing family photos. Inspired by this insight, we created a heartwarming commemorative video to celebrate this cherished task. Additionally, we launched an interactive social media campaign, inviting families who follow our brand to share their favorite photos with us to mark Father's Day. We responded to their messages by creating a special frame that featured the shared photo, adding a personalized touch to their submission. The video and user-submitted photos were showcased on our official website and social media platforms, fostering a closer connection with our brand's consumers.",
-  "project.gerber.tool1": "Tools:",
-  "project.gerber.tool2": "Design: Photoshop, Illustrator.",
-  "project.gerber.tool3": "Animation: After Effects, Premiere",
-
-
-  "project.cultura.context": "Context: Cultura Inquieta is a platform for the dissemination of culture, art, communication, creativity and organization of cultural programs. In the online sphere, Cultura Inquieta is one of the European cultural references on the net.",
-  "project.cultura.challenges": "Main Challenges: Celebrate Women's Day, showing pioneering women in history as a reference.",
-  "project.cultura.user": "User I Persona: Instagram users in favor of feminism who follow the account of Cultura Inquieta or are interested in similar topics.",
-  "project.cultura.process1": "Process: Most of the time women use esterotypes to define themselves. However meny women, have transformed this stereptypes, with their ideas and actions, but it seems like, they are not remembered enough. So, how can we make them visible in is women day? Idea: To show pioneer women on the most used search tool: the internet. We created a video with a search engine that show us women who have transformed the most common stereoptypes we have been living with. This is to encourage women to be inspired by them.",
-  "project.cultura.tool1": "Tools:",
-  "project.cultura.tool2": "Design: Photoshop, Illustrator.",
-  "project.cultura.tool3": "Animation: After Effects, Premiere",
-
   "project.loopz.contextSub": "Context",
   "project.loopz.context": "Loopz Tracker App is a UI design case study showcasing advanced techniques in Figma.",
   "project.loopz.mainCha": "Main Challenges and objective",
@@ -300,11 +283,31 @@
   "project.dogchow.process2": "Organized a photoshoot featuring cakes made with Purina Dog Chow, later personalized with toys and the names of the pets mentioned in the social media messages.",
   "project.dogchow.process3": "On the launch day, shared the personalized cakes with the participants, generating significant engagement, new followers, and solidifying the celebration of Dog Day, which is now an annual tradition by Dog Chow.",
   "project.dogchow.tool1": "Tools:",
-  "project.dogchow.tool2": "Interface Design:Photoshop, Illustrator, After Effects, Premiere"
-  
+  "project.dogchow.tool2": "Interface Design:Photoshop, Illustrator, After Effects, Premiere",
 
+  "project.gerber.contextSub": "Context",
+  "project.gerber.context": "Gerber is a baby food brand specializing in natural products without preservatives or sweeteners.",
+  "project.gerber.userSub": "User I Persona",
+  "project.gerber.user": "Young families who use the brand's products and frequently share tips, connect with friends, and post moments from their lives on social media.",
+  "project.gerber.mainCha": "Main Challenges",
+  "project.gerber.objective1": "Create a digital campaign to celebrate and highlight Father’s Day.",
+  "project.gerber.action": "Process",
+  "project.gerber.process1": "Recognizing that fathers are often the ones taking pictures of moms and kids, we created a heartfelt video celebrating this charming role.",
+  "project.gerber.process2": "Launched a social media activity inviting families to share their favorite photos celebrating Father’s Day. For each submission, we responded with a custom commemorative frame featuring the photo they shared.",
+  "project.gerber.process3": "The video and user-submitted photos were featured on the brand's website and social media platforms as part of the campaign, fostering closeness with Gerber’s audience.",
+  "project.gerber.tool1": "Tools:",
+  "project.gerber.tool2": "Interface Design: Photoshop, Illustrator, After Effects, Premiere",
 
-
-
-
+  "project.cultura.contextSub": "Context",
+  "project.cultura.context": "Cultura Inquieta is a platform dedicated to promoting culture, art, communication, creativity, and the organization of cultural programs. Online, it is one of Europe’s leading cultural references.",
+  "project.cultura.userSub": "User I Persona",
+  "project.cultura.user": "Instagram users who support feminism and follow Cultura Inquieta or show interest in similar topics.",
+  "project.cultura.mainCha": "Main Challenges",
+  "project.cultura.objective1": "Celebrate International Women’s Day by highlighting pioneering women throughout history.",
+  "project.cultura.action": "Process",
+  "project.cultura.process1": "Women often define themselves using stereotypes. However, many women have redefined these stereotypes through their ideas and actions, though they are often overlooked.",
+  "project.cultura.process2": "To make these pioneering women visible on International Women’s Day, we created a video showcasing them through the world’s most-used tool: the internet search engine.",
+  "project.cultura.process3": "The video presents women who have transformed the most common stereotypes, encouraging others to find inspiration in their achievements.",
+  "project.cultura.tool1": "Tools:",
+  "project.cultura.tool2": "Interface Design: Photoshop, Illustrator, After Effects, Premiere"
 }
