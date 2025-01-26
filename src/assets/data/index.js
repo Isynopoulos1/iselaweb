@@ -1,10 +1,10 @@
 export const projects = [
   {
     tags: ["label.filter1", "label.filter3"],
-    href: "Loopz App",
-    alt: "Loopz Tracker",
+    href: "Loopz",
+    alt: "loopz",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/loopz-tracker-cover.png?updatedAt=1737560212925",
-    title: "Loopz Tracker App",
+    title: "Loopz App",
     category: " UX-UI I Animation",
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/loopz-video.mp4?updatedAt=1737560444788",
     contextSub:"project.loopz.contextSub",
