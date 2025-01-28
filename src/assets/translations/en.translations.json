@@ -3,7 +3,9 @@
   "menu.works": "Works",
   "menu.contact": "Contact",
 
-  "footer.copyright": "Copyright 2025 IselAlarcon© | All rights reserved",
+  "footer": {
+    "copyright": "Copyright {year} IselAlarcon© | All rights reserved"
+  },
 
   "about.title": "Hello, I'm Isela",
   "about.description": "📍I’m a Front-end Developer and Product Designer based in Barcelona with over 10 years of experience as a Digital Designer and since 2020 as a front-end developer.",

@@ -3,7 +3,9 @@
   "menu.works": "Proyectos",
   "menu.contact": "Contacto",
 
-  "footer.copyright": "Copyright 2025 IselAlarcon© | Todos los derechos reservados",
+  "footer": {
+    "copyright": "Copyright {year} IselAlarcon© | All rights reserved"
+  },
 
   "about.title": "Hola, soy Isela",
   "about.description": "📍 Soy un desarrolladora Front-end establecida en Barcelona.",
