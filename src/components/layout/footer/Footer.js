@@ -8,8 +8,8 @@ import { FooterContainer, Copyright } from "./Footer.styles";
 //IMPORT COMPONENTS
 import Social from "@elements/social/Social";
 
-  // Obtiene el año actual
-  const currentYear = new Date().getFullYear();
+
+const currentYear = new Date().getFullYear();
 
 const Footer = () => {
   //HOOKS
