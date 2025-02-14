@@ -264,30 +264,6 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_01.mp4"
   },
   {
-    tags: ["label.filter1", "label.filter3", "label.filter2"],
-    href: "natours",
-    alt: "Natours cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/natours-cover_oEj46T3WR.png",
-    title: "Natours",
-    category: "Animation I Development I Case Study ",
-    contextSub:"project.natours.contextSub",
-    context:"project.natours.context",
-    userSub: "project.natours.userSub",
-    mainCha: "project.natours.mainCha",
-    objective:["project.natours.objective1"],
-    action: "project.natours.action",
-    user: "project.natours.user",
-    process: ["project.natours.process1","project.natours.process2","project.natours.process3"],
-    tools: ["project.natours.tool1", "project.natours.tool2", "project.natours.tool3"],
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_02.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_05.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_03.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_04.png"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/natours/natours_01.mp4"
-  },
-  {
     tags: ["label.filter4", "label.filter3"],
     href: "doc-to-you",
     alt: "Doc To You cover",
@@ -310,30 +286,6 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_05.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655802216058g"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/doctoyou/doc_01.mp4"
-  },
-  {
-    tags: ["label.filter4", "label.filter3"],
-    href: "oda-al-pan",
-    alt: "Oda al Pan cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/cover-oda_2oI6TiurK.png",
-    title: "Oda al Pan",
-    category: " Animation I Branding I Art Direction",
-    contextSub:"project.oda.contextSub",
-    context:"project.oda.context",
-    userSub: "project.oda.userSub",
-    mainCha: "project.oda.mainCha",
-    objective:["project.oda.objective1"],
-    action: "project.oda.action",
-    user: "project.oda.user",
-    process: ["project.oda.process1"],
-    tools: ["project.oda.tool1", "project.oda.tool2"],
-    images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_02.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_3.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_4.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_05.png"
-    ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_01.mp4"
   },
   {
     tags: ["label.filter1", "label.filter3", "label.filter2"],
@@ -402,66 +354,29 @@ export const projects = [
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/movistar/movistar_01.mp4"
   },
-
   {
-    tags: ["label.filter5"],
-    href: "dog-chow",
-    alt: "Dog Chowcover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/dogchow-cover_SLLqmg52S.png",
-    title: "Dog Chow",
-    category: "Art Direction",
-    contextSub:"project.dogchow.contextSub",
-    context:"project.dogchow.context",
-    userSub: "project.dogchow.userSub",
-    mainCha: "project.dogchow.mainCha",
-    objective:["project.dogchow.objective1"],
-    action: "project.dogchow.action",
-    user: "project.dogchow.user",
-    process: ["project.dogchow.process1","project.dogchow.process2","project.dogchow.process3"],
-    tools: ["project.dogchow.tool1", "project.dogchow.tool2"],
+    tags: ["label.filter4", "label.filter3"],
+    href: "oda-al-pan",
+    alt: "Oda al Pan cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/cover-oda_2oI6TiurK.png",
+    title: "Oda al Pan",
+    category: " Animation I Branding I Art Direction",
+    contextSub:"project.oda.contextSub",
+    context:"project.oda.context",
+    userSub: "project.oda.userSub",
+    mainCha: "project.oda.mainCha",
+    objective:["project.oda.objective1"],
+    action: "project.oda.action",
+    user: "project.oda.user",
+    process: ["project.oda.process1"],
+    tools: ["project.oda.tool1", "project.oda.tool2"],
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_01.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_02_HmUjDIFOj.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dogchow_03.png",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/dogchow/dochow_05.jpg"
-    ]
-  },
-  {
-    tags: ["label.filter3", "Art Direction"],
-    href: "gerber",
-    alt: "Gerber cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/berger-cover_Y8I19idks.png",
-    title: "Gerber",
-    category: "Art Direction",
-    contextSub:"project.gerber.contextSub",
-    context:"project.gerber.context",
-    userSub: "project.gerber.userSub",
-    mainCha: "project.gerber.mainCha",
-    objective:["project.gerber.objective1"],
-    action: "project.gerber.action",
-    user: "project.gerber.user",
-    process: ["project.gerber.process1","project.gerber.process2","project.gerber.process3"],
-    tools: ["project.gerber.tool1", "project.gerber.tool2"],
-    images: [],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/gerber/gerber_01.mp4"
-  },
-  {
-    tags: ["label.filter5", "label.filter3"],
-    href: "woomen",
-    alt: "Woomen cover",
-    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/woomen-cover_qIit_E0oZ.png",
-    title: "Woomen",
-    category: "Animation I Art Direction",contextSub:"project.gerber.contextSub",
-    context:"project.cultura.context",
-    userSub: "project.cultura.userSub",
-    mainCha: "project.cultura.mainCha",
-    objective:["project.cultura.objective1"],
-    action: "project.cultura.action",
-    user: "project.cultura.user",
-    process: ["project.cultura.process1","project.cultura.process2","project.cultura.process3"],
-    tools: ["project.cultura.tool1", "project.cultura.tool2"],
-    images: [],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/woomen/woomen_01.mp4"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_02.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_3.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_4.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_05.png"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/oda/oda_01.mp4"
   }
 ];
 
