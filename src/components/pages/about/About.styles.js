@@ -17,7 +17,8 @@ export const Photo = styled.img`
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 800px;
+  width: 20%;
+  object-fit: cover; 
   margin-top: ${spacing.xs};
   @media only screen and (max-width: 840px) {
     width: 100%;
