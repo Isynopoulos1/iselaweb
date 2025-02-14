@@ -48,7 +48,7 @@ export const projects = [
     ]
   },
   {
-    tags: ["label.filter1", "label.filter3", "label.filter2", "label.filter4", "label.filter5"],
+    tags: ["label.filter1", "label.filter3", "label.filter2", "label.filter4"],
     href: "isela-alarcon",
     alt: "Isela Alarcóncover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21.png",
@@ -188,7 +188,7 @@ export const projects = [
   },
 
   {
-    tags: ["label.filter5", "label.filter3"],
+    tags: ["label.filter4", "label.filter3"],
     href: "finances-app",
     alt: "Finances",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/finances-cover_mfdR4DBaa.jpg?updatedAt=1681740021316",
@@ -210,7 +210,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/finances-video.mp4?updatedAt=1681754561236"
   },
   {
-    tags: ["label.filter5", "label.filter3"],
+    tags: ["label.filter4", "label.filter3"],
     href: "perritos-waiting",
     alt: "Pw cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/perritos-cover_kGVZ2bOPj.jpg?updatedAt=1681664275148",
@@ -310,7 +310,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/nexter/nexter_01.mp4"
   },
   {
-    tags: ["label.filter4", "label.filter5"],
+    tags: ["label.filter4"],
     href: "paypal",
     alt: "Paypalcover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/paypal-cover_SBdfK6Fcn.png",
@@ -333,7 +333,7 @@ export const projects = [
     ]
   },
   {
-    tags: ["label.filter3", "label.filter5"],
+    tags: ["label.filter3", "label.filter4"],
     href: "movistar",
     alt: "Movistar cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/Movi-cover_9c7s_ZK8i.png",
@@ -380,4 +380,4 @@ export const projects = [
   }
 ];
 
-export const labels = ["label.filter1", "label.filter2", "label.filter3", "label.filter4", "label.filter5"];
+export const labels = ["label.filter1", "label.filter2", "label.filter3", "label.filter4"];
