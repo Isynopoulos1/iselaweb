@@ -12,7 +12,7 @@ const About = () => {
   // MAIN RENDER
   return (
     <AboutContainer>
-       <Collage src="https://ik.imagekit.io/ppayaz/iselalarcon/about/collage-iselaweb_7GPs11CQX.png?updatedAt=1739642055906" alt="Photo"/>
+       <Collage src="https://ik.imagekit.io/ppayaz/iselalarcon/about/collage-iselaweb_l6HQ55neu.png?updatedAt=1739645266411" alt="Photo"/>
       <MainWrapper>
       <Photo src="https://ik.imagekit.io/ppayaz/iselalarcon/about/final4_KhMS7Hfea.jpg?updatedAt=1702909926599" alt="Photo" />
         <Description>
