@@ -6,30 +6,59 @@ export const AboutContainer = styled.main`
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  margin-top: ${spacing.sm};
+  margin-top: ${spacing.md};
   width: calc(100% - 40px);
   height: auto;
   padding: 20px;
-
+  @media only screen and (max-width: 840px) {
+    margin-top: ${spacing.xs};
+  }
 `;
+export const MainWrapper =styled.div`
+  width: 100%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  gap: ${spacing.xss};
+  max-width: 1200px;
+  @media only screen and (max-width: 840px) {
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+  }
+`
+export const Collage = styled.img`
+display: flex;
+justify-content: center;
+align-items: center;
+width: auto;
+object-fit: cover; 
+max-width: 1200px;
+@media only screen and (max-width: 840px) {
+    width: 100%;    
+    margin-top: ${spacing.xss};
+  }
 
+`
 export const Photo = styled.img`
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 20%;
+  width: 30%;
   object-fit: cover; 
   margin-top: ${spacing.xs};
   @media only screen and (max-width: 840px) {
     width: 100%;
     height: auto;
+    margin-top: ${spacing.tiny};
   }
 `;
 export const Description = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  text-align: center;
+  text-align: left;
   line-height: 2;
   width: 800px;
   font-size: ${sizes.sm};
@@ -37,14 +66,17 @@ export const Description = styled.div`
   font-weight: 300;
   @media only screen and (max-width: 700px) {
     width: 100%;
+    margin-top: ${spacing.tiny};
   }
 `;
 export const Greetings = styled.h2`
-  text-align: center;
+  text-align: left;
+  margin-top: ${spacing.xs};
   width: 800px;
   font-size: ${sizes.xl};
-  margin-bottom: ${spacing.xs};
   @media only screen and (max-width: 700px) {
     width: 100%;
+    margin-top: ${spacing.tiny};
   }
 `;
+
