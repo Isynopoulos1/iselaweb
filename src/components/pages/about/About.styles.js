@@ -28,19 +28,6 @@ export const MainWrapper =styled.div`
     flex-direction: column;
   }
 `
-export const Collage = styled.img`
-display: flex;
-justify-content: center;
-align-items: center;
-width: auto;
-object-fit: cover; 
-max-width: 1200px;
-@media only screen and (max-width: 840px) {
-    width: 100%;    
-    margin-top: ${spacing.xss};
-  }
-
-`
 export const Photo = styled.img`
   display: flex;
   justify-content: center;
@@ -77,6 +64,7 @@ export const Greetings = styled.h2`
   @media only screen and (max-width: 700px) {
     width: 100%;
     margin-top: ${spacing.tiny};
+    font-size: ${sizes.lg};
   }
 `;
 
