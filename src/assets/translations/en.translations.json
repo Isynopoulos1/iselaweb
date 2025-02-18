@@ -25,6 +25,32 @@
   "label.filter3": "Animation",
   "label.filter4": "Design",
 
+  
+    
+  "project.archsplace.contextSub": "Context",
+  "project.archsplace.context": "Archsplace is an online platform offering professional design services in Architecture, Interior Design, Decoration, and Landscaping. As a frontend developer, I maintained and built a design system to unify visual components and improve accessibility.",
+  "project.archsplace.challenges": "A key challenge was making all components accessible to everyone. We also had to keep the design consistent across different platforms and devices, which made integrating design with code more complex.",
+  "project.archsplace.userSub": "Users",
+  "project.archsplace.user": "Designers and developers who need easy-to-use visual tools for their projects. Testers also use them to check functionality and accessibility.",
+  "project.archsplace.mainCha": "Main Challenges and Goal",
+  "project.archsplace.objective1": "Create a design system with reusable and accessible components like buttons, icons, and other elements.",
+  "project.archsplace.objective2": "Ensure accessibility by testing with Figma plugins and code validation.",
+  "project.archsplace.objective3": "Document the design system in Storybook for easy use by the team.",
+  "project.archsplace.objective4": "Make the documentation interactive, allowing developers to use and test components easily.",
+  "project.archsplace.action": "Process",
+  "project.archsplace.process1": "I first designed key components in Figma, ensuring a cohesive visual style.",
+  "project.archsplace.process2": "I tested accessibility with Figma plugins to meet WCAG guidelines.",
+  "project.archsplace.process3": "Once approved, I coded the designs using React to create reusable components.",
+  "project.archsplace.process4": "I added these components to Storybook for interactive documentation and testing.",
+  "project.archsplace.process5": "I worked with developers to ensure proper implementation and consistency.",
+  "project.archsplace.process6": "I regularly updated the design system and its documentation for future use.",
+  "project.archsplace.tool1": "Tools:",
+  "project.archsplace.tool2": "Figma for designing and prototyping components.",
+  "project.archsplace.tool3": "Storybook for documenting and testing components.",
+  "project.archsplace.tool4": "Accessibility plugins like Stark and Contrast in Figma.",
+  "project.archsplace.tool5": "Development: React, Node.js, CSS, styled-components.",
+  
+  
   "project.loopz.contextSub": "Context",
   "project.loopz.context": "Loopz is a concert tracking app, designed as a case study showcasing advanced techniques in Figma.",
   "project.loopz.mainCha": "Main Challenges",

@@ -25,6 +25,30 @@
   "label.filter3": "Animación",
   "label.filter4": "Diseño",
 
+    "project.archsplace.contextSub": "Contexto",
+    "project.archsplace.context": "Archsplace es una plataforma online que ofrece servicios profesionales de diseño en Arquitectura, Diseño de Interiores, Decoración y Paisajismo. Como desarrolladora frontend, mantuve y creé un sistema de diseño para unificar los componentes visuales y mejorar la accesibilidad.",
+    "project.archsplace.challenges": "Un desafío clave fue hacer que todos los componentes fueran accesibles para todos. También debíamos mantener la coherencia del diseño en diferentes plataformas y dispositivos, lo que hacía más complejo integrarlo con el código.",
+    "project.archsplace.userSub": "Usuarios",
+    "project.archsplace.user": "Diseñadores y desarrolladores que necesitan herramientas visuales fáciles de usar en sus proyectos. También los testers, que verifican la funcionalidad y accesibilidad.",
+    "project.archsplace.mainCha": "Principales desafíos y Objetivo",
+    "project.archsplace.objective1": "Crear un sistema de diseño con componentes reutilizables y accesibles como botones, iconos y otros elementos.",
+    "project.archsplace.objective2": "Garantizar la accesibilidad mediante pruebas con plugins de Figma y validación de código.",
+    "project.archsplace.objective3": "Documentar el sistema de diseño en Storybook para que sea accesible para el equipo .",
+    "project.archsplace.objective4": "Hacer la documentación interactiva, permitiendo a los desarrolladores usar y probar los componentes fácilmente.",
+    "project.archsplace.action": "Proceso",
+    "project.archsplace.process1": "Primero diseñé los componentes clave en Figma, asegurando un estilo visual coherente.",
+    "project.archsplace.process2": "Probé la accesibilidad con plugins de Figma para cumplir con las pautas WCAG.",
+    "project.archsplace.process3": "Una vez aprobados, los convertí en código con React para crear componentes reutilizables.",
+    "project.archsplace.process4": "Los integré en Storybook para documentarlos y probarlos de forma interactiva.",
+    "project.archsplace.process5": "Trabajé con desarrolladores para asegurar una implementación correcta y coherente.",
+    "project.archsplace.process6": "Actualicé el sistema de diseño y su documentación regularmente para su uso futuro.",
+    "project.archsplace.tool1": "Herramientas:",
+    "project.archsplace.tool2": "Figma para diseñar y crear prototipos de los componentes.",
+    "project.archsplace.tool3": "Storybook para documentar y probar los componentes.",
+    "project.archsplace.tool4": "Plugins de accesibilidad en Figma como Stark y Contrast.",
+    "project.archsplace.tool5": "Desarrollo: React, Node.js, CSS, styled-components.",
+
+
 
   "project.loopz.contextSub": "Contexto",
   "project.loopz.context": "Loopz es una app para seguir conciertos, diseñada como un estudio de caso que muestra técnicas avanzadas en Figma.",
@@ -297,20 +321,8 @@
   "project.gerber.process2": "Lanzamos una dinámica en redes sociales invitando a las familias a compartir sus fotos favoritas para celebrar el Día del Padre. Respondimos a cada participación con un marco conmemorativo personalizado que incluía la foto enviada.",
   "project.gerber.process3": "El video y las fotos compartidas por los usuarios se mostraron en el sitio web oficial de la marca y en redes sociales, logrando generar cercanía con la audiencia de Gerber.",
   "project.gerber.tool1": "Herramientas:",
-  "project.gerber.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere",
+  "project.gerber.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere"
 
-  "project.cultura.contextSub": "Contexto",
-  "project.cultura.context": "Cultura Inquieta es una plataforma dedicada a la difusión de cultura, arte, comunicación, creatividad y organización de programas culturales. En el ámbito digital, es una de las referencias culturales europeas en la red.",
-  "project.cultura.userSub": "Usuario I Persona",
-  "project.cultura.user": "Usuarios de Instagram que apoyan el feminismo y siguen la cuenta de Cultura Inquieta o tienen interés en temas similares.",
-  "project.cultura.mainCha": "Principales desafios y objetivo",
-  "project.cultura.objective1": "Celebrar el Día Internacional de la Mujer destacando a mujeres pioneras a lo largo de la historia.",
-  "project.cultura.action": "Proceso",
-  "project.cultura.process1": "Muchas veces, las mujeres se definen a sí mismas mediante estereotipos. Sin embargo, muchas han transformado estos estereotipos con sus ideas y acciones, aunque no siempre son suficientemente recordadas.",
-  "project.cultura.process2": "Para visibilizar a estas mujeres pioneras en el Día Internacional de la Mujer, creamos un video que las muestra utilizando la herramienta más usada: el buscador de internet.",
-  "project.cultura.process3": "El video presenta mujeres que han transformado los estereotipos más comunes, inspirando a otras a seguir su ejemplo.",
-  "project.cultura.tool1": "Herramientas:",
-  "project.cultura.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere"
 
 }
 
