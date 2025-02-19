@@ -20,7 +20,7 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/archsplace/archsplace-1?updatedAt=1739881485242",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/archsplace/archsplace-2?updatedAt=1739881516315",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/archsplace/archsplace-4?updatedAt=1739881562275",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/archsplace/archsplace-3?updatedAt=1739968945818"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/archsplace/archsplace-3?updatedAt=1739987882326"
     ]
   },
   {
