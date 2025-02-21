@@ -8,7 +8,7 @@ export const AboutContainer = styled.main`
   margin-top: ${spacing.md};
   width: calc(100% - 40px);
   height: auto;
-  padding: 20px;
+  padding:${spacing.xss};
   @media only screen and (max-width: 840px) {
     margin-top: ${spacing.xs};
   }
@@ -21,7 +21,7 @@ export const MainWrapper =styled.div`
   align-items: center;
   height: auto;
   gap: ${spacing.tiny};
-  max-width: 1200px;
+  max-width:${spacing.super};
   @media only screen and (max-width: 840px) {
     width: 100%;
     height: auto;
@@ -32,10 +32,11 @@ export const Header = styled.div`
   width: 100%;
   display: flex;
   align-items: center;  
-  gap: 30px;
+  gap: ${sizes.xl};
   justify-content: center;
-  border-radius: 5px;
-  background-color: ${colors.test1};
+  background-color: ${colors.softLilac};
+  border-radius:${spacing.tiny};
+  border: 1px solid hsla(250, 100%, 84%, 1);
   @media only screen and (max-width: 840px) {
    flex-direction: column;
    gap: ${spacing.tiny};
@@ -45,8 +46,8 @@ export const Photo = styled.img`
   display: flex;
   justify-content: center;
   align-items: center;
-  width:300px;
-  border-radius: 5px;
+  width:${spacing.mdd};
+  border-radius: ${spacing.tiny};
   object-fit: cover; 
   @media only screen and (max-width: 840px) {
    flex-direction: column;
@@ -72,7 +73,7 @@ export const Greetings = styled.h2`
   @media only screen and (max-width: 840px) {
     width: 100%;
     font-size: ${sizes.lg};
-    min-height: 100px;
+    min-height: ${spacing.sm};
   }
 `;
 

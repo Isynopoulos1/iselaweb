@@ -7,6 +7,7 @@ export const MainContainer = styled.div`
 `;
 export const Content= styled.div`
   line-height: 2;
+  border: 1px solid hsla(250, 100%, 84%, 1);
   font-size: ${sizes.sm};
   font-family: ${fonts.font1};
   font-weight: 300;

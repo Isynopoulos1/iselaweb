@@ -8,13 +8,14 @@ export const colors = {
   lightergray: "#80808094",
   lightgray: "#808080",
   secondary: "#FEFAEE",
-  test1: "#dad4f44d",
-  test2: "#D4C9FD",
-  test3: "#ebe6ff",
-  test4: "#b8a6ff",
-  test5: "#d2ccc1",
-  newgreen: "#98FB98",
-  newrose: "#FFE4E1",
+  purpleLighter: "#EAE6FD",
+  lavenderMist: "#e1dbff59",
+  softLilac: "#e1dbff",
+  mutedViolet: "D1C8FF",
+  LavenderPurple: "#C8BCFF",
+  DeepPurple:"C4B8FF",
+  VioletShadow:"BCADFF",
+  iconHover: "#d2ccc1",
 };
 
 export const sizes = {
@@ -41,7 +42,9 @@ export const spacing = {
   smm: "80px",
   sm: "100px",
   md: "200px",
+  mdd:"300px",
   lg: "400px",
   xl: "600px",
-  xxl: "800px"
+  xxl: "800px",
+  super: "1200px"
 };

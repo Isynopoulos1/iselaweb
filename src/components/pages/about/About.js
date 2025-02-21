@@ -15,8 +15,13 @@ const About = () => {
 
   //   // ARRAY
   const ArrColor = [
-    colors.test1,
-    colors.test3,
+    colors.purpleLighter,
+    colors.lavenderMist,
+    colors.softLilac,
+    colors.mutedViolet,
+    colors.LavenderPurple,
+    colors.DeepPurple,
+    colors.VioletShadow,
   ];
   const Emojis =[
    " 📍",
@@ -36,8 +41,8 @@ const About = () => {
         </Header>
         <ContentWrapper>
             <FirstRow>
-              <ContentCard bgColor={ArrColor[1]} text={translate("about.description1")} emoji ={Emojis[0]} />
-              <ContentCard bgColor={ArrColor[0]} text={translate("about.description2")} emoji ={Emojis[1]} />
+              <ContentCard bgColor={ArrColor[0]} text={translate("about.description1")} emoji ={Emojis[0]} />
+              <ContentCard bgColor={ArrColor[1]} text={translate("about.description2")} emoji ={Emojis[1]} />
             </FirstRow>
             <SecondRow>
               <ContentCard bgColor={ArrColor[0]} text={translate("about.description3")} emoji ={Emojis[2]} />

@@ -4,7 +4,7 @@ import{spacing, colors} from "../../../styles/index"
 export const InputContainer = styled.input`
   display: flex;
   width: 500px;
-  border: 1px solid ${colors.test3};
+  border: 1px solid ${colors.softLilac};
   border-radius: 50px;
   padding:${spacing.tiny};
   margin-bottom:${spacing.xs};
@@ -13,10 +13,10 @@ export const InputContainer = styled.input`
   &:focus {
     outline: none;
     color:black;
-    border: 1px solid ${colors.test4};
+    border: 1px solid hsla(250, 100%, 84%, 1);
   }
   &::placeholder {
-    color:#80808070;
+    color:${colors.lightergray};
     
     
   }
