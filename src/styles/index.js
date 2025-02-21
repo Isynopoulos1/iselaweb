@@ -35,6 +35,7 @@ export const fonts = {
 
 export const spacing = {
   tiny:"5px",
+  xsss: "10px",
   xss: " 20px",
   xs: "50px",
   smm: "80px",

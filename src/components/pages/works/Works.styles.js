@@ -17,8 +17,7 @@ export const Filters = styled.div`
   font-size: ${sizes.xs};
   grid-gap: 20px;
   margin-bottom: 40px;
-  @media only screen and (max-width: 900px) {
-  }
+
 `;
 export const Covers = styled.section`
   display: flex;

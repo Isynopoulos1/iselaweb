@@ -2,27 +2,52 @@ import React from "react";
 import { useSelector } from "react-redux";
 import { getTranslate } from "r1-localize";
 
+// IMPORT COMPONENTS
+import ContentCard from "@elements/contentCard/ContentCard";
+
 //IMPORT STYLES
-import { AboutContainer, Photo, Description, Greetings, MainWrapper } from "./About.styles";
+import { AboutContainer, Photo, FirstRow, SecondRow, ThirdRow, Greetings, MainWrapper, ContentWrapper, Header} from "./About.styles";
+import { colors } from "@styles";
 
 const About = () => {
   // HOOKS
   const translate = useSelector(state => getTranslate(state.localize));
 
+  //   // ARRAY
+  const ArrColor = [
+    colors.test1,
+    colors.test3,
+  ];
+  const Emojis =[
+   " 📍",
+  "  🎨",
+   " 👾",
+   " 🖤",
+   " 🤩",
+   " 📚",
+  ];
   // MAIN RENDER
   return (
     <AboutContainer>
       <MainWrapper>
-      <Photo src="https://ik.imagekit.io/ppayaz/iselalarcon/about/final4_KhMS7Hfea.jpg?updatedAt=1702909926599" alt="Photo" />
-        <Description>
+        <Header>
+          <Photo src="https://ik.imagekit.io/ppayaz/iselalarcon/about/final4_KhMS7Hfea.jpg?updatedAt=1702909926599" alt="Photo" />
           <Greetings>{translate("about.title")}</Greetings>
-          <p>{translate("about.description")}</p>
-          <p> {translate("about.description2")}</p>
-          <p> {translate("about.description3")}</p>
-          <p> {translate("about.description4")}</p>
-          <p> {translate("about.description5")}</p>
-        </Description>
-       
+        </Header>
+        <ContentWrapper>
+            <FirstRow>
+              <ContentCard bgColor={ArrColor[1]} text={translate("about.description1")} emoji ={Emojis[0]} />
+              <ContentCard bgColor={ArrColor[0]} text={translate("about.description2")} emoji ={Emojis[1]} />
+            </FirstRow>
+            <SecondRow>
+              <ContentCard bgColor={ArrColor[0]} text={translate("about.description3")} emoji ={Emojis[2]} />
+              <ContentCard bgColor={ArrColor[1]} text={translate("about.description4")} emoji ={Emojis[3]} />   
+            </SecondRow>
+            <ThirdRow>
+              <ContentCard bgColor={ArrColor[0]} text={translate("about.description5")} emoji ={Emojis[5]}/>
+              <ContentCard bgColor={ArrColor[1]} text={translate("about.description6")} emoji ={Emojis[4]} />
+            </ThirdRow>
+        </ContentWrapper>
       </MainWrapper>
     </AboutContainer>
   );
