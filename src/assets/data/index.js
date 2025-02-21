@@ -144,7 +144,7 @@ export const projects = [
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_02.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_05.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_03.png",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_05.png?updatedAt=1740155339715",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_04.png"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_01.mp4"
