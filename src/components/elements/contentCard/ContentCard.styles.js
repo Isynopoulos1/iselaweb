@@ -12,17 +12,38 @@ export const Content= styled.div`
   font-family: ${fonts.font1};
   font-weight: 300;
   width:100%;
+  height: 200px;
   background-color: ${(props) => props.bgColor || "transparent"};
   border-radius: 5px;
-`
+  max-height: 350px;
+ 
+`;
 export const Description = styled.div`
   display: flex;
   justify-content: center;
+  flex-direction: column;
   align-items: center;
   padding: ${spacing.xss};
-  max-height: 220px;
   gap: ${spacing.xsss};
-`
+  text-align: center;
+`;
+
+export const SubContainer = styled.div`
+display: flex;
+gap: ${spacing.tiny};
+justify-content:center;
+align-items: center;
+
+`;
+
+ export const Subtitle = styled.h1`
+ display: flex;
+ font-size:16px;
+ font-weight: 400;
+ `;
+
+
+
 export const Emoji =styled.p`
   font-size: 25px;
 `;

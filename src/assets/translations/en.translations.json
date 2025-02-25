@@ -12,9 +12,14 @@
   "about.description2": "I focus on creating and maintaining design systems, starting with user-centric components in Figma and bringing them to life through React code for a smooth and consistent experience.",
   "about.description3": "Moving between design and development allows me to create cohesive, efficient projects that truly meet user needs.",
   "about.description4": "I value a positive work culture and environment, collaborating with a talented and supportive team is important to me, as it encourages growth and innovation. ",
-  "about.description5":"Continuous Learning: I Always stay updated on trends in design, development, and UX/UI through online courses, blogs, and tech communities.",
-  "about.description6": "Things I enjoy the most: spending time with pets, playing video games, yoga, hiking, fashion design, architecture, exploring new places, technology, arts and crafts, reading classic books, trying new foods, focusing on wellness.",
-
+  "about.description5":"I Always stay updated on trends in design, development, and UX/UI through online courses, blogs, and tech communities.",
+  "about.description6": "Spending time with pets, playing video games, yoga, hiking, fashion design, architecture, exploring new places, technology, arts and crafts, reading classic books, trying new foods, focusing on wellness.",
+  "about.subtitle1":"What I do",
+  "about.subtitle2":"How I do it",
+  "about.subtitle3":"Adaptability",
+  "about.subtitle4":"Where I would love to work",
+  "about.subtitle5":"Continuous Learning",
+  "about.subtitle6":"Things I enjoy the most",
 
   "contact.cta": "Let's talk!",
   "contact.name": "Name",
