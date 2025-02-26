@@ -26,6 +26,7 @@ export const MainWrapper =styled.div`
     width: 100%;
     height: auto;
     flex-direction: column;
+    margin-bottom: ${spacing.sm};
   }
 `
 export const Header = styled.div`
@@ -34,7 +35,7 @@ export const Header = styled.div`
   align-items: center;  
   gap: ${sizes.xl};
   justify-content: center;
-  background-color: ${colors.softLilac};
+  background-color: ${colors.lavenderMist};
   border-radius:${spacing.tiny};
   border: 1px solid hsla(250, 100%, 84%, 1);
   @media only screen and (max-width: 840px) {

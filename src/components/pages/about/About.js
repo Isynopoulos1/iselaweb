@@ -41,16 +41,16 @@ const About = () => {
         </Header>
         <ContentWrapper>
             <FirstRow>
-              <ContentCard bgColor={ArrColor[0]} subtitle={translate("about.subtitle1")} text={translate("about.description1")} emoji ={Emojis[0]} />
-              <ContentCard bgColor={ArrColor[0]}  subtitle={translate("about.subtitle2")} text={translate("about.description2")} emoji ={Emojis[1]} />
+              <ContentCard bgColor={ArrColor[1]} subtitle={translate("about.subtitle1")} text={translate("about.description1")} emoji ={Emojis[0]} />
+              <ContentCard bgColor={ArrColor[1]}  subtitle={translate("about.subtitle2")} text={translate("about.description2")} emoji ={Emojis[1]} />
             </FirstRow>
             <SecondRow>
-              <ContentCard bgColor={ArrColor[0]} subtitle={translate("about.subtitle3")} text={translate("about.description3")} emoji ={Emojis[2]} />
-              <ContentCard bgColor={ArrColor[0]} subtitle={translate("about.subtitle4")} text={translate("about.description4")} emoji ={Emojis[3]} />   
+              <ContentCard bgColor={ArrColor[1]} subtitle={translate("about.subtitle3")} text={translate("about.description3")} emoji ={Emojis[2]} />
+              <ContentCard bgColor={ArrColor[1]} subtitle={translate("about.subtitle4")} text={translate("about.description4")} emoji ={Emojis[3]} />   
             </SecondRow>
             <ThirdRow>
-              <ContentCard bgColor={ArrColor[0]}  subtitle={translate("about.subtitle5")} text={translate("about.description5")} emoji ={Emojis[5]}/>
-              <ContentCard bgColor={ArrColor[0]}  subtitle={translate("about.subtitle6")} text={translate("about.description6")} emoji ={Emojis[4]} />
+              <ContentCard bgColor={ArrColor[1]}  subtitle={translate("about.subtitle5")} text={translate("about.description5")} emoji ={Emojis[5]}/>
+              <ContentCard bgColor={ArrColor[1]}  subtitle={translate("about.subtitle6")} text={translate("about.description6")} emoji ={Emojis[4]} />
             </ThirdRow>
         </ContentWrapper>
       </MainWrapper>

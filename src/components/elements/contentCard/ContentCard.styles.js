@@ -12,10 +12,10 @@ export const Content= styled.div`
   font-family: ${fonts.font1};
   font-weight: 300;
   width:100%;
-  height: 200px;
+  height:${spacing.md};
   background-color: ${(props) => props.bgColor || "transparent"};
-  border-radius: 5px;
-  max-height: 350px;
+  border-radius:${spacing.tiny};
+  max-height: ${spacing.l};
  
 `;
 export const Description = styled.div`
@@ -38,12 +38,13 @@ align-items: center;
 
  export const Subtitle = styled.h1`
  display: flex;
- font-size:16px;
- font-weight: 400;
+ font-size:${sizes.m};
+ font-weight: 300;
+ 
  `;
 
 
 
 export const Emoji =styled.p`
-  font-size: 25px;
+  font-size:${sizes.smm};
 `;
