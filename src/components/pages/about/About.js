@@ -12,25 +12,35 @@ import { colors } from "@styles";
 const About = () => {
   // HOOKS
   const translate = useSelector(state => getTranslate(state.localize));
+  // EMOJIS ARRAY
+  // const Emojis =[ " 📍", " 🎨", "👾"," 🖤"," 🤩"," 📚",];
+  //DATA CONTENT
+  const dataContent =[
+  { subtitle: translate("about.subtitle1"),
+    text:translate("about.description1"),
+  },
+  {
+    subtitle: translate("about.subtitle2"),
+    text:translate("about.description2"),
+  },
+  {
+    subtitle: translate("about.subtitle3"),
+    text:translate("about.description3"),
+  },
+  {
+    subtitle: translate("about.subtitle4"),
+    text:translate("about.description4"),
+  },
+  {
+    subtitle: translate("about.subtitle5"),
+    text:translate("about.description5"),
+  },
+  {
+    subtitle: translate("about.subtitle6"),
+    text:translate("about.description6"),
+  }
+];
 
-  //   // ARRAY
-  const ArrColor = [
-    colors.purpleLighter,
-    colors.lavenderMist,
-    colors.softLilac,
-    colors.mutedViolet,
-    colors.LavenderPurple,
-    colors.DeepPurple,
-    colors.VioletShadow,
-  ];
-  const Emojis =[
-   " 📍",
-  "  🎨",
-   " 👾",
-   " 🖤",
-   " 🤩",
-   " 📚",
-  ];
   // MAIN RENDER
   return (
     <AboutContainer>
@@ -39,18 +49,22 @@ const About = () => {
           <Photo src="https://ik.imagekit.io/ppayaz/iselalarcon/about/final4_KhMS7Hfea.jpg?updatedAt=1702909926599" alt="Photo" />
           <Greetings>{translate("about.title")}</Greetings>
         </Header>
-        <ContentWrapper>
+         <ContentWrapper>
             <FirstRow>
-              <ContentCard bgColor={ArrColor[1]} subtitle={translate("about.subtitle1")} text={translate("about.description1")} emoji ={Emojis[0]} />
-              <ContentCard bgColor={ArrColor[1]}  subtitle={translate("about.subtitle2")} text={translate("about.description2")} emoji ={Emojis[1]} />
+            {dataContent.slice(0,2).map((data,index) => (
+              <ContentCard key={index} bgColor= {colors.lavenderMist} subtitle={data.subtitle} text={data.text}/>
+            ))}
             </FirstRow>
             <SecondRow>
-              <ContentCard bgColor={ArrColor[1]} subtitle={translate("about.subtitle3")} text={translate("about.description3")} emoji ={Emojis[2]} />
-              <ContentCard bgColor={ArrColor[1]} subtitle={translate("about.subtitle4")} text={translate("about.description4")} emoji ={Emojis[3]} />   
+            {dataContent.slice(2,4).map((data,index) => (
+              <ContentCard key={index} bgColor= {colors.lavenderMist} subtitle={data.subtitle} text={data.text} />
+            ))}
+          
             </SecondRow>
             <ThirdRow>
-              <ContentCard bgColor={ArrColor[1]}  subtitle={translate("about.subtitle5")} text={translate("about.description5")} emoji ={Emojis[5]}/>
-              <ContentCard bgColor={ArrColor[1]}  subtitle={translate("about.subtitle6")} text={translate("about.description6")} emoji ={Emojis[4]} />
+            {dataContent.slice(4,6).map((data,index) => (
+              <ContentCard key={index} bgColor= {colors.lavenderMist} subtitle={data.subtitle} text={data.text}/>
+            ))}
             </ThirdRow>
         </ContentWrapper>
       </MainWrapper>

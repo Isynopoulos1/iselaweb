@@ -25,7 +25,7 @@ export const projects = [
   },
   {
     tags: ["label.filter1", "label.filter3"],
-    href: "Loopz",
+    href: "loopz",
     alt: "loopz",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/loopz-tracker-cover.png?updatedAt=1737560212925",
     title: "Loopz App",
