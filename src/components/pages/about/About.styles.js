@@ -20,7 +20,7 @@ export const MainWrapper =styled.div`
   flex-direction: column;
   align-items: center;
   height: auto;
-  gap: ${spacing.tiny};
+  gap: ${spacing.xss};
   max-width:${spacing.super};
   @media only screen and (max-width: 840px) {
     width: 100%;
@@ -37,7 +37,6 @@ export const Header = styled.div`
   justify-content: center;
   background-color: ${colors.lavenderMist};
   border-radius:${spacing.tiny};
-  border: 1px solid hsla(250, 100%, 84%, 1);
   @media only screen and (max-width: 840px) {
    flex-direction: column;
    gap: ${spacing.tiny};
@@ -59,7 +58,7 @@ export const Photo = styled.img`
   display: flex;
   width: 100%;
   flex-direction: column;
-  gap: ${spacing.tiny};
+  gap: ${spacing.xss};
  `;
 export const Greetings = styled.h2`
   display:flex;
@@ -80,7 +79,7 @@ export const Greetings = styled.h2`
 
 export const FirstRow = styled.div`
   display: flex;
-  gap: ${spacing.tiny};
+  gap: ${spacing.xss};
   width: 100%;
   justify-content: center;
   text-align: left;
@@ -97,7 +96,7 @@ export const FirstRow = styled.div`
 export const SecondRow = styled.div`
   display: flex;
   width: 100;
-  gap: ${spacing.tiny};
+  gap: ${spacing.xss};
   @media only screen and (max-width: 840px) {
    flex-direction: column;
   }
@@ -105,7 +104,7 @@ export const SecondRow = styled.div`
 export const ThirdRow = styled.div`
   display: flex;
   width: 100;
-  gap: ${spacing.tiny};
+  gap: ${spacing.xss};
   margin-bottom: ${spacing.xss};
   @media only screen and (max-width: 840px) {
    flex-direction: column;
