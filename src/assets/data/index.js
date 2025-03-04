@@ -43,7 +43,7 @@ export const projects = [
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/app-flow.png?updatedAt=1737546041781",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/buttons-properties.png?updatedAt=1737546028289",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/tokens.png?updatedAt=1737545996059",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/tokens.png?updatedAt=1741115433050",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/Loopz/component-example.png?updatedAt=1737546012217"
     ]
   },
