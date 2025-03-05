@@ -6,7 +6,7 @@ import { getTranslate } from "r1-localize";
 import { projects } from "@assets/data";
 
 // IMPORT COMPONENT
-import Square from "@elements/square/Square";
+import ProductImage from "@elements/productImage/ProductImage";
 
 //IMPORT STYLES
 import {
@@ -80,7 +80,7 @@ const Work = ({ match }) => {
       </Tools>
       <ProjectContainer>
         {project?.images.map((img, i) => (
-          <Square key={i} src={img} index={i} onClick={() => handleSelect(img)} />
+          <ProductImage key={i} src={img} index={i} onClick={() => handleSelect(img)} />
         ))}
       </ProjectContainer>
     </MainProject>

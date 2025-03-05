@@ -6,7 +6,7 @@ import { HeaderContainer, SubContainer } from "./Header.styles";
 
 //IMPORT COMPONENTS
 import AsideMenu from "@elements/asideMenu/AsideMenu";
-import LogoDesktop from "@elements/logo/LogoDesktop";
+import Logo from "@elements/logo/Logo";
 import Menu from "@elements/menu/Menu";
 
 const Header = () => {
@@ -18,7 +18,7 @@ const Header = () => {
       <HeaderContainer>
         <SubContainer>
           <Link to="/" onClick={() => setOpen(false)}>
-            <LogoDesktop color="black" width="150px" />
+            <Logo color="black" width="150px" />
           </Link>
           {isOpen && <AsideMenu setOpen={setOpen} />}
           <Menu isOpen={isOpen} setOpen={setOpen} color="black" width="150px" />

@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { colors, sizes, fonts } from "@styles";
 
-export const SquareWrapper = styled.div`
+export const ProductImageWrapper = styled.div`
   position: relative;
   cursor: pointer;
   overflow: hidden;
@@ -20,7 +20,7 @@ export const SquareWrapper = styled.div`
   }
 `;
 
-export const SquareImage = styled.img`
+export const ContainerImage = styled.img`
   position: relative;
   height: 100%;
   transition: transform 0.3s ease;
