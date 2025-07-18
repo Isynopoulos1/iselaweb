@@ -2,11 +2,9 @@
   "menu.about": "Acerca de mí ",
   "menu.works": "Proyectos",
   "menu.contact": "Contacto",
-
   "footer": {
     "copyright": "Copyright {year} IselAlarcon© | All rights reserved"
   },
-
   "about.title": "Hola, soy Isela👋🏽",
   "about.description1": "Soy desarrolladora Frontend con base en Barcelona y tengo experiencia como diseñadora UX-UI. Me apasiona combinar diseño, experiencia de usuario y código para crear productos que se sientan tan bien como se ven.",
   "about.description2": "Diseño y mantengo sistemas de diseño escalables, comenzando en Figma, cuidando cada detalle y luego dándoles vida en React para una experiencia fluida y coherente.",
