@@ -313,7 +313,7 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_05.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_02.png",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_03.jpg",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_04.png"
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_04.jpg"
     ],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/deliverapp/delivery_01.mp4"
   },
