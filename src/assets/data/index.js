@@ -227,7 +227,7 @@ export const projects = [
     tools: ["project.ppayaz.tool1", "project.ppayaz.tool2", "project.ppayaz.tool3"],
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_01.mp4",
     images: [
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_02.jpg",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_01.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_03.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_04.jpg",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/ppayaz/ppayaz_05.jpg"
