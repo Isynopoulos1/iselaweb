@@ -2,13 +2,11 @@
   "menu.about": "Acerca de mí ",
   "menu.works": "Proyectos",
   "menu.contact": "Contacto",
-
   "footer": {
     "copyright": "Copyright {year} IselAlarcon© | All rights reserved"
   },
-
   "about.title": "Hola, soy Isela👋🏽",
-  "about.description": "Soy desarrolladora Frontend en Barcelona con experiencia en UX/UI. Me encanta combinar diseño, experiencia de usuario y código para crear productos que se sientan tan bien como se ven.",
+  "about.description1": "Soy desarrolladora Frontend con base en Barcelona y tengo experiencia como diseñadora UX-UI. Me apasiona combinar diseño, experiencia de usuario y código para crear productos que se sientan tan bien como se ven.",
   "about.description2": "Diseño y mantengo sistemas de diseño escalables, comenzando en Figma, cuidando cada detalle y luego dándoles vida en React para una experiencia fluida y coherente.",
   "about.description3": "Moverme entre diseño y desarrollo me permite crear soluciones intuitivas y funcionales. Se trata de diseñar experiencias que simplemente funcionan.",
   "about.description4": "Un lugar donde la creatividad, la colaboración y la buena energía fluyan. Trabajar con personas talentosas y con mentalidad de equipo marca la diferencia, y eso es justo lo que busco.",
@@ -16,10 +14,10 @@
   "about.description6": "Fotografiar perros en Barcelona, practicar yoga, explorar arquitectura, descubrir música y videojuegos, crear a mano, leer, disfrutar de la comida y momentos de bienestar.",
   "about.subtitle1":"📍Lo Que Hago",
   "about.subtitle2":"🎨 Cómo Trabajo",
-  "about.subtitle3":"👾Por Qué Amo Lo Que Hago",
-  "about.subtitle4":"🖤El Tipo de Equipo en el Que Me Encantaría Estar",
-  "about.subtitle5":"🤩Siempre Aprendiendo, Siempre Creciendo",
-  "about.subtitle6":"📚Lo Que Me Inspira",
+  "about.subtitle3":"👾 Por Qué Amo Lo Que Hago",
+  "about.subtitle4":"🖤 El Tipo de Equipo en el Que Me Encantaría Estar",
+  "about.subtitle5":"🤩 Siempre Aprendiendo, Siempre Creciendo",
+  "about.subtitle6":"📚 Lo Que Me Inspira",
   
   "contact.cta": "¿Hablamos?",
   "contact.name": "Nombre",
@@ -328,7 +326,19 @@
   "project.gerber.process2": "Lanzamos una dinámica en redes sociales invitando a las familias a compartir sus fotos favoritas para celebrar el Día del Padre. Respondimos a cada participación con un marco conmemorativo personalizado que incluía la foto enviada.",
   "project.gerber.process3": "El video y las fotos compartidas por los usuarios se mostraron en el sitio web oficial de la marca y en redes sociales, logrando generar cercanía con la audiencia de Gerber.",
   "project.gerber.tool1": "Herramientas:",
-  "project.gerber.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere"
+  "project.gerber.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere",
+  "project.cultura.contextSub": "Contexto",
+  "project.cultura.context": "Cultura Inquieta es una plataforma dedicada a promover la cultura, el arte, la comunicación, la creatividad y la organización de programas culturales. Online es una de las referencias culturales más importantes de Europa.",
+  "project.cultura.userSub": "Usuario I Persona",
+  "project.cultura.user": "Usuarios de Instagram que apoyan el feminismo y siguen a Cultura Inquieta o muestran interés en temas similares.",
+  "project.cultura.mainCha": "Principales desafíos",
+  "project.cultura.objective1": "Conmemorar el Día Internacional de la Mujer destacando a mujeres pioneras a lo largo de la historia.",
+  "project.cultura.action": "Proceso",
+  "project.cultura.process1": "Con frecuencia, las mujeres se definen a sí mismas con estereotipos. Sin embargo, muchas han redefinido estos estereotipos mediante sus ideas y acciones, aunque a menudo pasan desapercibidas.",
+  "project.cultura.process2": "Para visibilizar a estas mujeres pioneras en el Día Internacional de la Mujer, creamos un video que las destaca mediante la herramienta más usada del mundo: el buscador de internet.",
+  "project.cultura.process3": "El video presenta a mujeres que transformaron los estereotipos más comunes, animando a otras a inspirarse en sus logros.",
+  "project.cultura.tool1": "Herramientas:",
+  "project.cultura.tool2": "Diseño de Interfaz: Photoshop, Illustrator, After Effects, Premiere"
 
 
 }
