@@ -164,7 +164,7 @@ export const projects = [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/luis_cuevas/luis_cuevas_2.jpg?updatedAt=1776610829504",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/luis_cuevas/luis_cuevas_1.jpg?updatedAt=1776610807070"
     ],
-    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/luis_cuevas/fltter-video.mp4?updatedAt=1681658259687"
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/luis_cuevas/luis_cuevas_360.mp4?updatedAt=1776614913243"
   },
   {
     tags: ["label.filter1", "label.filter3", "label.filter2"],
