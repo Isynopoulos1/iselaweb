@@ -12,14 +12,14 @@
   "about.description2": "I design and maintain scalable design systems—starting in Figma, refining every detail, and then bringing them to life with React for a smooth, cohesive experience.",
   "about.description3": "Jumping between design and development helps me create seamless, user-friendly solutions that actually make sense. It’s all about crafting experiences that just work.",
   "about.description4": "A place where creativity, collaboration, and good energy thrive. Working with talented, supportive people makes all the difference, and I’m all about that.",
-  "about.description5":"Tech and design move fast, and I love keeping up—whether it's through courses, blogs, or being part of the UX and dev community.",
+  "about.description5": "Tech and design move fast, and I love keeping up—whether it's through courses, blogs, or being part of the UX and dev community.",
   "about.description6": "Photographing dogs in Barcelona, practicing yoga, exploring architecture, discovering music and video games, creating by hand, reading, enjoying food, and moments of well-being.",
-  "about.subtitle1":"📍 What I Do",
-  "about.subtitle2":" 🎨 How I Work",
-  "about.subtitle3":"👾 Why I Love What I Do",
-  "about.subtitle4":"🖤 The Kind of Team I’d Love to Join",
-  "about.subtitle5":" 🤩 Always Learning, Always Growing",
-  "about.subtitle6":"📚 What Keeps Me Inspired",
+  "about.subtitle1": "📍 What I Do",
+  "about.subtitle2": " 🎨 How I Work",
+  "about.subtitle3": "👾 Why I Love What I Do",
+  "about.subtitle4": "🖤 The Kind of Team I’d Love to Join",
+  "about.subtitle5": " 🤩 Always Learning, Always Growing",
+  "about.subtitle6": "📚 What Keeps Me Inspired",
 
   "contact.cta": "Let's talk!",
   "contact.name": "Name",
@@ -32,8 +32,6 @@
   "label.filter3": "Animation",
   "label.filter4": "Design",
 
-  
-    
   "project.archsplace.contextSub": "Context",
   "project.archsplace.context": "Archsplace is an online platform offering professional design services in Architecture, Interior Design, Decoration, and Landscaping. As a frontend developer, I maintained and built a design system to unify visual components and improve accessibility.",
   "project.archsplace.challenges": "A key challenge was making all components accessible to everyone. We also had to keep the design consistent across different platforms and devices, which made integrating design with code more complex.",
@@ -56,8 +54,7 @@
   "project.archsplace.tool3": "Storybook for documenting and testing components.",
   "project.archsplace.tool4": "Accessibility plugins like Stark and Contrast in Figma.",
   "project.archsplace.tool5": "Development: React, Node.js, CSS, styled-components.",
-  
-  
+
   "project.loopz.contextSub": "Context",
   "project.loopz.context": "Loopz is a concert tracking app, designed as a case study showcasing advanced techniques in Figma.",
   "project.loopz.mainCha": "Main Challenges",
@@ -132,6 +129,21 @@
   "project.flitter.tool3": "Backend: Node.js, MongoDB Atlas, JWT, Express",
   "project.flitter.tool4": "Interface Design: Figma, Photoshop, Illustrator, After Effects, Premiere.",
 
+  "project.luis_cuevas.contextSub": "Context",
+  "project.luis_cuevas.context": "Luis Cuevas is a financial advisor based in Mexico City whose approach combines financial strategy and behavioral economics. He also maintains an active presence on social media and hosts a podcast on Spotify, “Libros & Dinero”, where he connects finance and learning.",
+  "project.luis_cuevas.userSub": "User | Persona",
+  "project.luis_cuevas.user": "Young professionals interested in improving their finances, seeking clarity, sustainable habits, and consuming educational digital content.",
+  "project.luis_cuevas.mainCha": "Main challenges and objective",
+  "project.luis_cuevas.objective1": "To create a modern website that reinforces his positioning and works as a content hub.",
+  "project.luis_cuevas.action": "Process",
+  "project.luis_cuevas.process1": "The website was developed using React + Vite, integrating his visual identity and designing custom cards and icons.",
+  "project.luis_cuevas.process2": "Design & User Interface: I created wireframes, mockups, and prototypes to ensure the app design was intuitive, easy to use, and visually appealing.",
+  "project.luis_cuevas.process3": "A clear structure, strong visual hierarchy, and seamless integration of his social media were prioritized to enhance his digital presence.",
+  "project.luis_cuevas.process4": "Take a look at www.luiscuevas360.com",
+  "project.luis_cuevas.tool1": "Tools:",
+  "project.luis_cuevas.tool2": "Development: Vite, React, JavaScript, CSS, Git",
+  "project.luis_cuevas.tool3": "UI Design: Figma, Photoshop, Illustrator, After Effects, Premiere",
+
   "project.lozano.contextSub": "Context",
   "project.lozano.context": "Irlanda Lozano Studio is a professional event production and brand experience studio with international reach.",
   "project.lozano.userSub": "User I Persona",
@@ -200,9 +212,8 @@
   "project.finances.process5": "Technical development:  Built the application entirely using Javascript, utilizing DOM manipulation to ensure an interactive and smooth user experience.",
   "project.finances.process6": "Focused on delivering a clean and accessible design for intuitive user interaction.",
   "project.finances.tool1": "Tools:",
-  "project.finances.tool2":"Development: Javascript, HTML, CSS, MongoDB",
+  "project.finances.tool2": "Development: Javascript, HTML, CSS, MongoDB",
   "project.finances.tool3": "Interface Design: Figma",
-
 
   "project.pw.contextSub": "Context",
   "project.pw.context": "One of the things I love about Barcelona is that it is a pet-friendly city. Inspired by it, this project showcases a collection of random photos I've taken of dogs waiting for their owners outside stores, supermarkets, bakeries, and more. Perritos Waiting was a project I created during a professional program using CSS and HTML.",
@@ -283,7 +294,7 @@
   "project.nexter.tool2": "Development: CSS, SASS, Typescript",
   "project.nexter.tool3": "Interface Design: Photoshop, Illustrator, After Effects",
 
-  "project.paypal.contextSub":"Context",
+  "project.paypal.contextSub": "Context",
   "project.paypal.context": "To celebrate its fifth anniversary, in 2015 PayPal launched PayPal Fest, a promotional festival showcasing never-before-seen digital deals in Mexico. This event honors PayPal as the most popular digital payment method for online shoppers across multiple devices.",
   "project.paypal.userSub": "User I Persona",
   "project.paypal.user": "Millennials who embrace new trends like mobile commerce and prioritize convenience in digital transactions.",
@@ -294,7 +305,6 @@
   "project.paypal.process2": "Designed a versatile digital toolkit, emphasizing popular digital products on PayPal’s platform.",
   "project.paypal.tool1": "Tools:",
   "project.paypal.tool2": "Interface Design: Photoshop, Illustrator, After Effects",
-
 
   "project.movistar.contextSub": "Context",
   "project.movistar.context": "Movistar is the flagship brand of Telefónica, a Spanish multinational communications company, offering products in telephony, internet, and television across Spain and Latin America.",

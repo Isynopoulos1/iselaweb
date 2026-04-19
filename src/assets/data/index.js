@@ -145,6 +145,28 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/flitter/fltter-video.mp4?updatedAt=1681658259687"
   },
   {
+    tags: ["label.filter2", "label.filter1"],
+    href: "luis_cuevas_360",
+    alt: "Luis Cuevas 360 cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/luis_cuevas/luis_cuevas.jpg?updatedAt=1776611383634",
+    title: "Luis Cuevas 360",
+    category: "Development | UX-UI | Branding ",
+    contextSub: "project.luis_cuevas.contextSub",
+    context: "project.luis_cuevas.context",
+    userSub: "project.luis_cuevas.userSub",
+    mainCha: "project.luis_cuevas.mainCha",
+    objective: ["project.luis_cuevas.objective1"],
+    action: "project.luis_cuevas.action",
+    user: "project.luis_cuevas.user",
+    process: ["project.luis_cuevas.process1", "project.luis_cuevas.process2", "project.luis_cuevas.process3", "project.luis_cuevas.process4"],
+    tools: ["project.luis_cuevas.tool1", "project.luis_cuevas.tool2", "project.luis_cuevas.tool3"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/luis_cuevas/luis_cuevas_2.jpg?updatedAt=1776610829504",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/luis_cuevas/luis_cuevas_1.jpg?updatedAt=1776610807070"
+    ],
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/luis_cuevas/fltter-video.mp4?updatedAt=1681658259687"
+  },
+  {
     tags: ["label.filter1", "label.filter3", "label.filter2"],
     href: "lozano-studio",
     alt: "Lozano cover",
