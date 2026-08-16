@@ -5,8 +5,8 @@ export const projects = [
     alt: "Kanban Studio cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-cover.png?updatedAt=1786873827165",
     title: "Kanban Studio",
-    category: "Development | UX-UI",
-    video: "",
+    category: "Development | UX-UI | AI",
+    video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-case.mp4?updatedAt=1786887221862",
     contextSub: "project.kanban.contextSub",
     context: "project.kanban.context",
     userSub: "project.kanban.userSub",
@@ -25,13 +25,13 @@ export const projects = [
     tools: ["project.kanban.tool1", "project.kanban.tool2", "project.kanban.tool3"],
     images: [
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-1.png?updatedAt=1786873803552",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-2.png?updatedAt=1786873791088",
-      "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-3.png?updatedAt=1786873814603",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-2.png?updatedAt=1786886240058",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-3.png?updatedAt=1786886201393",
       "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-4.png?updatedAt=1786873777249"
     ]
   },
   {
-    tags: ["label.filter2", "label.filter3", "label.filter4"],
+    tags: ["label.filter1", "label.filter2", "label.filter4"],
     href: "archsplace",
     alt: "archsplace",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/archsplace-cover.png?updatedAt=1739881764899",
@@ -104,7 +104,7 @@ export const projects = [
     alt: "Wedding cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ia-cover_zIcFcHK21_OyOv-o-Gy.png?updatedAt=1719847921894",
     title: "Wedding website",
-    category: "Development | UX-UI",
+    category: "Development | UX-UI | Design",
     contextSub: "project.wedding.contextSub",
     context: "project.wedding.context",
     userSub: "project.wedding.userSub",
@@ -146,7 +146,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/ia/ia-05.mp4"
   },
   {
-    tags: ["label.filter5", "label.filter3"],
+    tags: ["label.filter1", "label.filter2"],
     href: "flitter",
     alt: "Flitter cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/flitter-cover_LcfLJ5SvY.jpg?updatedAt=1681577656173",
@@ -223,7 +223,7 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/lozano_studio/irlanda_01.mp4"
   },
   {
-    tags: ["label.filter1", "label.filter3"],
+    tags: ["label.filter1", "label.filter3", "label.filter4"],
     href: "nixi",
     alt: "Nixi cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/nixi_2QtdgCJfR.png",
@@ -260,7 +260,7 @@ export const projects = [
     alt: "ppayaz cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/ppayaz-cover_1hdPX-yqn.png",
     title: "P'payaz ",
-    category: "Development | UX-UI | Branding | Art Direction | Animation",
+    category: "Development | UX-UI | Branding | Art Direction | Animation | Design",
     contextSub: "project.nixi.contextSub",
     context: "project.ppayaz.context",
     userSub: "project.ppayaz.userSub",
@@ -288,7 +288,7 @@ export const projects = [
   },
 
   {
-    tags: ["label.filter4", "label.filter3"],
+    tags: ["label.filter1", "label.filter2"],
     href: "finances-app",
     alt: "Finances",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/finances-cover_mfdR4DBaa.jpg?updatedAt=1681740021316",
@@ -317,12 +317,12 @@ export const projects = [
     video: "https://ik.imagekit.io/ppayaz/iselalarcon/works/finances-app/finances-video.mp4?updatedAt=1681754561236"
   },
   {
-    tags: ["label.filter4", "label.filter3"],
+    tags: ["label.filter1", "label.filter2", "label.filter4"],
     href: "perritos-waiting",
     alt: "Pw cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/covers/perritos-cover_kGVZ2bOPj.jpg?updatedAt=1681664275148",
     title: "Perritos Waiting",
-    category: "Development | UX-UI | Branding ",
+    category: "Development | UX-UI | Branding | Design",
     contextSub: "project.pw.contextSub",
     context: "project.pw.context",
     userSub: "project.pw.userSub",
