@@ -31,6 +31,7 @@
   "label.filter2": "Development",
   "label.filter3": "Animation",
   "label.filter4": "Design",
+  "label.filter6": "AI",
 
   "project.kanban.contextSub": "Context",
   "project.kanban.context": "Kanban Studio is a project management app with a card board, drag and drop, and a built-in AI assistant that creates, edits, and moves cards from a side chat. More than the product, the project is a case study on how to direct AI agents to ship complete software without writing the code by hand.",

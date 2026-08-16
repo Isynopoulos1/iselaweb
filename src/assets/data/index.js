@@ -1,6 +1,6 @@
 export const projects = [
   {
-    tags: ["label.filter2", "label.filter1"],
+    tags: ["label.filter6", "label.filter2", "label.filter1"],
     href: "kanban-studio",
     alt: "Kanban Studio cover",
     cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-cover.png?updatedAt=1786873827165",
@@ -465,4 +465,4 @@ export const projects = [
   }
 ];
 
-export const labels = ["label.filter1", "label.filter2", "label.filter3", "label.filter4"];
+export const labels = ["label.filter6", "label.filter1", "label.filter2", "label.filter3", "label.filter4"];

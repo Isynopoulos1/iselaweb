@@ -29,6 +29,7 @@
   "label.filter2": "Programación",
   "label.filter3": "Animación",
   "label.filter4": "Diseño",
+  "label.filter6": "IA",
 
   "project.kanban.contextSub": "Contexto",
   "project.kanban.context": "Kanban Studio es una aplicación de gestión de proyectos con tablero de tarjetas, arrastrar y soltar, y un asistente de IA integrado que crea, edita y mueve tarjetas desde un chat lateral. Más que el producto, el proyecto es un caso de estudio sobre cómo dirigir agentes de IA para entregar software completo sin escribir el código a mano.",
