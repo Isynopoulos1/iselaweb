@@ -1,5 +1,36 @@
 export const projects = [
   {
+    tags: ["label.filter2", "label.filter1"],
+    href: "kanban-studio",
+    alt: "Kanban Studio cover",
+    cover: "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-cover.png?updatedAt=1786873827165",
+    title: "Kanban Studio",
+    category: "Development | UX-UI",
+    video: "",
+    contextSub: "project.kanban.contextSub",
+    context: "project.kanban.context",
+    userSub: "project.kanban.userSub",
+    mainCha: "project.kanban.mainCha",
+    objective: ["project.kanban.objective1", "project.kanban.objective2"],
+    action: "project.kanban.action",
+    user: "project.kanban.user",
+    process: [
+      "project.kanban.process1",
+      "project.kanban.process2",
+      "project.kanban.process3",
+      "project.kanban.process4",
+      "project.kanban.process5",
+      "project.kanban.process6"
+    ],
+    tools: ["project.kanban.tool1", "project.kanban.tool2", "project.kanban.tool3"],
+    images: [
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-1.png?updatedAt=1786873803552",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-2.png?updatedAt=1786873791088",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-3.png?updatedAt=1786873814603",
+      "https://ik.imagekit.io/ppayaz/iselalarcon/works/kanban/kanban-4.png?updatedAt=1786873777249"
+    ]
+  },
+  {
     tags: ["label.filter2", "label.filter3", "label.filter4"],
     href: "archsplace",
     alt: "archsplace",
